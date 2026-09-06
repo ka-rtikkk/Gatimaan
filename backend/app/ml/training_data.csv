@@ -1,0 +1,3001 @@
+criticality,urgency,safety_risk,asset_importance,overdue,duration_hours,days_until_due,department,asset_type,task_type,corridor_id,high_delay_risk
+1,4,4,3,False,5.31,55,Traction Distribution,Signal,Repair,HWH-KOL,0
+4,4,5,1,True,1.85,24,Traction Distribution,Signal,Testing,DEL-AGR,0
+4,5,4,4,False,3.19,32,S&T,Bridge,Overhaul,MUM-PUN,1
+3,5,3,3,True,0.66,12,Engineering,Track,Inspection,BPL-NGP,1
+3,4,3,4,True,0.55,52,S&T,Track,Testing,BPL-NGP,0
+5,2,2,4,False,4.38,-9,S&T,Signal,Inspection,MAS-BLR,1
+1,3,2,4,False,1.15,6,Traction Distribution,Point Machine,Repair,BPL-NGP,0
+4,3,4,3,False,3.51,60,Engineering,Bridge,Overhaul,MUM-PUN,1
+2,4,1,1,False,4.33,22,Engineering,OHE,Replacement,BPL-NGP,0
+1,5,1,1,False,0.68,-1,Engineering,OHE,Replacement,MAS-BLR,0
+3,2,2,3,False,2.97,17,Engineering,Bridge,Testing,BPL-NGP,0
+5,3,4,2,False,4.26,5,S&T,Track,Overhaul,BPL-NGP,0
+4,1,4,4,True,5.39,25,Engineering,Bridge,Testing,HWH-KOL,1
+4,4,3,3,False,2.15,3,Engineering,Signal,Repair,MAS-BLR,0
+4,3,3,5,True,5.86,15,S&T,Signal,Testing,MUM-PUN,0
+4,3,1,1,True,5.14,54,Traction Distribution,Bridge,Repair,HWH-KOL,0
+3,3,2,2,True,4.08,-8,S&T,Point Machine,Testing,MUM-PUN,1
+1,2,1,4,False,2.66,43,Engineering,OHE,Replacement,DEL-AGR,0
+5,3,4,1,False,4.41,-9,Engineering,Signal,Replacement,BPL-NGP,1
+3,4,4,2,False,4.99,20,Traction Distribution,OHE,Inspection,DEL-AGR,1
+3,2,2,4,False,2.17,36,S&T,Point Machine,Testing,MUM-PUN,0
+2,1,2,3,False,5.96,57,S&T,Track,Repair,BPL-NGP,0
+1,2,2,4,True,5.5,4,Traction Distribution,Track,Replacement,MUM-PUN,0
+5,1,5,3,False,3.17,-11,S&T,Signal,Inspection,MAS-BLR,1
+4,2,3,5,False,4.48,42,S&T,OHE,Testing,DEL-AGR,1
+4,4,4,5,False,3.38,53,Traction Distribution,Bridge,Repair,HWH-KOL,1
+3,1,3,5,True,4.69,28,Engineering,Signal,Overhaul,DEL-AGR,0
+5,4,4,1,True,5.05,-10,S&T,Point Machine,Overhaul,DEL-AGR,0
+3,2,3,3,False,0.63,23,S&T,Bridge,Replacement,BPL-NGP,0
+3,5,2,1,True,0.94,15,Engineering,OHE,Inspection,DEL-AGR,0
+3,4,5,2,False,2.35,19,Engineering,Bridge,Repair,MAS-BLR,0
+2,2,4,2,False,5.55,-10,Traction Distribution,Bridge,Overhaul,HWH-KOL,0
+1,3,4,4,True,2.69,9,Engineering,Point Machine,Replacement,HWH-KOL,0
+3,1,5,3,True,5.38,60,S&T,Signal,Replacement,MAS-BLR,1
+5,1,2,5,False,3.04,-11,S&T,Signal,Repair,MUM-PUN,1
+1,5,1,2,False,2.09,54,Engineering,Bridge,Replacement,MUM-PUN,0
+5,5,3,4,False,5.45,24,Engineering,OHE,Inspection,HWH-KOL,1
+5,1,2,4,False,3.58,29,S&T,Track,Replacement,BPL-NGP,1
+2,2,3,5,False,2.48,56,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+4,1,2,2,False,0.74,2,S&T,Signal,Overhaul,HWH-KOL,0
+1,2,2,4,False,1.11,59,S&T,Bridge,Replacement,MUM-PUN,0
+4,2,2,1,True,1.27,6,S&T,Bridge,Testing,MAS-BLR,1
+4,2,2,3,False,2.51,12,Traction Distribution,Track,Replacement,HWH-KOL,1
+2,3,4,3,False,3.84,19,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+1,1,3,5,False,2.19,31,Engineering,Bridge,Repair,HWH-KOL,0
+5,5,3,4,False,0.86,10,S&T,Point Machine,Testing,DEL-AGR,1
+3,4,1,5,False,1.96,45,S&T,Signal,Testing,MAS-BLR,0
+5,4,3,5,True,2.75,-13,Engineering,Point Machine,Inspection,BPL-NGP,1
+4,1,1,3,False,5.96,35,Traction Distribution,Bridge,Overhaul,MUM-PUN,0
+4,4,2,4,False,2.66,35,Engineering,Bridge,Replacement,MAS-BLR,1
+4,5,3,1,False,0.99,26,Traction Distribution,OHE,Repair,DEL-AGR,1
+1,1,1,3,False,3.7,32,Engineering,Point Machine,Replacement,MAS-BLR,0
+2,4,2,1,False,5.56,42,S&T,Signal,Testing,HWH-KOL,0
+3,2,2,4,False,4.83,53,Traction Distribution,Signal,Inspection,HWH-KOL,1
+3,4,5,5,True,5.1,2,S&T,Point Machine,Testing,DEL-AGR,1
+1,3,5,4,True,5.61,21,Engineering,OHE,Inspection,DEL-AGR,0
+3,5,1,5,True,4.0,28,Engineering,Signal,Overhaul,BPL-NGP,1
+1,1,4,2,False,5.97,11,S&T,Point Machine,Inspection,HWH-KOL,0
+4,2,4,5,False,0.68,59,Traction Distribution,Signal,Inspection,DEL-AGR,0
+4,2,2,3,False,5.09,24,S&T,OHE,Inspection,BPL-NGP,0
+5,2,3,4,False,5.21,30,Engineering,Signal,Testing,BPL-NGP,0
+4,2,4,4,False,5.54,0,Traction Distribution,Bridge,Replacement,MUM-PUN,1
+2,2,2,4,True,3.13,17,S&T,Bridge,Overhaul,BPL-NGP,0
+5,1,1,2,False,4.83,32,Engineering,OHE,Inspection,MAS-BLR,0
+3,4,2,4,False,1.57,18,S&T,Point Machine,Testing,HWH-KOL,0
+2,3,2,4,False,3.82,43,Engineering,Track,Testing,MUM-PUN,1
+5,5,2,5,False,2.47,-4,Traction Distribution,Bridge,Replacement,MAS-BLR,1
+2,4,2,3,False,3.78,-3,Traction Distribution,Signal,Testing,MAS-BLR,1
+1,1,1,3,False,4.22,11,Engineering,Bridge,Inspection,HWH-KOL,1
+3,1,5,3,True,2.41,9,S&T,Bridge,Repair,HWH-KOL,0
+4,3,1,1,False,1.69,47,Engineering,Track,Inspection,MAS-BLR,1
+1,3,4,1,True,2.27,51,S&T,Track,Inspection,DEL-AGR,1
+3,2,4,1,True,4.15,21,Engineering,Point Machine,Testing,MUM-PUN,0
+1,4,4,4,True,4.22,23,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+4,3,5,3,False,4.58,8,Engineering,Point Machine,Overhaul,BPL-NGP,1
+3,4,1,5,False,1.2,25,Traction Distribution,Track,Testing,BPL-NGP,0
+2,1,2,4,False,5.0,38,Engineering,Point Machine,Overhaul,MUM-PUN,0
+2,5,1,1,False,4.28,40,Engineering,Signal,Repair,MAS-BLR,0
+3,2,3,1,True,0.67,58,Traction Distribution,Bridge,Repair,BPL-NGP,0
+4,3,4,2,False,2.35,29,Traction Distribution,Bridge,Inspection,HWH-KOL,0
+5,3,5,5,True,3.07,11,Engineering,Point Machine,Testing,MAS-BLR,1
+3,5,2,1,True,2.48,-9,Engineering,OHE,Testing,DEL-AGR,0
+1,2,2,1,False,1.15,37,Traction Distribution,Signal,Replacement,BPL-NGP,0
+5,2,5,1,True,1.64,46,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+4,2,4,3,True,0.64,27,S&T,Track,Testing,BPL-NGP,1
+4,2,4,5,False,1.01,55,Engineering,Track,Repair,HWH-KOL,0
+1,1,3,4,False,1.96,9,Engineering,Track,Replacement,MUM-PUN,0
+2,1,3,3,False,5.01,-11,Engineering,OHE,Testing,MUM-PUN,0
+4,2,2,1,False,3.4,33,Traction Distribution,Track,Repair,HWH-KOL,0
+5,3,4,2,False,2.83,-5,Engineering,OHE,Testing,MAS-BLR,1
+3,2,2,3,True,4.14,-8,S&T,Track,Inspection,HWH-KOL,0
+5,2,5,2,True,3.48,38,Traction Distribution,Bridge,Replacement,DEL-AGR,1
+5,4,1,4,False,1.22,18,Engineering,OHE,Replacement,HWH-KOL,1
+2,2,3,5,False,1.72,31,Traction Distribution,Track,Repair,DEL-AGR,0
+5,5,2,2,False,1.72,42,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+2,4,4,2,False,3.8,14,Engineering,Signal,Replacement,HWH-KOL,1
+2,1,4,1,True,3.04,31,Engineering,Signal,Testing,MUM-PUN,0
+4,2,5,4,False,2.63,26,Engineering,Point Machine,Repair,BPL-NGP,0
+4,1,4,3,False,3.56,29,Engineering,Bridge,Repair,HWH-KOL,0
+1,2,2,2,True,5.84,38,Engineering,Bridge,Replacement,HWH-KOL,0
+5,2,2,2,False,2.23,14,Traction Distribution,OHE,Replacement,HWH-KOL,1
+1,1,5,1,True,3.36,23,Engineering,Bridge,Repair,MAS-BLR,1
+5,1,3,3,False,3.14,30,Engineering,Signal,Repair,MAS-BLR,1
+1,3,1,4,False,4.44,-4,Traction Distribution,Bridge,Overhaul,MUM-PUN,0
+4,4,5,2,False,4.52,1,Engineering,Bridge,Repair,MUM-PUN,1
+4,2,4,1,False,4.51,-8,Engineering,OHE,Overhaul,MAS-BLR,0
+4,5,1,3,False,1.61,0,Engineering,OHE,Replacement,BPL-NGP,1
+4,2,4,4,True,2.97,18,Traction Distribution,OHE,Testing,DEL-AGR,1
+3,5,4,2,False,4.96,56,Traction Distribution,Track,Repair,HWH-KOL,1
+4,2,4,2,False,2.6,55,Traction Distribution,Bridge,Testing,DEL-AGR,0
+2,3,5,1,True,5.91,43,Traction Distribution,Point Machine,Replacement,DEL-AGR,1
+4,4,3,4,False,2.51,27,Engineering,Bridge,Inspection,DEL-AGR,1
+3,1,3,5,False,3.24,1,S&T,Track,Overhaul,MUM-PUN,1
+3,5,4,4,False,3.11,12,S&T,Bridge,Repair,DEL-AGR,1
+3,2,1,3,False,2.89,43,Engineering,Signal,Inspection,MAS-BLR,0
+3,3,1,4,False,5.15,54,Traction Distribution,Bridge,Replacement,HWH-KOL,1
+1,4,5,2,False,1.35,58,S&T,Bridge,Overhaul,HWH-KOL,1
+1,4,2,1,True,3.62,15,Traction Distribution,Bridge,Repair,MAS-BLR,1
+2,1,3,2,False,3.9,22,Engineering,Bridge,Overhaul,MAS-BLR,0
+1,5,2,4,True,5.18,24,Traction Distribution,Track,Inspection,MAS-BLR,0
+3,4,2,4,True,3.85,-10,Engineering,Signal,Inspection,DEL-AGR,1
+4,5,3,5,False,5.78,-6,Engineering,Signal,Overhaul,BPL-NGP,0
+4,3,5,5,False,5.3,-11,S&T,OHE,Inspection,MAS-BLR,1
+3,4,3,2,False,2.42,41,Engineering,Bridge,Repair,DEL-AGR,0
+5,3,1,1,True,5.23,2,Engineering,Point Machine,Replacement,MAS-BLR,0
+3,5,2,2,False,5.77,38,Traction Distribution,OHE,Inspection,MAS-BLR,0
+1,5,1,5,False,1.91,14,S&T,Bridge,Testing,MAS-BLR,1
+4,5,5,5,True,3.86,45,S&T,Track,Replacement,MUM-PUN,1
+3,3,2,1,False,2.05,-6,Engineering,Point Machine,Repair,DEL-AGR,0
+4,4,2,1,True,4.07,10,Traction Distribution,OHE,Testing,BPL-NGP,1
+3,2,1,3,False,1.02,1,Traction Distribution,Signal,Replacement,BPL-NGP,1
+3,3,3,4,False,4.54,18,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+1,4,5,5,False,2.81,28,S&T,Bridge,Inspection,MUM-PUN,1
+3,1,3,4,False,3.73,-2,S&T,Bridge,Inspection,DEL-AGR,1
+4,4,4,2,False,0.64,36,Engineering,Bridge,Inspection,MAS-BLR,1
+2,1,1,1,False,4.32,58,Engineering,Bridge,Replacement,HWH-KOL,0
+4,3,1,4,False,3.23,-11,Engineering,OHE,Testing,MAS-BLR,0
+1,3,4,3,True,3.94,-8,S&T,Track,Testing,MAS-BLR,0
+2,3,1,5,True,2.24,57,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+3,3,3,3,False,1.3,34,Traction Distribution,OHE,Inspection,MUM-PUN,0
+5,3,2,3,True,2.89,54,Engineering,Point Machine,Overhaul,MAS-BLR,0
+2,3,1,2,True,5.69,38,Engineering,Track,Overhaul,BPL-NGP,0
+2,3,3,1,True,1.75,39,Engineering,Bridge,Replacement,BPL-NGP,0
+3,3,5,5,False,4.22,-3,Engineering,Bridge,Overhaul,MAS-BLR,1
+5,4,1,5,False,0.77,24,S&T,Bridge,Replacement,MUM-PUN,0
+5,3,5,1,False,4.45,13,Traction Distribution,Track,Overhaul,MUM-PUN,1
+1,4,3,4,False,1.81,48,Engineering,Bridge,Replacement,DEL-AGR,0
+2,5,4,2,False,2.98,-11,Traction Distribution,Point Machine,Inspection,MUM-PUN,0
+5,5,1,3,False,2.52,-13,S&T,Track,Inspection,HWH-KOL,1
+1,1,5,5,False,1.12,27,S&T,OHE,Testing,HWH-KOL,0
+5,4,1,5,False,2.4,58,Traction Distribution,OHE,Replacement,DEL-AGR,0
+2,2,5,1,False,2.43,60,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+5,1,4,2,False,3.37,30,Traction Distribution,Track,Repair,HWH-KOL,0
+2,4,2,5,False,5.85,18,S&T,OHE,Inspection,HWH-KOL,1
+3,1,1,5,False,3.09,6,Engineering,Point Machine,Testing,MAS-BLR,0
+4,5,4,1,True,5.53,60,Traction Distribution,Point Machine,Inspection,HWH-KOL,1
+1,4,1,5,False,3.04,-1,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+3,5,4,3,True,1.09,-5,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+3,4,4,3,True,1.77,24,S&T,Point Machine,Repair,MAS-BLR,1
+4,5,2,1,False,2.74,15,Engineering,Track,Inspection,MAS-BLR,0
+5,1,2,4,False,2.29,23,Engineering,Point Machine,Repair,BPL-NGP,1
+4,5,2,4,False,5.26,53,S&T,Signal,Overhaul,MAS-BLR,1
+3,1,2,4,False,4.23,6,S&T,OHE,Repair,BPL-NGP,0
+3,2,1,4,False,3.68,51,Engineering,OHE,Testing,BPL-NGP,0
+3,1,2,5,False,3.2,1,Traction Distribution,Bridge,Repair,BPL-NGP,1
+5,3,4,5,False,2.68,10,S&T,Signal,Inspection,MAS-BLR,1
+2,4,2,4,False,3.87,-14,Engineering,Signal,Inspection,BPL-NGP,0
+1,2,4,5,False,1.19,36,S&T,Point Machine,Testing,BPL-NGP,0
+2,5,5,4,False,1.39,50,Traction Distribution,Point Machine,Replacement,DEL-AGR,0
+1,4,4,4,False,2.17,52,S&T,Signal,Testing,MAS-BLR,0
+1,4,3,3,False,1.44,-2,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+1,5,2,4,False,4.22,43,Traction Distribution,Bridge,Inspection,DEL-AGR,1
+4,3,5,1,False,0.64,-4,S&T,Bridge,Repair,MUM-PUN,1
+4,2,2,3,False,1.38,33,S&T,Track,Overhaul,MUM-PUN,1
+4,5,3,3,False,5.46,38,Engineering,Signal,Inspection,MUM-PUN,1
+3,3,3,5,False,5.99,-3,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+4,4,4,1,False,3.18,-6,Traction Distribution,Track,Inspection,HWH-KOL,1
+1,2,3,4,False,3.22,-9,S&T,Track,Overhaul,HWH-KOL,0
+5,2,4,1,False,4.75,39,Engineering,Track,Testing,BPL-NGP,0
+3,1,5,5,False,0.7,32,S&T,OHE,Replacement,MUM-PUN,0
+5,2,2,5,True,2.85,-6,Traction Distribution,OHE,Testing,MAS-BLR,1
+1,1,5,2,False,1.05,23,Engineering,Signal,Testing,BPL-NGP,0
+3,4,1,5,False,2.71,45,S&T,Track,Overhaul,MUM-PUN,0
+4,1,5,3,False,5.91,3,S&T,Point Machine,Overhaul,BPL-NGP,1
+3,4,1,5,True,4.64,31,S&T,Bridge,Repair,HWH-KOL,0
+3,5,5,4,False,5.92,7,S&T,Signal,Repair,MUM-PUN,1
+1,4,2,1,False,4.6,5,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+2,3,5,2,False,3.84,15,Engineering,Point Machine,Repair,MUM-PUN,1
+2,1,1,3,False,4.65,12,S&T,OHE,Replacement,DEL-AGR,0
+2,5,3,2,False,4.13,23,Traction Distribution,OHE,Replacement,HWH-KOL,0
+4,1,5,1,False,3.05,1,Traction Distribution,Track,Repair,HWH-KOL,1
+4,4,1,5,True,2.11,15,S&T,Bridge,Repair,DEL-AGR,0
+4,4,2,5,True,3.36,32,Traction Distribution,Bridge,Replacement,BPL-NGP,1
+2,1,1,3,False,1.92,15,Engineering,Point Machine,Repair,MUM-PUN,0
+5,4,2,2,True,3.18,35,S&T,Bridge,Testing,DEL-AGR,1
+1,1,2,1,False,1.3,-6,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+2,2,4,5,False,3.61,-4,S&T,Point Machine,Repair,DEL-AGR,0
+1,5,2,2,True,1.85,50,S&T,Bridge,Testing,BPL-NGP,0
+2,5,1,1,False,2.11,20,S&T,Track,Replacement,DEL-AGR,0
+5,2,1,2,False,3.24,31,S&T,Signal,Overhaul,HWH-KOL,0
+2,5,5,3,False,1.39,41,Traction Distribution,Signal,Overhaul,DEL-AGR,1
+5,5,5,4,False,5.79,-4,S&T,Point Machine,Repair,MUM-PUN,1
+3,4,2,2,False,2.96,58,Engineering,Signal,Overhaul,MAS-BLR,0
+4,1,1,5,True,2.44,17,Engineering,Signal,Repair,BPL-NGP,0
+3,2,1,4,True,0.66,52,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+2,4,5,5,False,5.14,17,S&T,Point Machine,Inspection,DEL-AGR,0
+4,5,4,2,False,3.94,16,Engineering,OHE,Overhaul,MUM-PUN,1
+5,5,4,4,False,2.79,31,Engineering,Track,Inspection,MUM-PUN,1
+2,3,2,2,True,1.85,0,Engineering,Point Machine,Testing,HWH-KOL,0
+4,2,4,4,False,4.6,31,Engineering,OHE,Overhaul,MUM-PUN,0
+2,5,1,4,True,5.7,59,Traction Distribution,Track,Inspection,MAS-BLR,1
+4,2,4,2,False,2.59,34,S&T,Point Machine,Inspection,BPL-NGP,1
+4,2,3,5,False,1.24,-9,S&T,Signal,Inspection,MUM-PUN,1
+3,5,2,5,False,1.1,38,Engineering,OHE,Testing,DEL-AGR,1
+4,3,4,5,False,0.53,-12,Traction Distribution,Bridge,Replacement,HWH-KOL,1
+2,2,4,2,True,4.59,-7,Traction Distribution,Signal,Repair,HWH-KOL,0
+1,1,3,4,False,5.9,7,Traction Distribution,Bridge,Repair,BPL-NGP,0
+1,3,1,1,False,5.96,8,S&T,OHE,Inspection,HWH-KOL,0
+3,5,1,1,True,4.81,-14,S&T,Bridge,Repair,BPL-NGP,1
+5,3,5,5,False,1.39,-13,Engineering,Bridge,Testing,MAS-BLR,1
+1,4,2,1,False,5.88,45,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+3,2,2,5,True,2.3,20,Traction Distribution,Signal,Repair,BPL-NGP,0
+4,4,4,3,False,2.33,0,Engineering,Point Machine,Inspection,MUM-PUN,0
+2,4,2,2,True,4.28,18,S&T,Signal,Repair,MAS-BLR,1
+4,4,2,1,False,0.77,37,Engineering,Bridge,Repair,HWH-KOL,0
+2,4,4,4,True,5.04,41,S&T,Bridge,Inspection,BPL-NGP,1
+5,3,3,4,False,5.99,7,Engineering,Point Machine,Overhaul,MAS-BLR,1
+3,2,4,3,False,4.76,-2,Traction Distribution,Bridge,Overhaul,MUM-PUN,1
+3,4,1,5,False,4.8,57,Traction Distribution,OHE,Testing,DEL-AGR,0
+1,5,3,2,False,2.65,33,Traction Distribution,Track,Repair,MUM-PUN,0
+3,5,3,3,False,0.86,59,Engineering,Bridge,Repair,MUM-PUN,0
+5,2,4,2,False,4.86,9,Engineering,OHE,Testing,DEL-AGR,1
+1,4,1,3,False,3.78,-6,Traction Distribution,Track,Repair,HWH-KOL,0
+4,1,1,1,False,5.5,14,Engineering,Track,Overhaul,MUM-PUN,0
+3,3,4,3,False,1.14,10,S&T,Point Machine,Overhaul,DEL-AGR,0
+4,3,4,3,True,2.18,39,Traction Distribution,Bridge,Testing,DEL-AGR,1
+4,2,5,3,False,2.48,39,S&T,Point Machine,Repair,MUM-PUN,0
+3,5,2,3,False,4.26,-9,Engineering,OHE,Overhaul,MUM-PUN,0
+2,5,5,4,False,4.83,30,Traction Distribution,Signal,Inspection,MAS-BLR,1
+4,1,2,3,False,5.79,11,Traction Distribution,OHE,Overhaul,BPL-NGP,0
+1,2,4,2,False,2.12,32,Engineering,Signal,Inspection,BPL-NGP,0
+3,2,1,2,True,3.22,15,S&T,Signal,Overhaul,BPL-NGP,0
+1,5,5,4,True,0.66,26,S&T,Track,Repair,MAS-BLR,1
+4,3,2,5,False,1.89,39,S&T,OHE,Replacement,MUM-PUN,1
+4,4,5,4,True,2.56,8,Traction Distribution,Signal,Inspection,DEL-AGR,1
+1,5,2,4,True,3.77,0,Traction Distribution,Track,Overhaul,HWH-KOL,1
+4,4,4,5,False,3.09,38,Engineering,Signal,Replacement,DEL-AGR,1
+3,1,3,5,False,2.5,57,Traction Distribution,Point Machine,Overhaul,MUM-PUN,0
+4,1,1,3,False,3.93,19,Traction Distribution,OHE,Repair,BPL-NGP,0
+1,2,1,1,False,5.06,60,Engineering,OHE,Inspection,HWH-KOL,0
+1,2,4,4,False,1.83,-1,Engineering,OHE,Replacement,BPL-NGP,0
+3,4,1,4,True,2.39,47,S&T,OHE,Overhaul,HWH-KOL,1
+1,1,2,2,False,4.38,60,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+2,2,3,5,False,4.78,8,Traction Distribution,Bridge,Repair,MUM-PUN,0
+4,2,2,5,False,5.04,-3,S&T,Point Machine,Overhaul,MUM-PUN,1
+1,1,1,2,False,1.65,35,Engineering,Track,Replacement,MUM-PUN,0
+4,1,4,3,False,3.47,51,Engineering,Bridge,Repair,BPL-NGP,1
+1,1,4,1,True,5.45,-8,Traction Distribution,Track,Inspection,MAS-BLR,1
+1,3,4,1,False,2.66,34,S&T,Track,Repair,DEL-AGR,0
+3,3,5,2,False,2.86,51,S&T,OHE,Inspection,HWH-KOL,0
+4,3,1,2,False,5.92,-12,Traction Distribution,Signal,Overhaul,HWH-KOL,1
+1,3,3,2,True,1.12,24,Engineering,Point Machine,Inspection,HWH-KOL,0
+2,4,2,1,True,4.38,-9,Engineering,Point Machine,Inspection,MUM-PUN,0
+5,5,5,3,False,5.18,-1,Traction Distribution,Track,Inspection,DEL-AGR,1
+5,3,3,4,False,1.33,22,Engineering,OHE,Repair,MUM-PUN,1
+3,4,1,2,False,4.43,10,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+3,4,4,3,True,3.08,-8,Traction Distribution,Point Machine,Overhaul,DEL-AGR,1
+2,4,1,2,False,5.19,46,Engineering,OHE,Inspection,MUM-PUN,0
+4,1,2,4,True,5.49,1,S&T,Point Machine,Testing,BPL-NGP,1
+3,5,4,4,True,5.3,51,Traction Distribution,OHE,Replacement,MAS-BLR,0
+2,1,3,5,False,0.85,-1,S&T,Signal,Inspection,BPL-NGP,0
+1,3,4,1,False,4.66,24,Engineering,OHE,Replacement,DEL-AGR,0
+1,4,3,5,False,5.57,40,Engineering,Point Machine,Inspection,MUM-PUN,0
+5,3,5,2,True,3.92,22,Engineering,Track,Testing,MUM-PUN,1
+3,2,3,1,True,3.8,17,Engineering,Point Machine,Replacement,MUM-PUN,0
+3,5,1,4,False,0.75,42,Engineering,Signal,Testing,MAS-BLR,1
+3,1,1,1,True,5.21,-14,Engineering,Track,Repair,BPL-NGP,0
+4,2,4,1,False,0.76,47,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+1,5,1,5,False,2.22,37,S&T,Signal,Repair,HWH-KOL,1
+1,4,2,2,True,5.59,43,Engineering,OHE,Replacement,MUM-PUN,0
+2,1,1,3,False,5.72,17,Engineering,Point Machine,Overhaul,HWH-KOL,0
+3,4,2,2,False,5.96,14,Engineering,OHE,Replacement,BPL-NGP,1
+4,5,3,1,False,3.12,28,Engineering,Point Machine,Testing,MAS-BLR,1
+3,1,1,1,True,1.48,34,Traction Distribution,Bridge,Repair,HWH-KOL,0
+3,3,3,1,False,3.18,55,Engineering,Point Machine,Repair,DEL-AGR,0
+5,3,5,3,False,1.06,50,S&T,Track,Replacement,MAS-BLR,1
+1,1,1,3,False,5.3,-10,S&T,Signal,Inspection,MUM-PUN,0
+3,2,1,1,False,3.58,-3,Engineering,OHE,Overhaul,DEL-AGR,0
+3,1,2,2,False,2.72,56,Engineering,OHE,Inspection,HWH-KOL,0
+3,1,5,2,False,0.94,15,Engineering,Signal,Overhaul,BPL-NGP,1
+5,3,3,3,False,2.73,29,Engineering,Track,Repair,MUM-PUN,1
+2,3,4,5,False,5.26,-10,Traction Distribution,Track,Repair,MUM-PUN,0
+5,2,1,4,False,4.37,-7,Traction Distribution,Track,Overhaul,MUM-PUN,1
+2,2,4,5,False,0.95,16,S&T,Bridge,Overhaul,MAS-BLR,0
+3,1,1,1,True,1.38,39,Traction Distribution,Signal,Testing,MAS-BLR,0
+3,4,4,2,False,2.66,43,Traction Distribution,Bridge,Repair,MAS-BLR,1
+5,2,1,4,False,1.06,53,Traction Distribution,Signal,Testing,MUM-PUN,0
+3,5,5,2,False,5.64,0,Engineering,Signal,Testing,MAS-BLR,1
+2,3,2,5,False,4.09,1,Traction Distribution,OHE,Testing,MUM-PUN,1
+1,5,1,3,False,1.02,26,S&T,Bridge,Testing,MAS-BLR,0
+2,4,2,2,True,4.83,27,S&T,OHE,Overhaul,MAS-BLR,1
+5,2,1,5,False,2.53,-12,Traction Distribution,Track,Repair,BPL-NGP,1
+1,4,1,3,False,1.85,19,S&T,Signal,Overhaul,MAS-BLR,0
+5,2,3,5,True,3.63,53,Engineering,Bridge,Overhaul,DEL-AGR,1
+3,1,2,3,False,0.57,-2,Engineering,Track,Repair,BPL-NGP,1
+1,2,2,1,True,3.06,47,Engineering,Bridge,Testing,DEL-AGR,0
+2,2,5,4,False,5.14,19,Engineering,Bridge,Overhaul,BPL-NGP,1
+3,1,1,1,False,5.6,25,S&T,Signal,Replacement,MUM-PUN,0
+2,1,2,4,False,2.38,34,Traction Distribution,OHE,Testing,MAS-BLR,0
+1,5,1,3,False,4.03,38,S&T,OHE,Inspection,HWH-KOL,0
+4,3,3,4,True,1.75,33,S&T,Point Machine,Overhaul,BPL-NGP,1
+4,3,2,5,False,3.58,-7,Engineering,Point Machine,Overhaul,MUM-PUN,1
+1,5,1,3,False,1.9,8,S&T,Track,Inspection,DEL-AGR,0
+2,2,1,5,True,3.64,49,Traction Distribution,Signal,Replacement,BPL-NGP,1
+2,3,5,1,False,1.44,-11,Engineering,Bridge,Replacement,MUM-PUN,0
+4,5,1,1,False,5.68,39,S&T,Signal,Repair,BPL-NGP,1
+4,4,4,5,False,5.38,25,Traction Distribution,Signal,Testing,HWH-KOL,1
+4,2,5,3,False,2.35,-6,S&T,Point Machine,Overhaul,MAS-BLR,1
+5,2,3,3,False,4.77,-5,S&T,Track,Repair,MUM-PUN,0
+4,1,2,1,False,1.03,59,Engineering,Track,Replacement,HWH-KOL,1
+2,1,4,2,False,4.57,-12,Traction Distribution,Point Machine,Inspection,BPL-NGP,1
+1,1,5,4,False,2.05,-13,S&T,Track,Inspection,BPL-NGP,0
+4,4,1,5,False,1.25,-13,Engineering,Bridge,Overhaul,DEL-AGR,1
+5,4,5,5,True,4.23,33,S&T,Signal,Testing,BPL-NGP,1
+5,3,5,3,False,3.08,55,Traction Distribution,Track,Repair,HWH-KOL,1
+2,4,1,3,True,3.42,-2,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+2,1,1,1,False,3.36,45,Engineering,Track,Overhaul,BPL-NGP,0
+1,2,4,1,False,0.83,39,S&T,Signal,Replacement,BPL-NGP,0
+1,2,1,3,False,0.78,3,Traction Distribution,Signal,Inspection,MUM-PUN,0
+3,5,4,3,False,3.81,-9,Traction Distribution,OHE,Overhaul,MUM-PUN,1
+3,4,1,1,False,3.93,22,S&T,OHE,Repair,BPL-NGP,1
+2,5,4,3,False,0.76,-8,Engineering,Track,Inspection,DEL-AGR,0
+2,2,2,4,False,2.58,-6,Traction Distribution,Signal,Replacement,HWH-KOL,0
+5,5,1,5,False,3.87,20,S&T,Track,Overhaul,MAS-BLR,0
+3,1,1,5,False,4.11,47,S&T,Track,Replacement,MAS-BLR,0
+5,2,1,2,False,5.06,60,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+5,3,3,2,False,2.81,33,S&T,OHE,Repair,HWH-KOL,1
+2,1,1,5,False,3.52,6,S&T,Track,Replacement,MAS-BLR,0
+2,5,5,4,True,3.68,10,Engineering,Signal,Overhaul,DEL-AGR,1
+5,5,4,2,False,2.22,31,Traction Distribution,Point Machine,Replacement,BPL-NGP,1
+4,3,2,4,False,0.8,-2,S&T,Signal,Repair,DEL-AGR,0
+2,2,5,1,False,0.52,24,Traction Distribution,OHE,Testing,BPL-NGP,0
+4,1,4,3,False,5.1,43,Engineering,Point Machine,Inspection,MUM-PUN,1
+3,4,4,2,False,1.6,49,Traction Distribution,Point Machine,Testing,BPL-NGP,0
+5,3,1,5,False,3.97,-10,S&T,Point Machine,Overhaul,BPL-NGP,1
+2,4,4,1,False,3.67,7,Engineering,Signal,Inspection,MAS-BLR,0
+5,4,3,5,False,2.7,5,Engineering,OHE,Repair,BPL-NGP,1
+5,1,5,2,False,5.08,27,Engineering,Bridge,Repair,MAS-BLR,1
+1,1,3,1,False,4.34,-1,Engineering,Bridge,Testing,DEL-AGR,0
+1,4,4,4,False,0.63,57,S&T,Track,Replacement,MUM-PUN,0
+3,1,2,4,False,4.77,54,Traction Distribution,Bridge,Repair,HWH-KOL,0
+1,5,1,1,False,3.29,10,Traction Distribution,Bridge,Testing,DEL-AGR,0
+2,1,1,1,False,2.41,16,Traction Distribution,Bridge,Inspection,DEL-AGR,0
+3,4,5,1,False,4.5,18,S&T,Signal,Testing,DEL-AGR,0
+5,5,4,3,False,4.27,-11,S&T,OHE,Testing,BPL-NGP,1
+5,3,2,1,False,2.21,52,Engineering,Track,Repair,HWH-KOL,0
+1,1,4,4,False,5.91,44,Engineering,Track,Inspection,BPL-NGP,1
+5,5,1,1,False,4.07,10,S&T,OHE,Testing,MAS-BLR,0
+1,1,1,4,False,3.83,27,Traction Distribution,Signal,Testing,DEL-AGR,0
+4,3,3,5,False,0.88,14,Engineering,Signal,Repair,MAS-BLR,0
+5,5,4,4,False,2.04,3,Engineering,Signal,Inspection,MUM-PUN,1
+5,4,5,5,False,2.96,8,Engineering,OHE,Repair,HWH-KOL,1
+2,1,4,5,False,3.97,-6,Engineering,Track,Inspection,MAS-BLR,0
+5,5,2,1,True,3.32,46,Engineering,Bridge,Overhaul,MUM-PUN,1
+1,1,5,2,False,4.7,35,Engineering,Point Machine,Replacement,MAS-BLR,0
+3,4,3,4,False,1.94,55,Engineering,Point Machine,Repair,HWH-KOL,0
+3,4,5,2,False,4.36,-14,S&T,Bridge,Overhaul,DEL-AGR,1
+2,2,1,4,True,4.99,33,Traction Distribution,Point Machine,Overhaul,MAS-BLR,0
+1,3,1,4,False,4.71,28,Engineering,Signal,Inspection,DEL-AGR,0
+4,1,1,5,False,4.74,32,Engineering,Bridge,Replacement,BPL-NGP,0
+2,5,5,2,False,5.39,60,Traction Distribution,OHE,Testing,HWH-KOL,0
+4,2,1,2,True,0.96,15,Engineering,OHE,Overhaul,DEL-AGR,0
+3,2,5,1,False,4.33,-4,Traction Distribution,OHE,Testing,HWH-KOL,0
+2,3,4,2,False,5.83,-14,S&T,Track,Testing,MUM-PUN,1
+5,4,1,2,False,3.66,22,Traction Distribution,Bridge,Inspection,DEL-AGR,1
+1,3,5,3,True,1.7,-1,Engineering,Bridge,Repair,HWH-KOL,1
+4,3,1,3,False,5.99,-4,Engineering,Point Machine,Replacement,DEL-AGR,0
+4,3,1,5,False,1.46,-3,S&T,Signal,Replacement,HWH-KOL,1
+2,5,3,4,False,2.35,6,Engineering,Bridge,Overhaul,MUM-PUN,1
+2,2,2,4,False,1.45,-6,Engineering,Track,Overhaul,MAS-BLR,0
+1,5,2,1,False,3.05,22,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+5,4,1,3,False,2.8,35,Engineering,Track,Inspection,MAS-BLR,1
+5,5,4,4,False,3.2,7,S&T,Signal,Overhaul,MAS-BLR,1
+2,5,1,2,False,5.6,-4,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+1,4,2,3,True,3.13,28,Engineering,Point Machine,Overhaul,HWH-KOL,0
+1,2,3,4,False,3.33,-8,Engineering,Signal,Replacement,MUM-PUN,1
+1,4,3,4,False,5.38,41,S&T,Bridge,Inspection,DEL-AGR,0
+5,4,4,5,True,5.0,14,Engineering,Signal,Inspection,MUM-PUN,1
+5,2,2,3,False,1.82,16,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+1,4,4,2,True,0.57,4,Engineering,OHE,Testing,MUM-PUN,1
+4,2,4,2,True,3.96,7,Engineering,Bridge,Testing,DEL-AGR,1
+1,3,2,4,False,5.15,-4,Engineering,Point Machine,Replacement,HWH-KOL,1
+2,4,2,3,False,3.54,27,Engineering,Bridge,Replacement,DEL-AGR,0
+3,1,3,3,True,1.66,-4,Engineering,Bridge,Inspection,DEL-AGR,0
+4,2,3,1,False,4.58,37,S&T,Track,Replacement,HWH-KOL,0
+5,4,1,3,False,4.18,5,S&T,Track,Inspection,DEL-AGR,0
+1,3,3,2,False,3.61,28,S&T,OHE,Overhaul,MAS-BLR,0
+1,5,1,3,True,5.25,26,Engineering,Track,Overhaul,MAS-BLR,1
+2,1,3,5,False,4.81,33,Engineering,OHE,Inspection,MAS-BLR,1
+2,4,5,4,False,4.17,42,Engineering,OHE,Testing,DEL-AGR,1
+5,5,3,3,True,4.16,28,Engineering,Signal,Overhaul,HWH-KOL,1
+4,5,4,5,True,4.14,49,Traction Distribution,Track,Repair,MAS-BLR,1
+2,1,2,5,True,3.39,5,Engineering,Bridge,Replacement,HWH-KOL,0
+5,5,5,3,False,3.05,42,Engineering,Signal,Inspection,MUM-PUN,0
+3,2,5,4,True,4.4,11,S&T,Bridge,Testing,MAS-BLR,1
+3,2,5,2,False,3.86,33,Engineering,Point Machine,Inspection,MUM-PUN,1
+3,2,4,5,False,3.19,22,S&T,Point Machine,Testing,MAS-BLR,0
+1,4,4,2,True,1.2,54,S&T,Point Machine,Overhaul,DEL-AGR,0
+5,4,3,2,False,4.36,6,Traction Distribution,Signal,Testing,BPL-NGP,0
+1,3,5,1,True,4.05,24,Engineering,Signal,Repair,DEL-AGR,1
+1,1,5,5,True,2.38,-2,Engineering,Bridge,Testing,MAS-BLR,1
+2,5,3,2,False,2.46,33,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+2,2,1,5,False,1.86,-12,S&T,Signal,Repair,DEL-AGR,0
+1,1,1,1,False,5.79,16,Engineering,Point Machine,Repair,MAS-BLR,0
+1,3,2,3,False,5.23,-14,S&T,Signal,Testing,MAS-BLR,0
+4,3,1,3,True,3.59,10,S&T,Bridge,Replacement,MAS-BLR,0
+5,4,2,3,False,2.71,22,Traction Distribution,OHE,Replacement,HWH-KOL,1
+1,5,1,1,True,4.55,10,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+2,1,5,1,False,3.4,14,S&T,Point Machine,Replacement,MUM-PUN,1
+3,2,1,2,False,5.87,-3,Engineering,Point Machine,Replacement,DEL-AGR,0
+5,3,4,3,False,0.8,39,Traction Distribution,Signal,Repair,DEL-AGR,1
+4,4,2,4,False,0.69,45,Engineering,Point Machine,Inspection,DEL-AGR,0
+4,4,1,3,False,3.63,20,Traction Distribution,Signal,Testing,HWH-KOL,0
+3,2,4,2,False,1.62,-10,S&T,Signal,Replacement,BPL-NGP,1
+3,4,5,2,True,3.82,-10,S&T,Bridge,Testing,HWH-KOL,1
+1,5,4,4,True,4.8,36,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+5,3,5,3,True,1.26,55,S&T,Track,Replacement,BPL-NGP,1
+5,5,3,5,False,2.92,50,S&T,Point Machine,Replacement,MUM-PUN,0
+1,4,4,3,False,4.29,16,Engineering,Signal,Testing,HWH-KOL,1
+4,2,1,3,True,5.09,23,S&T,Signal,Inspection,MAS-BLR,0
+1,2,5,1,False,3.23,-2,Engineering,OHE,Replacement,DEL-AGR,0
+4,4,4,1,False,1.63,-9,Engineering,OHE,Inspection,MAS-BLR,1
+5,2,2,5,True,3.72,43,Engineering,Bridge,Testing,MUM-PUN,1
+1,2,2,2,False,3.0,18,S&T,OHE,Replacement,BPL-NGP,0
+3,2,4,3,False,4.75,23,Traction Distribution,Signal,Testing,MUM-PUN,0
+1,4,1,3,False,3.56,11,Engineering,Point Machine,Repair,DEL-AGR,0
+3,2,5,1,False,2.04,9,Engineering,OHE,Inspection,HWH-KOL,1
+5,4,2,3,False,4.65,59,S&T,Track,Overhaul,MUM-PUN,0
+1,5,1,2,False,3.35,47,Engineering,Point Machine,Inspection,HWH-KOL,0
+2,5,2,1,False,1.48,37,Engineering,OHE,Repair,MUM-PUN,0
+5,5,5,3,False,3.6,15,S&T,OHE,Repair,MAS-BLR,1
+2,1,2,3,False,5.72,40,S&T,Track,Repair,BPL-NGP,0
+1,3,3,1,False,4.38,11,Engineering,OHE,Inspection,MAS-BLR,0
+3,2,5,3,False,2.14,24,Engineering,Point Machine,Overhaul,BPL-NGP,0
+3,5,1,4,False,4.41,-4,Engineering,Point Machine,Overhaul,BPL-NGP,0
+4,4,4,2,True,2.05,39,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+2,2,2,5,False,3.48,-10,S&T,Bridge,Repair,HWH-KOL,1
+5,3,4,4,False,3.4,40,Traction Distribution,OHE,Inspection,MAS-BLR,0
+3,4,1,4,False,1.86,31,Engineering,OHE,Overhaul,DEL-AGR,0
+2,3,1,1,False,2.41,-10,Traction Distribution,OHE,Testing,HWH-KOL,0
+5,3,4,4,False,5.68,23,Engineering,Signal,Replacement,DEL-AGR,1
+5,1,5,2,False,1.88,2,Traction Distribution,Signal,Replacement,BPL-NGP,0
+3,3,5,4,False,4.91,21,Traction Distribution,Point Machine,Overhaul,MAS-BLR,1
+1,2,4,5,False,4.17,-14,S&T,Signal,Testing,DEL-AGR,1
+3,5,3,2,False,3.43,40,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+3,5,1,2,False,1.26,24,Traction Distribution,Point Machine,Inspection,MUM-PUN,1
+1,4,2,1,False,1.63,13,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+4,1,4,4,False,1.48,51,Engineering,Track,Testing,DEL-AGR,0
+5,5,2,4,False,3.73,34,Engineering,Signal,Overhaul,DEL-AGR,1
+1,2,3,3,False,5.85,31,Traction Distribution,Point Machine,Testing,BPL-NGP,0
+4,3,1,1,False,5.32,-3,Traction Distribution,OHE,Testing,BPL-NGP,0
+1,5,3,2,False,0.64,23,S&T,Point Machine,Inspection,DEL-AGR,0
+4,5,2,3,False,2.01,38,Engineering,Point Machine,Overhaul,DEL-AGR,0
+3,1,1,5,False,1.36,55,S&T,Bridge,Replacement,MUM-PUN,0
+1,2,1,1,False,5.87,31,S&T,Signal,Repair,DEL-AGR,0
+5,4,3,2,False,1.8,-2,S&T,Signal,Overhaul,BPL-NGP,0
+1,3,2,4,False,1.61,36,S&T,OHE,Inspection,BPL-NGP,0
+3,2,1,2,False,3.91,-9,Traction Distribution,OHE,Replacement,BPL-NGP,0
+1,3,3,5,False,3.56,9,S&T,Bridge,Replacement,HWH-KOL,0
+5,5,1,5,False,1.74,54,Traction Distribution,Track,Repair,BPL-NGP,1
+4,2,1,2,False,4.19,46,Engineering,Signal,Overhaul,HWH-KOL,0
+5,4,1,4,False,1.03,53,Traction Distribution,Bridge,Testing,BPL-NGP,0
+3,4,3,4,False,0.61,12,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+3,5,5,4,False,0.95,37,S&T,Point Machine,Overhaul,BPL-NGP,0
+4,2,2,1,True,2.51,38,S&T,Signal,Repair,BPL-NGP,0
+4,2,2,1,True,5.86,4,S&T,Point Machine,Testing,BPL-NGP,1
+5,3,2,2,False,3.51,56,S&T,Signal,Testing,MAS-BLR,1
+1,3,2,1,False,4.65,58,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+4,3,4,2,False,2.27,-6,Engineering,Track,Testing,MAS-BLR,1
+1,4,2,4,False,4.46,43,S&T,Signal,Testing,DEL-AGR,0
+2,4,4,3,False,5.81,19,Traction Distribution,Point Machine,Overhaul,HWH-KOL,1
+5,2,5,2,False,2.47,36,S&T,Point Machine,Overhaul,HWH-KOL,1
+2,4,5,1,False,5.99,27,S&T,Bridge,Overhaul,MAS-BLR,1
+4,2,3,2,False,4.01,2,S&T,Bridge,Overhaul,DEL-AGR,0
+3,3,4,3,False,4.62,-7,S&T,Track,Repair,MUM-PUN,1
+2,1,5,4,False,1.89,24,S&T,Track,Testing,HWH-KOL,0
+2,2,4,2,False,4.04,48,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+3,5,2,2,False,3.31,47,Traction Distribution,Bridge,Overhaul,HWH-KOL,0
+4,3,1,3,True,5.76,6,Traction Distribution,OHE,Overhaul,BPL-NGP,0
+4,4,1,1,False,5.48,50,S&T,Bridge,Inspection,DEL-AGR,0
+5,1,5,2,False,2.68,12,Traction Distribution,Track,Testing,MAS-BLR,1
+5,4,3,1,False,5.71,28,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+4,2,2,3,False,5.37,10,Engineering,Track,Testing,DEL-AGR,0
+4,4,2,3,True,3.75,25,Traction Distribution,Bridge,Inspection,BPL-NGP,0
+2,5,2,3,False,0.95,25,Traction Distribution,Bridge,Repair,DEL-AGR,1
+3,3,5,4,True,1.38,38,S&T,Signal,Testing,HWH-KOL,1
+1,1,4,2,False,0.92,21,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+2,3,5,5,False,1.09,25,Engineering,OHE,Overhaul,MAS-BLR,0
+5,1,2,5,False,5.87,34,Traction Distribution,Point Machine,Replacement,DEL-AGR,1
+3,3,3,1,False,1.67,17,S&T,Track,Replacement,MUM-PUN,1
+1,1,1,5,False,4.3,25,Traction Distribution,Signal,Replacement,BPL-NGP,0
+4,4,5,1,False,4.0,-8,S&T,Point Machine,Inspection,MUM-PUN,1
+5,2,3,2,False,3.97,51,S&T,Bridge,Replacement,BPL-NGP,1
+5,2,3,3,False,1.64,-5,S&T,Track,Replacement,DEL-AGR,1
+2,1,3,1,False,3.69,51,S&T,Bridge,Repair,DEL-AGR,0
+3,5,2,2,True,3.94,43,Traction Distribution,Bridge,Repair,HWH-KOL,0
+3,5,5,1,False,3.64,57,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+2,5,3,3,True,1.52,-13,Engineering,Signal,Overhaul,MUM-PUN,1
+2,1,4,5,False,4.48,2,S&T,Point Machine,Replacement,MAS-BLR,1
+2,2,1,5,False,0.9,-11,Engineering,Track,Overhaul,MAS-BLR,0
+5,5,2,2,False,3.75,17,Engineering,Track,Repair,DEL-AGR,0
+4,3,5,3,True,2.9,53,Traction Distribution,Track,Replacement,MUM-PUN,1
+5,1,1,3,True,1.88,43,Traction Distribution,OHE,Replacement,HWH-KOL,1
+5,1,1,3,False,4.94,38,Traction Distribution,Point Machine,Repair,HWH-KOL,0
+5,2,5,4,True,1.47,49,S&T,Track,Inspection,MUM-PUN,1
+1,5,2,5,False,5.63,-14,S&T,Track,Replacement,HWH-KOL,0
+5,1,2,3,False,5.37,45,Traction Distribution,Signal,Testing,MAS-BLR,0
+1,5,3,1,False,2.48,9,Engineering,Track,Replacement,MUM-PUN,0
+3,4,1,5,True,2.18,37,Engineering,Bridge,Testing,MUM-PUN,0
+3,5,1,5,False,1.26,43,S&T,Track,Testing,BPL-NGP,0
+2,5,1,2,False,5.54,37,S&T,Signal,Overhaul,HWH-KOL,0
+1,2,1,3,False,3.95,17,S&T,Signal,Testing,BPL-NGP,0
+1,5,1,5,True,0.67,31,Engineering,Signal,Replacement,BPL-NGP,0
+5,1,4,3,True,3.31,21,S&T,Bridge,Overhaul,BPL-NGP,1
+2,2,2,3,False,0.97,33,Traction Distribution,Signal,Inspection,BPL-NGP,0
+2,2,1,5,False,3.66,20,Engineering,OHE,Repair,BPL-NGP,0
+5,1,1,5,False,3.3,15,S&T,OHE,Replacement,HWH-KOL,0
+1,1,3,3,True,0.96,1,Engineering,Signal,Inspection,HWH-KOL,0
+5,1,5,1,False,4.99,15,Engineering,OHE,Overhaul,MUM-PUN,1
+5,1,2,3,True,1.94,40,S&T,Track,Testing,HWH-KOL,1
+3,2,1,4,False,3.48,51,S&T,OHE,Inspection,BPL-NGP,0
+1,1,2,2,False,4.01,-7,S&T,Track,Testing,BPL-NGP,0
+1,1,3,3,False,5.79,-1,Engineering,OHE,Inspection,BPL-NGP,0
+2,5,1,4,True,3.22,24,S&T,Signal,Inspection,MUM-PUN,1
+3,1,5,1,False,5.55,38,Engineering,Signal,Overhaul,BPL-NGP,1
+1,1,4,3,True,2.45,-2,S&T,Track,Overhaul,HWH-KOL,1
+3,1,2,4,True,5.22,10,Traction Distribution,Bridge,Testing,MUM-PUN,0
+1,1,5,2,False,1.8,-11,S&T,Track,Replacement,DEL-AGR,0
+3,3,2,3,False,4.39,-11,Traction Distribution,Track,Replacement,MUM-PUN,1
+1,5,1,4,False,0.99,-4,S&T,Track,Inspection,BPL-NGP,0
+4,4,5,1,False,5.92,40,Traction Distribution,Bridge,Overhaul,MUM-PUN,1
+1,3,5,4,False,5.75,51,Traction Distribution,Signal,Testing,DEL-AGR,0
+1,1,2,2,False,2.93,23,Traction Distribution,OHE,Replacement,MUM-PUN,0
+1,4,3,2,False,3.38,-1,S&T,Point Machine,Testing,MAS-BLR,0
+5,1,1,4,False,3.79,55,Engineering,Track,Repair,DEL-AGR,1
+1,4,4,1,False,2.01,6,S&T,Track,Testing,DEL-AGR,0
+3,3,4,1,True,4.21,-3,Traction Distribution,Track,Replacement,HWH-KOL,1
+3,5,4,3,False,4.34,-4,S&T,Point Machine,Inspection,MUM-PUN,1
+3,2,3,5,False,3.39,12,Traction Distribution,Bridge,Repair,MAS-BLR,1
+4,4,4,1,False,1.31,41,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+5,3,3,4,False,5.56,15,Traction Distribution,Bridge,Inspection,HWH-KOL,1
+2,3,5,1,False,1.13,19,S&T,Bridge,Testing,MUM-PUN,1
+5,5,1,3,False,3.96,11,Engineering,Signal,Repair,MUM-PUN,0
+2,4,3,3,True,1.07,56,S&T,Track,Overhaul,MUM-PUN,0
+5,3,3,3,True,1.3,37,S&T,Track,Testing,MUM-PUN,1
+3,3,3,1,False,0.61,35,Traction Distribution,Point Machine,Replacement,BPL-NGP,0
+4,4,1,4,False,2.5,18,Engineering,Point Machine,Overhaul,BPL-NGP,0
+5,2,2,2,True,4.02,25,Engineering,Bridge,Replacement,DEL-AGR,1
+4,1,5,4,False,3.37,52,Engineering,OHE,Overhaul,HWH-KOL,1
+5,3,1,4,False,4.21,35,S&T,Bridge,Inspection,MUM-PUN,0
+3,1,4,3,False,4.21,47,Engineering,Bridge,Repair,MAS-BLR,0
+1,1,4,2,False,1.27,-11,S&T,Bridge,Overhaul,DEL-AGR,0
+3,3,3,4,True,0.82,50,Engineering,Bridge,Inspection,HWH-KOL,0
+1,4,1,5,False,3.94,57,Traction Distribution,Track,Testing,MUM-PUN,0
+5,4,1,5,False,4.09,36,S&T,Point Machine,Overhaul,MUM-PUN,0
+2,2,2,5,False,3.56,57,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+2,3,1,2,False,1.85,28,S&T,Signal,Inspection,HWH-KOL,0
+2,1,1,3,False,4.96,6,Engineering,Bridge,Inspection,MUM-PUN,1
+4,4,1,2,False,0.92,31,Engineering,Signal,Overhaul,MAS-BLR,0
+3,2,1,5,False,3.98,33,Traction Distribution,Signal,Replacement,BPL-NGP,0
+5,4,5,5,False,1.16,-4,S&T,Point Machine,Replacement,DEL-AGR,1
+3,5,4,5,False,4.1,1,Traction Distribution,Track,Replacement,HWH-KOL,1
+2,4,1,1,False,2.8,7,Traction Distribution,OHE,Replacement,HWH-KOL,0
+1,2,4,2,False,4.45,27,S&T,Bridge,Repair,HWH-KOL,0
+1,5,1,4,False,0.79,-3,S&T,Track,Inspection,MUM-PUN,0
+2,4,3,4,False,3.55,43,Engineering,Track,Inspection,MAS-BLR,1
+5,4,1,2,False,1.3,-6,Engineering,Bridge,Overhaul,MAS-BLR,1
+3,5,1,1,False,4.25,56,Engineering,Point Machine,Overhaul,DEL-AGR,0
+5,5,1,1,False,1.16,36,Engineering,OHE,Repair,MAS-BLR,1
+1,1,3,4,False,0.9,11,S&T,OHE,Repair,MAS-BLR,0
+1,5,3,3,False,4.42,13,Traction Distribution,Bridge,Replacement,MUM-PUN,0
+5,4,2,3,False,0.85,38,S&T,Point Machine,Overhaul,HWH-KOL,0
+1,2,4,5,False,1.73,-8,S&T,Bridge,Replacement,DEL-AGR,1
+1,2,4,1,True,5.04,39,Traction Distribution,Track,Replacement,MUM-PUN,0
+3,4,4,4,False,4.95,27,Traction Distribution,OHE,Inspection,MUM-PUN,0
+5,2,3,2,False,5.2,2,Engineering,Point Machine,Replacement,MAS-BLR,0
+4,3,3,5,True,2.29,53,Engineering,Track,Overhaul,DEL-AGR,1
+1,4,3,5,False,3.4,33,S&T,OHE,Replacement,MUM-PUN,1
+5,4,2,3,False,4.75,-2,Engineering,Track,Testing,HWH-KOL,1
+5,5,3,2,False,1.25,35,Engineering,Bridge,Overhaul,MAS-BLR,1
+5,1,1,2,False,4.48,16,S&T,Point Machine,Testing,MAS-BLR,1
+5,2,5,1,False,1.04,43,S&T,Track,Replacement,MAS-BLR,1
+2,5,2,5,False,5.52,22,Engineering,OHE,Replacement,MUM-PUN,1
+5,3,4,1,False,4.01,60,Engineering,Track,Replacement,MUM-PUN,1
+2,2,5,3,False,3.21,55,Traction Distribution,Bridge,Repair,HWH-KOL,0
+5,2,3,3,False,3.17,-11,S&T,Track,Replacement,MUM-PUN,1
+3,2,5,4,False,1.5,16,S&T,Point Machine,Inspection,DEL-AGR,0
+4,3,3,5,False,2.4,1,Engineering,Track,Replacement,MAS-BLR,1
+4,2,1,3,True,4.5,19,Engineering,Track,Inspection,DEL-AGR,0
+4,4,1,4,False,3.48,-4,S&T,Bridge,Replacement,DEL-AGR,0
+4,3,1,3,True,3.41,26,Engineering,Signal,Testing,MAS-BLR,1
+4,4,5,3,True,1.57,-3,Engineering,Track,Replacement,BPL-NGP,1
+4,1,3,1,False,4.3,32,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+1,4,2,2,True,2.66,20,Traction Distribution,Signal,Replacement,DEL-AGR,1
+5,5,3,3,False,1.51,60,S&T,OHE,Testing,MUM-PUN,0
+3,1,2,1,True,5.69,51,Engineering,Bridge,Repair,MUM-PUN,1
+2,2,5,2,False,3.29,31,Engineering,Point Machine,Testing,BPL-NGP,1
+3,4,5,3,False,3.4,19,S&T,Signal,Overhaul,HWH-KOL,1
+5,4,1,3,True,5.9,39,Traction Distribution,Signal,Testing,MUM-PUN,1
+5,4,4,5,True,2.52,36,S&T,Signal,Inspection,BPL-NGP,1
+5,3,2,5,False,5.69,-4,S&T,Point Machine,Testing,BPL-NGP,1
+3,4,1,4,False,4.32,14,Engineering,Point Machine,Testing,BPL-NGP,1
+4,4,5,1,False,3.98,60,Engineering,OHE,Repair,DEL-AGR,1
+2,1,1,3,True,1.79,9,Engineering,Signal,Overhaul,BPL-NGP,0
+4,4,2,4,False,0.78,-14,S&T,Track,Replacement,MUM-PUN,1
+4,3,1,3,True,2.91,48,Engineering,Bridge,Inspection,MUM-PUN,0
+2,1,3,3,False,0.56,55,Engineering,Point Machine,Replacement,MAS-BLR,1
+2,3,3,3,False,0.89,35,S&T,Point Machine,Overhaul,HWH-KOL,0
+1,3,2,3,False,3.77,33,S&T,Track,Repair,BPL-NGP,0
+1,1,1,3,False,4.48,12,Traction Distribution,Signal,Repair,MUM-PUN,0
+3,5,1,1,False,1.42,12,S&T,Signal,Replacement,MAS-BLR,0
+3,2,5,3,False,4.53,54,Engineering,OHE,Testing,MUM-PUN,1
+1,2,5,2,True,5.72,50,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+3,3,5,4,False,4.59,23,Traction Distribution,Bridge,Testing,MUM-PUN,0
+4,5,3,5,True,4.82,9,Traction Distribution,OHE,Testing,DEL-AGR,1
+2,4,3,3,False,4.35,0,Traction Distribution,Signal,Testing,HWH-KOL,1
+2,4,4,2,False,1.74,-14,S&T,OHE,Inspection,DEL-AGR,0
+2,2,4,5,False,2.48,22,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+3,5,3,4,True,5.72,27,Traction Distribution,Signal,Repair,BPL-NGP,1
+2,5,2,3,False,4.14,36,S&T,OHE,Testing,DEL-AGR,0
+4,3,3,1,False,4.84,46,Traction Distribution,Point Machine,Overhaul,HWH-KOL,0
+2,3,1,1,True,5.83,13,Traction Distribution,OHE,Overhaul,BPL-NGP,1
+3,1,1,2,False,1.77,-2,Traction Distribution,OHE,Inspection,HWH-KOL,0
+2,4,4,2,False,2.27,49,S&T,Point Machine,Testing,DEL-AGR,0
+1,5,5,4,False,4.05,43,S&T,Signal,Replacement,DEL-AGR,0
+4,3,1,3,False,0.63,25,Traction Distribution,Track,Inspection,MAS-BLR,1
+2,3,1,5,True,3.64,-12,Traction Distribution,Point Machine,Testing,BPL-NGP,0
+2,3,1,3,False,4.95,21,Engineering,OHE,Testing,MUM-PUN,0
+4,1,4,5,False,3.86,32,Engineering,Signal,Replacement,MAS-BLR,1
+5,4,2,3,False,2.12,50,Traction Distribution,Track,Overhaul,DEL-AGR,1
+4,4,2,2,True,4.48,24,Engineering,Bridge,Overhaul,DEL-AGR,1
+5,5,1,4,False,1.3,20,Traction Distribution,Point Machine,Repair,MAS-BLR,1
+5,5,5,3,True,5.42,14,Engineering,Signal,Overhaul,BPL-NGP,1
+3,3,3,2,False,1.06,17,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+4,5,4,3,False,5.25,-13,Traction Distribution,OHE,Testing,MUM-PUN,1
+2,3,4,4,True,3.24,-7,Engineering,Signal,Overhaul,MAS-BLR,1
+3,4,1,2,True,2.86,42,Engineering,Signal,Repair,BPL-NGP,0
+3,4,5,4,True,3.25,13,Traction Distribution,Track,Testing,HWH-KOL,1
+5,5,3,5,False,1.6,49,Engineering,Bridge,Testing,MUM-PUN,1
+5,4,4,3,False,3.02,15,Engineering,Bridge,Inspection,MUM-PUN,1
+3,1,2,2,False,5.17,60,Traction Distribution,Bridge,Repair,HWH-KOL,0
+4,1,5,3,False,4.91,-1,Traction Distribution,Signal,Replacement,BPL-NGP,1
+2,3,5,5,False,1.4,0,Engineering,Bridge,Replacement,MAS-BLR,1
+5,3,3,1,False,4.2,30,S&T,Signal,Overhaul,HWH-KOL,1
+3,4,1,5,False,5.21,46,S&T,Bridge,Replacement,MUM-PUN,1
+3,3,5,3,False,5.01,-4,S&T,Track,Inspection,HWH-KOL,1
+4,3,5,5,False,2.84,23,S&T,Signal,Inspection,HWH-KOL,0
+4,5,3,4,False,0.76,2,S&T,OHE,Overhaul,MUM-PUN,0
+1,2,3,4,False,5.62,41,Engineering,Bridge,Overhaul,DEL-AGR,0
+2,3,2,5,False,2.68,28,Engineering,Signal,Overhaul,MUM-PUN,0
+1,3,1,1,False,2.49,35,Traction Distribution,OHE,Replacement,DEL-AGR,0
+4,3,5,3,False,4.68,6,Engineering,Bridge,Repair,DEL-AGR,1
+1,5,3,1,True,1.95,7,Traction Distribution,OHE,Repair,MAS-BLR,1
+2,5,2,2,False,5.09,33,Engineering,Point Machine,Overhaul,BPL-NGP,0
+3,3,4,1,False,0.92,12,Traction Distribution,OHE,Replacement,DEL-AGR,0
+4,3,1,4,False,4.57,37,S&T,Track,Inspection,MUM-PUN,1
+3,3,1,4,False,5.81,-3,Traction Distribution,Signal,Repair,MUM-PUN,0
+5,1,2,4,False,5.98,8,Traction Distribution,OHE,Testing,MAS-BLR,0
+5,3,3,1,True,5.58,-7,S&T,Track,Replacement,HWH-KOL,1
+1,2,2,2,False,5.29,-8,Traction Distribution,Signal,Testing,MUM-PUN,0
+5,1,1,4,False,2.03,5,S&T,Bridge,Replacement,BPL-NGP,0
+4,1,2,5,False,5.82,22,Traction Distribution,Track,Replacement,HWH-KOL,1
+4,3,2,5,False,5.6,-4,Traction Distribution,Signal,Testing,DEL-AGR,1
+1,1,3,1,False,3.44,-8,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+4,4,3,3,False,2.71,51,Traction Distribution,OHE,Inspection,DEL-AGR,0
+4,3,5,1,True,1.1,24,S&T,Signal,Replacement,BPL-NGP,1
+3,2,5,5,False,3.75,39,Engineering,Track,Overhaul,MAS-BLR,0
+1,4,2,1,False,4.35,40,S&T,Bridge,Repair,MAS-BLR,0
+3,3,5,5,True,2.72,-7,Engineering,OHE,Replacement,MUM-PUN,1
+5,4,3,1,False,2.73,32,S&T,OHE,Testing,HWH-KOL,0
+4,4,1,1,False,3.65,50,Traction Distribution,Track,Replacement,DEL-AGR,0
+1,1,2,5,False,0.65,19,Engineering,Signal,Repair,MUM-PUN,0
+5,2,4,3,False,5.77,50,Traction Distribution,Track,Inspection,DEL-AGR,1
+5,3,5,3,False,2.09,56,S&T,Bridge,Replacement,BPL-NGP,0
+1,5,2,4,False,1.27,26,Engineering,Point Machine,Overhaul,MAS-BLR,0
+5,1,1,2,False,0.53,-7,Traction Distribution,OHE,Repair,DEL-AGR,0
+3,1,1,4,False,5.21,32,Engineering,Point Machine,Replacement,BPL-NGP,0
+3,5,1,3,False,5.25,52,S&T,Track,Overhaul,HWH-KOL,1
+3,5,4,2,False,1.02,29,S&T,Bridge,Testing,HWH-KOL,0
+4,1,3,2,False,1.34,46,Traction Distribution,OHE,Testing,BPL-NGP,0
+5,3,3,1,False,2.96,26,S&T,OHE,Repair,BPL-NGP,1
+4,4,4,2,True,1.52,17,Engineering,Bridge,Inspection,MUM-PUN,0
+5,1,5,3,False,4.55,56,S&T,Track,Overhaul,BPL-NGP,1
+5,2,4,1,False,0.82,-3,Traction Distribution,OHE,Repair,BPL-NGP,0
+1,2,1,1,False,3.52,19,Traction Distribution,Track,Repair,MUM-PUN,0
+2,4,3,4,False,2.61,-3,Engineering,OHE,Inspection,BPL-NGP,1
+4,2,5,3,False,3.06,35,S&T,Signal,Overhaul,BPL-NGP,1
+3,3,4,1,True,2.84,55,Traction Distribution,OHE,Inspection,DEL-AGR,0
+1,2,2,4,False,1.34,60,Engineering,Point Machine,Repair,DEL-AGR,0
+1,4,2,4,False,1.71,3,Engineering,Signal,Replacement,MUM-PUN,0
+3,1,5,1,False,0.86,40,Traction Distribution,Track,Inspection,DEL-AGR,0
+4,2,1,2,False,1.13,51,S&T,Track,Overhaul,HWH-KOL,0
+1,2,3,2,False,5.88,48,S&T,Point Machine,Overhaul,HWH-KOL,1
+1,5,1,4,True,2.04,23,S&T,OHE,Replacement,BPL-NGP,0
+1,5,5,1,False,2.19,-1,S&T,Bridge,Inspection,DEL-AGR,0
+3,3,1,5,False,1.2,20,Engineering,Bridge,Inspection,HWH-KOL,0
+1,1,1,2,True,4.65,44,Traction Distribution,Track,Inspection,BPL-NGP,0
+3,4,2,1,False,5.58,32,S&T,Point Machine,Overhaul,HWH-KOL,1
+3,3,2,5,False,4.84,15,S&T,Track,Overhaul,MAS-BLR,0
+3,5,3,1,True,3.87,2,Engineering,Track,Overhaul,MUM-PUN,1
+4,2,2,1,True,4.97,34,Engineering,Point Machine,Testing,HWH-KOL,0
+3,5,2,5,False,2.72,18,S&T,OHE,Repair,DEL-AGR,0
+4,5,3,3,False,5.23,21,Engineering,Bridge,Inspection,HWH-KOL,0
+4,2,3,3,False,4.89,56,Traction Distribution,Track,Repair,DEL-AGR,0
+5,4,5,4,False,0.51,-14,Traction Distribution,OHE,Overhaul,MAS-BLR,1
+4,2,3,4,False,3.18,3,Engineering,Signal,Overhaul,MUM-PUN,1
+3,2,3,4,False,1.96,54,Engineering,Bridge,Replacement,MAS-BLR,0
+3,2,4,1,False,0.97,55,S&T,Point Machine,Inspection,DEL-AGR,0
+2,4,1,3,False,5.15,8,Engineering,Point Machine,Overhaul,MUM-PUN,0
+3,2,4,2,False,0.54,60,Traction Distribution,Signal,Testing,DEL-AGR,1
+1,4,5,5,False,4.52,1,Engineering,Bridge,Repair,MUM-PUN,1
+5,3,2,3,False,5.94,-11,S&T,Bridge,Testing,BPL-NGP,1
+5,4,1,1,False,3.15,9,Engineering,Point Machine,Overhaul,HWH-KOL,1
+1,5,2,5,True,2.54,25,Traction Distribution,OHE,Testing,BPL-NGP,1
+4,1,2,2,False,3.83,-14,Engineering,Bridge,Overhaul,MAS-BLR,1
+1,5,3,2,False,4.93,-2,S&T,Point Machine,Inspection,DEL-AGR,0
+4,1,5,5,True,1.82,45,Traction Distribution,Track,Overhaul,HWH-KOL,1
+1,3,3,4,False,1.88,32,S&T,Bridge,Inspection,HWH-KOL,0
+3,2,1,5,False,3.84,31,Engineering,Track,Repair,HWH-KOL,1
+4,4,2,4,False,5.67,60,Engineering,Point Machine,Testing,DEL-AGR,0
+4,4,4,5,False,2.14,3,S&T,Signal,Testing,MUM-PUN,0
+3,5,2,1,False,2.57,53,Engineering,Bridge,Replacement,MUM-PUN,0
+5,3,3,3,False,5.96,12,S&T,Point Machine,Repair,BPL-NGP,1
+4,5,4,2,False,1.47,55,S&T,Bridge,Repair,MAS-BLR,0
+2,2,2,2,True,0.92,44,S&T,Point Machine,Repair,MUM-PUN,0
+4,2,4,2,False,3.74,2,Traction Distribution,OHE,Replacement,HWH-KOL,1
+4,2,2,2,True,0.63,1,Traction Distribution,Bridge,Replacement,MUM-PUN,1
+2,3,1,3,False,1.49,26,Engineering,Signal,Inspection,DEL-AGR,0
+4,4,2,5,False,3.92,23,Traction Distribution,OHE,Overhaul,MUM-PUN,0
+5,5,3,4,False,4.13,3,Traction Distribution,Signal,Overhaul,MUM-PUN,1
+5,2,1,2,False,3.31,5,Engineering,Track,Overhaul,DEL-AGR,0
+4,2,5,3,False,2.61,53,S&T,Bridge,Testing,BPL-NGP,1
+4,5,3,3,True,3.67,42,S&T,OHE,Overhaul,MUM-PUN,1
+2,3,1,2,True,4.04,0,S&T,Track,Overhaul,MUM-PUN,1
+4,2,5,3,True,4.92,40,S&T,Bridge,Repair,MUM-PUN,1
+2,5,5,4,True,4.86,-3,Traction Distribution,Bridge,Replacement,MAS-BLR,1
+3,3,1,2,False,4.16,19,S&T,Point Machine,Replacement,BPL-NGP,0
+2,5,1,3,False,5.42,-14,Traction Distribution,Signal,Testing,HWH-KOL,1
+2,5,2,4,False,5.11,34,S&T,Bridge,Replacement,MAS-BLR,1
+1,5,3,3,False,1.23,-1,S&T,Point Machine,Overhaul,DEL-AGR,1
+5,3,4,2,True,5.76,3,Engineering,Signal,Replacement,MUM-PUN,1
+1,4,3,3,False,5.4,0,Engineering,Signal,Inspection,HWH-KOL,0
+1,5,4,4,False,2.27,-1,S&T,Bridge,Testing,HWH-KOL,0
+5,2,1,2,False,0.61,-9,Engineering,Bridge,Overhaul,BPL-NGP,1
+3,1,4,3,False,3.82,27,Traction Distribution,Point Machine,Repair,BPL-NGP,0
+3,2,5,4,True,2.91,51,Engineering,Track,Inspection,HWH-KOL,0
+4,4,3,2,False,4.62,8,Engineering,Signal,Testing,MAS-BLR,0
+2,3,3,2,False,3.39,44,Traction Distribution,Signal,Repair,MAS-BLR,0
+1,1,2,5,False,0.92,26,Engineering,OHE,Inspection,HWH-KOL,0
+4,3,5,2,False,1.85,5,Engineering,Bridge,Overhaul,MAS-BLR,1
+1,1,1,3,True,5.35,-10,Engineering,Bridge,Inspection,BPL-NGP,0
+3,3,2,1,False,0.71,44,Traction Distribution,Signal,Repair,DEL-AGR,0
+5,3,1,5,False,4.55,-13,Traction Distribution,Track,Testing,DEL-AGR,0
+5,4,5,3,False,2.11,17,Engineering,Signal,Inspection,DEL-AGR,1
+2,3,3,4,False,2.99,-12,S&T,Signal,Overhaul,MUM-PUN,0
+4,3,5,4,False,3.42,44,S&T,Bridge,Overhaul,MUM-PUN,1
+4,4,4,2,False,1.88,60,Traction Distribution,Track,Repair,DEL-AGR,0
+3,4,3,2,False,4.09,10,S&T,Bridge,Repair,BPL-NGP,1
+1,5,3,4,False,4.31,9,S&T,Point Machine,Replacement,HWH-KOL,0
+2,2,2,5,False,0.97,28,S&T,Track,Replacement,BPL-NGP,1
+4,3,3,1,False,2.56,23,Engineering,Point Machine,Testing,HWH-KOL,1
+5,2,4,5,False,4.59,14,S&T,OHE,Repair,MUM-PUN,1
+1,3,5,5,False,4.47,13,S&T,Track,Replacement,BPL-NGP,1
+4,1,3,1,False,3.5,0,Traction Distribution,Signal,Overhaul,MAS-BLR,1
+5,3,5,1,False,4.78,4,S&T,Signal,Inspection,MUM-PUN,1
+5,1,5,4,False,1.09,29,Traction Distribution,Signal,Testing,MUM-PUN,1
+3,3,3,5,False,1.15,41,S&T,OHE,Testing,HWH-KOL,0
+1,5,3,2,False,4.12,42,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+2,5,1,4,False,4.31,24,Traction Distribution,Track,Repair,HWH-KOL,1
+5,3,2,5,False,4.98,42,Engineering,Track,Overhaul,MAS-BLR,1
+5,1,5,2,False,1.5,30,S&T,Point Machine,Testing,DEL-AGR,1
+4,2,1,2,False,3.34,12,Traction Distribution,OHE,Inspection,DEL-AGR,0
+1,1,2,5,False,4.13,12,S&T,Signal,Testing,HWH-KOL,0
+1,4,4,2,True,1.73,24,Traction Distribution,Signal,Repair,MUM-PUN,1
+3,5,2,3,False,3.34,9,S&T,Track,Repair,DEL-AGR,0
+3,3,5,3,False,4.01,43,Traction Distribution,Bridge,Repair,MUM-PUN,1
+1,1,4,3,False,1.68,-1,S&T,Bridge,Overhaul,MUM-PUN,0
+4,1,1,2,False,2.57,-10,S&T,OHE,Repair,MAS-BLR,0
+3,5,2,4,False,1.69,22,Engineering,Signal,Replacement,BPL-NGP,1
+1,2,4,4,False,5.47,-9,Engineering,Signal,Inspection,MUM-PUN,1
+1,1,5,2,False,1.8,0,Engineering,Signal,Inspection,MAS-BLR,0
+3,1,5,3,False,1.16,14,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+4,2,5,1,False,0.69,-14,S&T,Track,Repair,MUM-PUN,0
+5,4,1,2,False,0.75,2,S&T,Bridge,Overhaul,HWH-KOL,0
+3,5,4,5,False,1.55,26,S&T,Signal,Overhaul,MAS-BLR,0
+2,2,1,3,False,3.85,14,S&T,Signal,Testing,HWH-KOL,0
+5,4,1,4,False,0.6,53,Traction Distribution,Bridge,Inspection,MUM-PUN,0
+3,1,4,5,True,2.08,-7,S&T,Bridge,Testing,MAS-BLR,1
+2,1,3,4,False,0.82,39,S&T,Bridge,Testing,BPL-NGP,0
+3,1,4,4,True,2.72,30,S&T,Signal,Replacement,HWH-KOL,1
+1,5,5,4,False,0.77,34,S&T,OHE,Inspection,MAS-BLR,0
+2,3,1,3,False,3.84,36,S&T,Signal,Inspection,BPL-NGP,0
+3,5,3,4,False,4.29,-11,Engineering,Track,Replacement,MUM-PUN,1
+5,1,5,2,False,4.52,45,Traction Distribution,Signal,Inspection,HWH-KOL,0
+4,1,3,5,False,1.73,10,S&T,Track,Inspection,DEL-AGR,0
+4,5,3,1,False,5.28,34,S&T,Track,Replacement,DEL-AGR,1
+3,1,3,5,False,4.3,8,S&T,OHE,Replacement,MAS-BLR,1
+1,1,5,5,False,0.81,15,S&T,Point Machine,Testing,DEL-AGR,0
+2,3,1,1,False,2.92,38,Traction Distribution,Signal,Testing,MAS-BLR,0
+5,4,5,4,False,4.72,56,Engineering,OHE,Repair,MUM-PUN,1
+1,2,5,5,True,2.21,51,Engineering,Point Machine,Repair,HWH-KOL,1
+5,3,5,3,False,2.6,40,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+4,4,3,2,False,3.96,26,Traction Distribution,OHE,Repair,MAS-BLR,0
+2,3,3,5,True,0.81,25,S&T,Signal,Replacement,MUM-PUN,0
+4,2,2,3,False,5.82,58,S&T,Point Machine,Testing,MAS-BLR,1
+5,1,2,1,True,1.46,1,S&T,Track,Testing,HWH-KOL,1
+1,3,5,2,False,0.65,57,Traction Distribution,Track,Testing,MAS-BLR,1
+1,5,3,4,True,0.53,34,S&T,Signal,Replacement,DEL-AGR,0
+4,4,4,3,True,2.7,32,Traction Distribution,Signal,Overhaul,MUM-PUN,1
+5,5,1,2,False,5.36,30,S&T,Track,Overhaul,BPL-NGP,1
+1,1,4,4,False,5.01,46,S&T,Track,Repair,BPL-NGP,0
+4,1,4,1,False,5.52,37,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+1,3,5,2,False,3.44,-7,S&T,Point Machine,Replacement,MUM-PUN,0
+4,1,1,3,True,2.97,44,Engineering,Point Machine,Repair,BPL-NGP,0
+4,3,3,1,False,2.62,40,Engineering,Track,Replacement,BPL-NGP,0
+1,5,3,2,False,0.76,54,Traction Distribution,Point Machine,Replacement,MAS-BLR,1
+4,2,3,5,True,5.5,56,S&T,Signal,Inspection,DEL-AGR,1
+5,3,1,5,False,3.23,57,Engineering,Point Machine,Overhaul,DEL-AGR,1
+5,4,3,5,False,3.0,-11,Traction Distribution,OHE,Testing,HWH-KOL,1
+1,1,2,2,False,3.33,33,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+2,5,4,1,False,4.87,56,S&T,Signal,Testing,DEL-AGR,1
+2,2,2,5,False,1.73,58,S&T,Track,Replacement,HWH-KOL,0
+3,5,3,2,False,4.4,27,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+1,4,4,4,False,4.41,54,Engineering,OHE,Repair,MUM-PUN,1
+5,1,1,1,False,5.17,52,Engineering,Point Machine,Testing,MUM-PUN,0
+4,4,4,4,True,0.55,-14,S&T,Bridge,Inspection,BPL-NGP,1
+5,1,4,3,True,1.44,52,S&T,Track,Replacement,MUM-PUN,1
+1,3,1,5,False,3.09,33,Engineering,Signal,Inspection,BPL-NGP,0
+1,5,1,1,False,5.18,29,Engineering,Track,Repair,DEL-AGR,0
+5,5,5,3,False,5.81,-1,Traction Distribution,Track,Inspection,DEL-AGR,1
+2,5,2,5,False,3.77,54,S&T,Bridge,Inspection,DEL-AGR,1
+4,3,5,2,False,1.67,8,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+5,3,3,4,False,1.52,17,S&T,OHE,Replacement,MUM-PUN,1
+1,2,2,1,False,4.02,8,S&T,Signal,Overhaul,DEL-AGR,0
+1,5,2,4,False,1.66,58,S&T,OHE,Repair,MUM-PUN,0
+1,3,4,2,True,3.54,22,S&T,OHE,Testing,BPL-NGP,0
+1,4,1,3,False,5.09,-6,Traction Distribution,Signal,Repair,MUM-PUN,0
+1,2,3,5,False,2.64,-14,Traction Distribution,Track,Overhaul,MUM-PUN,0
+5,4,2,4,True,2.58,59,Traction Distribution,OHE,Replacement,DEL-AGR,0
+4,2,1,3,False,0.7,3,Traction Distribution,OHE,Overhaul,BPL-NGP,0
+5,4,2,1,False,1.9,43,Engineering,Point Machine,Testing,MUM-PUN,1
+5,1,3,2,False,4.34,-12,S&T,Signal,Testing,DEL-AGR,1
+5,1,4,5,False,2.48,53,Traction Distribution,Track,Replacement,BPL-NGP,1
+2,2,1,2,False,1.37,34,S&T,Bridge,Testing,MAS-BLR,0
+2,3,5,4,True,1.08,2,S&T,OHE,Overhaul,BPL-NGP,0
+5,4,5,3,False,1.02,52,Engineering,Point Machine,Repair,MAS-BLR,1
+2,2,4,2,False,4.13,8,Engineering,Track,Testing,HWH-KOL,0
+1,1,5,4,False,3.87,60,Traction Distribution,Track,Inspection,HWH-KOL,0
+4,2,3,2,True,3.35,30,Engineering,Track,Replacement,MUM-PUN,1
+5,3,5,2,True,3.25,19,S&T,Point Machine,Inspection,HWH-KOL,1
+5,3,4,3,True,1.34,-10,S&T,Signal,Overhaul,MAS-BLR,1
+5,4,3,4,False,3.25,5,Traction Distribution,Point Machine,Testing,BPL-NGP,1
+1,2,1,5,True,0.83,-10,Traction Distribution,Bridge,Testing,DEL-AGR,1
+4,4,3,4,False,5.59,49,S&T,Point Machine,Inspection,HWH-KOL,1
+5,4,5,4,False,0.82,-7,Engineering,Bridge,Repair,MUM-PUN,1
+4,4,5,4,False,2.83,-6,S&T,Bridge,Repair,HWH-KOL,1
+5,3,3,2,False,0.5,-5,Traction Distribution,Point Machine,Inspection,HWH-KOL,1
+5,5,2,2,True,4.82,59,S&T,Bridge,Replacement,HWH-KOL,0
+3,2,4,3,False,1.41,58,S&T,Point Machine,Inspection,MAS-BLR,1
+1,4,1,4,False,5.59,39,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+3,1,1,4,False,0.74,-9,S&T,Track,Replacement,MAS-BLR,0
+2,1,3,1,False,5.01,23,S&T,Signal,Replacement,BPL-NGP,0
+1,5,5,4,False,4.11,57,S&T,OHE,Testing,MUM-PUN,0
+1,3,2,2,False,1.87,-7,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+4,4,3,5,False,1.61,45,S&T,Track,Repair,MAS-BLR,1
+3,4,2,4,False,2.47,-13,Engineering,OHE,Replacement,MAS-BLR,1
+3,4,3,5,True,5.06,46,S&T,OHE,Testing,DEL-AGR,1
+4,2,1,4,False,5.24,26,Traction Distribution,Bridge,Testing,MUM-PUN,1
+3,1,3,3,False,1.46,52,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+4,1,3,1,True,2.44,17,Traction Distribution,Point Machine,Inspection,DEL-AGR,1
+1,5,2,2,True,1.81,44,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+5,2,2,5,False,1.17,49,Traction Distribution,Signal,Testing,MAS-BLR,0
+3,3,4,2,False,4.06,10,S&T,Bridge,Inspection,DEL-AGR,0
+1,3,1,1,False,2.4,34,S&T,Bridge,Replacement,MUM-PUN,0
+5,1,1,2,False,1.74,20,S&T,Track,Replacement,MAS-BLR,1
+4,3,1,3,False,5.26,18,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+1,1,5,4,False,4.62,45,S&T,OHE,Repair,BPL-NGP,1
+1,1,2,5,False,4.76,2,Engineering,Signal,Testing,HWH-KOL,0
+1,1,1,5,False,0.72,-6,Engineering,OHE,Replacement,HWH-KOL,0
+2,5,5,3,False,5.53,22,Engineering,Bridge,Testing,MAS-BLR,1
+1,3,1,3,False,3.66,47,S&T,Bridge,Replacement,DEL-AGR,1
+4,5,2,5,False,3.27,-2,Traction Distribution,Signal,Testing,DEL-AGR,0
+3,3,1,1,True,0.56,11,Traction Distribution,OHE,Overhaul,DEL-AGR,0
+5,2,4,3,True,5.44,36,Traction Distribution,OHE,Testing,HWH-KOL,1
+4,4,4,3,True,3.49,21,Traction Distribution,Point Machine,Repair,MAS-BLR,1
+4,5,4,4,True,5.04,31,Engineering,OHE,Repair,DEL-AGR,1
+3,3,2,5,False,4.11,25,Traction Distribution,Signal,Inspection,HWH-KOL,1
+1,1,2,4,True,4.88,46,Traction Distribution,Bridge,Repair,HWH-KOL,0
+1,2,5,4,False,4.31,51,Traction Distribution,Signal,Inspection,DEL-AGR,1
+4,5,5,4,False,5.57,19,S&T,Signal,Inspection,MUM-PUN,1
+1,3,1,3,False,1.74,18,Engineering,Signal,Repair,MUM-PUN,0
+1,5,4,2,False,1.61,6,Traction Distribution,Signal,Testing,DEL-AGR,1
+2,3,5,2,False,4.42,19,Engineering,OHE,Repair,HWH-KOL,0
+5,1,3,4,False,3.26,48,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+3,5,4,4,False,3.8,23,Traction Distribution,Track,Testing,HWH-KOL,0
+4,4,1,2,False,4.4,37,Traction Distribution,Bridge,Testing,BPL-NGP,1
+3,4,1,5,False,3.51,17,S&T,Signal,Replacement,BPL-NGP,1
+1,5,1,5,False,4.83,39,Traction Distribution,Track,Testing,MAS-BLR,0
+2,1,1,4,False,2.25,39,Traction Distribution,Point Machine,Replacement,MAS-BLR,0
+1,5,5,2,False,5.22,25,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+4,2,4,5,False,1.09,56,S&T,Point Machine,Testing,MAS-BLR,0
+1,5,4,2,False,3.99,51,S&T,Bridge,Inspection,MAS-BLR,0
+2,1,2,3,False,5.4,-3,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+5,3,5,5,False,1.89,3,Engineering,Point Machine,Inspection,BPL-NGP,0
+3,4,1,3,False,2.3,57,Engineering,OHE,Overhaul,HWH-KOL,0
+3,1,5,2,False,2.18,16,S&T,Signal,Replacement,MUM-PUN,0
+3,1,1,1,False,3.6,9,S&T,Point Machine,Repair,HWH-KOL,0
+4,5,1,2,False,2.77,45,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+2,1,1,4,False,1.09,31,Traction Distribution,Bridge,Inspection,BPL-NGP,0
+4,4,4,4,False,5.4,-5,Engineering,OHE,Inspection,HWH-KOL,1
+5,5,2,2,False,1.63,-8,Engineering,OHE,Replacement,DEL-AGR,1
+3,4,3,1,False,3.44,46,Traction Distribution,Point Machine,Testing,MUM-PUN,1
+3,3,3,4,False,3.77,43,S&T,Track,Overhaul,HWH-KOL,1
+1,3,4,1,False,0.72,12,Engineering,OHE,Overhaul,MUM-PUN,0
+2,4,2,1,False,1.03,50,S&T,Point Machine,Overhaul,HWH-KOL,0
+5,3,1,3,True,5.84,-5,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+3,3,2,3,False,4.15,51,S&T,Signal,Replacement,DEL-AGR,1
+2,1,2,2,False,0.68,-9,S&T,Track,Testing,HWH-KOL,0
+3,4,4,2,False,4.87,33,S&T,Track,Overhaul,HWH-KOL,1
+3,4,4,2,False,3.3,49,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+3,4,1,2,False,0.91,32,S&T,Signal,Inspection,DEL-AGR,0
+4,1,4,1,False,4.24,44,Traction Distribution,Track,Overhaul,HWH-KOL,1
+2,4,1,1,False,3.25,11,Traction Distribution,OHE,Repair,MAS-BLR,0
+4,4,4,2,False,1.63,7,S&T,Bridge,Repair,MUM-PUN,1
+3,1,2,1,False,5.33,5,S&T,Signal,Overhaul,MUM-PUN,0
+5,5,2,2,False,2.1,-6,Traction Distribution,Track,Repair,DEL-AGR,0
+1,3,3,3,False,2.07,6,Engineering,Track,Replacement,HWH-KOL,0
+1,3,2,1,False,2.0,4,Engineering,Track,Inspection,MAS-BLR,0
+3,4,4,4,True,4.72,42,Engineering,Signal,Inspection,HWH-KOL,0
+3,3,5,4,False,4.38,1,Traction Distribution,Track,Replacement,HWH-KOL,0
+4,3,5,3,False,5.47,-2,Traction Distribution,Point Machine,Testing,BPL-NGP,1
+3,2,3,4,False,1.76,40,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+5,5,3,5,False,4.83,26,Engineering,OHE,Replacement,MUM-PUN,1
+3,5,3,1,False,3.65,2,Engineering,OHE,Testing,BPL-NGP,1
+1,1,4,1,False,2.2,38,Engineering,Point Machine,Repair,MUM-PUN,0
+1,4,3,2,False,0.69,2,Engineering,Point Machine,Testing,MAS-BLR,0
+5,1,3,4,False,5.0,44,Engineering,OHE,Replacement,MUM-PUN,1
+1,2,3,5,False,1.83,-12,S&T,Bridge,Inspection,HWH-KOL,1
+5,5,2,5,False,3.97,30,Traction Distribution,Track,Inspection,MUM-PUN,0
+2,1,3,3,False,3.52,30,Engineering,OHE,Testing,BPL-NGP,0
+1,2,4,3,False,0.52,13,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+2,2,3,3,False,5.97,37,Traction Distribution,OHE,Inspection,MUM-PUN,1
+4,4,5,1,True,4.98,14,Engineering,Track,Testing,BPL-NGP,1
+3,3,5,3,False,3.18,35,Engineering,Signal,Inspection,MAS-BLR,1
+4,3,3,3,False,4.24,2,S&T,Bridge,Repair,DEL-AGR,1
+4,5,5,2,False,3.12,28,Traction Distribution,Bridge,Overhaul,HWH-KOL,1
+3,3,1,4,False,4.6,42,Traction Distribution,OHE,Inspection,BPL-NGP,1
+4,4,5,5,False,1.24,58,Traction Distribution,Track,Testing,BPL-NGP,1
+5,1,2,2,False,2.95,13,Engineering,Point Machine,Overhaul,MUM-PUN,0
+3,2,3,5,False,2.35,21,Traction Distribution,Signal,Testing,DEL-AGR,1
+1,5,2,1,False,3.03,21,Traction Distribution,Signal,Testing,HWH-KOL,0
+3,5,3,5,True,2.98,50,S&T,Track,Testing,BPL-NGP,0
+5,4,2,4,False,1.29,58,Engineering,Signal,Repair,MUM-PUN,1
+2,2,4,2,False,5.87,34,Engineering,Signal,Repair,MUM-PUN,0
+5,1,1,4,True,0.59,47,Engineering,Track,Repair,HWH-KOL,1
+3,5,5,2,False,0.56,-8,Traction Distribution,OHE,Inspection,HWH-KOL,1
+4,4,5,4,False,2.55,42,Engineering,Bridge,Overhaul,HWH-KOL,1
+2,2,3,1,True,3.91,46,Traction Distribution,Track,Inspection,BPL-NGP,0
+5,3,3,2,False,1.49,39,Engineering,Track,Replacement,MAS-BLR,1
+1,4,4,2,False,3.43,29,Traction Distribution,Track,Replacement,BPL-NGP,0
+2,3,1,1,False,4.48,53,Traction Distribution,OHE,Replacement,DEL-AGR,0
+3,5,4,2,False,1.02,35,S&T,Bridge,Replacement,MUM-PUN,0
+3,1,2,4,False,5.91,49,S&T,Signal,Repair,DEL-AGR,1
+3,2,4,4,False,2.35,-1,Engineering,Track,Inspection,MAS-BLR,1
+1,1,2,3,False,4.03,35,Engineering,Track,Testing,BPL-NGP,0
+2,4,4,1,True,1.11,18,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+1,4,4,2,False,4.4,51,Traction Distribution,Signal,Replacement,MAS-BLR,0
+3,5,2,5,True,5.12,52,Traction Distribution,Signal,Replacement,HWH-KOL,1
+2,3,4,2,False,1.08,49,S&T,Signal,Repair,DEL-AGR,0
+3,1,3,1,False,1.19,2,Engineering,Bridge,Overhaul,DEL-AGR,0
+3,3,2,3,False,2.05,22,Engineering,Signal,Repair,MAS-BLR,1
+4,1,3,1,False,0.57,-14,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+3,4,5,2,False,5.92,59,Engineering,Point Machine,Testing,HWH-KOL,1
+4,4,1,5,False,3.79,5,Engineering,Track,Repair,MAS-BLR,0
+3,5,5,2,False,3.84,32,Engineering,Signal,Overhaul,MUM-PUN,0
+4,2,5,4,False,5.77,22,S&T,Bridge,Overhaul,DEL-AGR,1
+4,2,3,3,False,5.08,53,Traction Distribution,Bridge,Inspection,DEL-AGR,0
+2,1,4,2,True,4.98,47,S&T,OHE,Overhaul,MAS-BLR,1
+2,3,2,4,True,2.37,44,Traction Distribution,Track,Testing,HWH-KOL,0
+4,3,1,3,True,2.34,34,S&T,Signal,Repair,MUM-PUN,1
+2,4,3,2,True,2.1,-6,Traction Distribution,Bridge,Testing,DEL-AGR,0
+3,4,5,2,False,2.41,54,Engineering,Point Machine,Inspection,BPL-NGP,1
+1,1,2,5,False,2.53,-10,S&T,Track,Inspection,DEL-AGR,0
+3,2,4,1,False,1.27,20,Engineering,Point Machine,Testing,DEL-AGR,1
+3,3,4,5,False,2.46,14,Traction Distribution,Track,Testing,HWH-KOL,1
+4,2,4,3,False,2.96,15,S&T,Signal,Overhaul,BPL-NGP,0
+3,1,2,5,False,2.2,59,Engineering,OHE,Overhaul,HWH-KOL,0
+2,5,2,2,False,1.41,3,Engineering,Signal,Repair,MAS-BLR,1
+5,4,3,3,False,2.55,29,S&T,Point Machine,Replacement,MUM-PUN,1
+3,3,5,4,False,3.14,2,S&T,Track,Replacement,HWH-KOL,0
+5,2,5,2,False,4.46,54,Engineering,Bridge,Inspection,MUM-PUN,1
+4,5,3,2,False,4.41,41,S&T,OHE,Replacement,MUM-PUN,1
+3,1,5,3,False,1.61,17,Traction Distribution,Signal,Inspection,DEL-AGR,0
+5,3,3,4,False,0.7,-8,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+1,5,2,2,False,2.17,-3,Engineering,OHE,Inspection,BPL-NGP,1
+5,5,1,4,False,1.36,4,Traction Distribution,OHE,Inspection,BPL-NGP,0
+5,2,4,4,False,2.68,16,Traction Distribution,Track,Inspection,DEL-AGR,0
+3,4,4,1,True,5.89,52,Engineering,Bridge,Testing,DEL-AGR,1
+4,1,5,5,True,1.5,-6,Engineering,Bridge,Testing,BPL-NGP,1
+3,1,4,1,False,2.25,29,Engineering,Track,Replacement,BPL-NGP,1
+2,2,1,4,True,4.49,12,Traction Distribution,Bridge,Repair,DEL-AGR,1
+4,5,3,3,False,3.3,-11,Traction Distribution,Point Machine,Inspection,BPL-NGP,1
+2,4,4,4,True,0.74,32,S&T,OHE,Testing,MAS-BLR,1
+2,3,3,4,False,1.39,38,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+3,2,3,4,False,5.64,57,S&T,OHE,Overhaul,MUM-PUN,1
+5,1,5,4,False,1.07,24,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+2,2,4,5,False,3.99,10,Traction Distribution,Track,Inspection,BPL-NGP,1
+3,1,4,4,True,4.86,50,Traction Distribution,Track,Overhaul,HWH-KOL,1
+1,1,3,5,True,1.96,4,S&T,OHE,Replacement,BPL-NGP,0
+1,4,2,3,False,4.49,37,S&T,Signal,Repair,MAS-BLR,1
+1,1,3,2,False,1.43,56,Engineering,Bridge,Repair,HWH-KOL,0
+1,1,5,2,False,2.07,-14,Traction Distribution,Track,Inspection,HWH-KOL,0
+5,3,4,4,False,2.22,55,Engineering,Point Machine,Testing,HWH-KOL,0
+5,2,4,3,False,5.98,1,S&T,Point Machine,Inspection,HWH-KOL,1
+5,3,1,1,True,1.68,22,S&T,Bridge,Testing,DEL-AGR,0
+1,1,5,2,False,1.21,5,Traction Distribution,Bridge,Testing,MAS-BLR,0
+1,2,2,5,False,5.59,-4,Traction Distribution,Bridge,Inspection,HWH-KOL,0
+2,3,5,4,False,1.39,38,Traction Distribution,Signal,Overhaul,MUM-PUN,0
+3,4,3,4,False,5.34,22,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+2,3,5,1,False,4.08,24,Traction Distribution,Track,Testing,MUM-PUN,0
+3,3,5,1,True,3.67,22,S&T,OHE,Replacement,MAS-BLR,1
+1,3,4,2,False,4.63,42,S&T,Signal,Inspection,BPL-NGP,0
+4,2,5,5,True,4.49,58,Traction Distribution,Signal,Overhaul,MUM-PUN,1
+2,2,4,3,True,1.11,24,S&T,OHE,Overhaul,BPL-NGP,1
+1,3,5,4,True,6.0,-3,S&T,Track,Testing,DEL-AGR,1
+4,1,1,3,False,5.68,10,Engineering,OHE,Replacement,MAS-BLR,0
+5,4,1,3,True,5.43,23,S&T,OHE,Testing,HWH-KOL,0
+1,4,3,4,False,3.92,-7,S&T,Signal,Overhaul,BPL-NGP,1
+3,2,5,5,False,3.38,3,Engineering,OHE,Replacement,BPL-NGP,1
+5,2,4,3,False,3.45,1,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+4,2,3,3,False,0.58,58,Traction Distribution,Point Machine,Repair,BPL-NGP,0
+5,4,3,5,True,3.25,16,Traction Distribution,Track,Overhaul,MUM-PUN,0
+3,4,4,2,True,3.93,51,Engineering,OHE,Overhaul,BPL-NGP,0
+2,1,5,5,False,4.12,27,Engineering,Point Machine,Inspection,DEL-AGR,0
+4,3,5,3,False,2.33,23,Engineering,Point Machine,Replacement,DEL-AGR,0
+1,1,1,5,False,3.09,56,Traction Distribution,OHE,Inspection,MAS-BLR,0
+2,3,3,3,False,4.0,37,Traction Distribution,Track,Repair,BPL-NGP,0
+4,2,2,4,False,2.86,3,S&T,Track,Overhaul,DEL-AGR,0
+4,2,4,2,False,5.79,7,Engineering,Signal,Overhaul,MUM-PUN,1
+1,3,3,4,False,4.38,35,S&T,Point Machine,Inspection,HWH-KOL,0
+3,2,5,2,False,0.51,-14,Traction Distribution,Point Machine,Overhaul,DEL-AGR,1
+2,2,3,4,False,0.63,-3,S&T,Point Machine,Inspection,HWH-KOL,0
+3,4,4,4,False,4.3,-9,Engineering,Signal,Inspection,MUM-PUN,1
+5,5,1,3,False,2.77,39,S&T,OHE,Testing,DEL-AGR,1
+1,1,5,3,True,5.12,19,Traction Distribution,Track,Inspection,MUM-PUN,0
+5,2,1,2,False,1.45,-14,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+3,5,2,4,False,0.58,41,S&T,Signal,Inspection,DEL-AGR,0
+4,3,5,3,True,2.63,35,Traction Distribution,OHE,Replacement,BPL-NGP,1
+3,2,5,3,False,4.55,39,Engineering,OHE,Replacement,MUM-PUN,1
+2,3,3,1,False,5.84,-2,Traction Distribution,Signal,Testing,DEL-AGR,1
+4,1,3,1,True,5.36,51,Engineering,Track,Testing,DEL-AGR,0
+4,1,1,1,True,3.16,-1,S&T,Bridge,Overhaul,MAS-BLR,1
+1,4,5,5,False,4.97,28,S&T,Track,Replacement,DEL-AGR,0
+4,3,1,5,True,0.89,27,Traction Distribution,Bridge,Inspection,MAS-BLR,1
+4,4,1,1,False,3.65,2,Engineering,Track,Testing,DEL-AGR,0
+2,2,3,1,False,5.58,14,Engineering,Track,Replacement,DEL-AGR,0
+5,5,1,4,False,2.68,-11,Traction Distribution,Bridge,Repair,HWH-KOL,1
+4,3,1,3,False,5.78,21,S&T,Bridge,Replacement,MAS-BLR,0
+2,4,4,2,False,1.71,36,Traction Distribution,Bridge,Repair,DEL-AGR,1
+1,1,4,4,False,1.08,9,S&T,Point Machine,Repair,MUM-PUN,0
+4,1,2,2,False,3.39,26,S&T,OHE,Replacement,BPL-NGP,0
+2,4,4,1,True,5.49,57,Traction Distribution,Track,Overhaul,DEL-AGR,0
+4,5,4,2,False,2.21,3,Traction Distribution,OHE,Inspection,DEL-AGR,1
+3,5,2,5,False,4.9,7,Traction Distribution,OHE,Testing,MUM-PUN,1
+3,2,4,4,False,1.43,-6,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+1,1,3,1,False,4.6,26,Engineering,Track,Inspection,MAS-BLR,0
+4,5,5,3,False,3.56,1,Engineering,Track,Overhaul,BPL-NGP,1
+1,4,1,5,False,1.46,50,Traction Distribution,OHE,Inspection,BPL-NGP,0
+3,2,2,5,True,4.45,7,S&T,Bridge,Overhaul,DEL-AGR,1
+5,4,2,4,False,4.43,35,Engineering,Bridge,Overhaul,MUM-PUN,1
+5,5,2,1,False,3.33,0,Engineering,OHE,Replacement,MAS-BLR,0
+5,2,5,2,False,1.74,10,S&T,Signal,Replacement,BPL-NGP,1
+5,4,4,2,False,1.23,-2,S&T,OHE,Testing,MUM-PUN,1
+3,4,3,1,True,5.76,27,Traction Distribution,OHE,Overhaul,BPL-NGP,0
+2,3,3,1,False,4.11,-12,Traction Distribution,Point Machine,Overhaul,BPL-NGP,1
+5,4,5,2,False,4.95,-8,Traction Distribution,Signal,Inspection,BPL-NGP,0
+5,2,3,3,False,4.33,23,S&T,Signal,Replacement,MAS-BLR,0
+5,5,2,2,False,5.06,26,Traction Distribution,OHE,Inspection,HWH-KOL,1
+4,5,1,3,True,1.39,10,Traction Distribution,Bridge,Repair,DEL-AGR,1
+1,5,2,2,False,3.23,18,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+3,4,4,1,False,4.17,17,S&T,Point Machine,Replacement,DEL-AGR,0
+3,1,3,5,False,1.07,42,Engineering,Signal,Testing,BPL-NGP,1
+5,2,3,3,False,1.32,19,Engineering,OHE,Testing,BPL-NGP,1
+2,3,3,2,False,3.99,49,Traction Distribution,OHE,Inspection,DEL-AGR,0
+2,5,5,5,False,5.28,2,Traction Distribution,Bridge,Testing,BPL-NGP,1
+1,3,5,5,False,4.13,0,Traction Distribution,Signal,Testing,MAS-BLR,1
+5,3,1,5,False,0.7,16,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+4,1,1,1,False,5.84,-8,S&T,Point Machine,Repair,MUM-PUN,0
+1,4,2,4,False,1.27,36,Engineering,Point Machine,Testing,MUM-PUN,0
+3,2,5,5,True,1.78,15,Engineering,Point Machine,Inspection,BPL-NGP,1
+3,1,3,5,False,5.86,13,Traction Distribution,Point Machine,Inspection,DEL-AGR,1
+3,5,5,2,False,4.74,26,Engineering,Point Machine,Replacement,BPL-NGP,1
+5,1,4,5,False,5.65,-8,S&T,Point Machine,Testing,DEL-AGR,0
+1,1,3,3,True,4.94,14,Traction Distribution,Signal,Repair,MUM-PUN,1
+2,1,2,3,False,4.08,58,S&T,OHE,Overhaul,HWH-KOL,0
+1,3,2,3,True,2.07,33,Traction Distribution,OHE,Overhaul,DEL-AGR,1
+2,1,1,4,False,2.3,29,S&T,Bridge,Inspection,BPL-NGP,0
+5,5,3,1,False,5.71,23,Traction Distribution,Point Machine,Repair,BPL-NGP,1
+5,3,2,3,False,5.23,21,Engineering,Bridge,Overhaul,DEL-AGR,0
+1,2,2,5,True,2.48,56,S&T,Point Machine,Replacement,MAS-BLR,0
+4,1,1,3,False,2.55,55,Engineering,OHE,Repair,BPL-NGP,0
+2,3,4,2,False,2.14,16,Engineering,OHE,Repair,MAS-BLR,0
+1,1,5,1,False,2.29,55,Traction Distribution,Point Machine,Replacement,BPL-NGP,0
+2,5,3,3,False,5.23,-8,S&T,Bridge,Testing,BPL-NGP,0
+1,2,3,4,False,0.56,9,S&T,Signal,Replacement,MUM-PUN,0
+3,3,5,3,False,2.9,8,S&T,Signal,Testing,MUM-PUN,0
+5,1,3,5,False,5.69,38,Engineering,Signal,Overhaul,MUM-PUN,1
+3,1,4,4,False,3.48,31,Engineering,Track,Replacement,MUM-PUN,0
+4,2,3,3,False,2.98,21,Traction Distribution,Point Machine,Overhaul,MUM-PUN,0
+3,1,3,1,False,2.22,5,Engineering,Bridge,Replacement,BPL-NGP,0
+1,4,3,3,False,0.91,24,S&T,Point Machine,Overhaul,HWH-KOL,1
+1,5,4,1,True,1.73,6,Engineering,Track,Testing,HWH-KOL,0
+2,5,4,4,False,1.0,23,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+2,2,3,1,False,1.2,11,Engineering,Bridge,Inspection,BPL-NGP,0
+5,4,1,5,False,1.4,52,S&T,Track,Inspection,MAS-BLR,1
+5,3,5,2,False,2.16,41,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+5,1,5,3,False,0.56,-1,S&T,OHE,Testing,MUM-PUN,0
+4,1,1,1,False,5.73,56,S&T,Bridge,Replacement,DEL-AGR,0
+3,3,2,2,False,1.18,35,S&T,OHE,Repair,DEL-AGR,0
+4,3,5,5,False,2.61,12,S&T,OHE,Testing,BPL-NGP,1
+3,1,2,2,False,5.34,25,Engineering,Point Machine,Replacement,MAS-BLR,0
+4,5,5,3,False,1.09,0,S&T,Bridge,Repair,BPL-NGP,1
+4,4,4,5,True,3.16,-11,S&T,OHE,Repair,MAS-BLR,1
+4,3,5,4,False,5.15,17,Traction Distribution,Point Machine,Repair,BPL-NGP,1
+4,5,1,1,False,3.56,44,S&T,Bridge,Repair,MAS-BLR,0
+1,5,3,2,False,1.66,12,Traction Distribution,OHE,Repair,MUM-PUN,0
+4,5,3,2,True,4.55,14,Engineering,Point Machine,Overhaul,MUM-PUN,1
+2,2,5,2,False,4.25,60,S&T,Signal,Inspection,MAS-BLR,1
+4,5,2,2,False,2.49,60,S&T,Signal,Repair,BPL-NGP,1
+3,3,2,3,True,0.75,20,Traction Distribution,Track,Inspection,HWH-KOL,1
+5,4,1,2,False,0.54,-11,S&T,Point Machine,Overhaul,MAS-BLR,1
+2,5,4,2,False,5.04,36,Traction Distribution,Signal,Testing,BPL-NGP,1
+5,1,5,3,False,2.27,39,Engineering,Bridge,Overhaul,MUM-PUN,0
+5,3,1,2,True,1.26,54,Traction Distribution,Bridge,Repair,BPL-NGP,1
+2,1,2,2,False,3.35,57,Traction Distribution,Bridge,Replacement,MUM-PUN,0
+3,2,2,3,False,5.56,33,S&T,Signal,Inspection,HWH-KOL,0
+3,3,5,5,False,0.55,-6,Engineering,Point Machine,Replacement,MAS-BLR,1
+4,5,3,3,False,0.81,4,S&T,Point Machine,Repair,BPL-NGP,0
+4,5,2,3,False,2.79,39,Traction Distribution,OHE,Replacement,DEL-AGR,1
+5,2,2,5,False,4.22,31,S&T,OHE,Replacement,HWH-KOL,0
+2,2,3,4,False,3.12,18,Engineering,OHE,Overhaul,BPL-NGP,0
+3,3,2,2,False,5.44,16,S&T,Signal,Replacement,HWH-KOL,0
+3,5,1,2,False,0.74,39,Traction Distribution,OHE,Testing,MUM-PUN,0
+5,5,5,3,False,2.37,17,Engineering,Bridge,Inspection,BPL-NGP,1
+2,2,3,3,False,2.43,-3,S&T,Signal,Testing,MAS-BLR,0
+3,1,2,1,False,2.37,59,S&T,Track,Overhaul,DEL-AGR,0
+1,4,4,1,False,3.18,12,Traction Distribution,Track,Overhaul,BPL-NGP,0
+5,2,4,2,False,4.85,6,S&T,OHE,Testing,MAS-BLR,1
+2,1,1,5,True,2.25,-9,S&T,Signal,Inspection,HWH-KOL,1
+2,1,1,4,True,4.59,21,S&T,OHE,Repair,MUM-PUN,0
+3,3,1,5,False,1.31,59,S&T,Bridge,Inspection,MUM-PUN,0
+3,2,4,1,False,3.58,-3,S&T,Track,Overhaul,MUM-PUN,0
+5,3,4,3,False,2.56,4,Engineering,Track,Repair,MUM-PUN,0
+3,2,4,3,False,3.47,-1,Engineering,Signal,Repair,BPL-NGP,0
+3,4,4,3,False,1.09,-7,Traction Distribution,OHE,Overhaul,DEL-AGR,1
+1,4,3,3,False,5.74,31,S&T,Point Machine,Replacement,MUM-PUN,1
+1,3,3,2,False,5.48,8,S&T,Track,Overhaul,MAS-BLR,0
+2,1,4,1,True,5.05,42,S&T,Track,Testing,MAS-BLR,1
+5,3,2,5,False,5.41,16,Traction Distribution,Track,Repair,MUM-PUN,1
+5,4,5,5,True,1.31,33,Traction Distribution,Bridge,Testing,HWH-KOL,1
+4,2,5,1,False,3.27,-8,S&T,Track,Replacement,HWH-KOL,1
+4,2,5,3,False,2.25,10,Engineering,Point Machine,Repair,MUM-PUN,1
+2,3,5,3,False,5.38,17,Traction Distribution,OHE,Testing,DEL-AGR,0
+1,2,2,4,False,1.54,-10,Engineering,Track,Replacement,DEL-AGR,0
+1,3,1,5,False,1.71,17,Engineering,OHE,Inspection,BPL-NGP,0
+2,2,3,3,True,4.28,21,Engineering,Signal,Repair,DEL-AGR,0
+2,2,4,4,True,0.99,16,S&T,OHE,Testing,BPL-NGP,1
+1,4,4,5,False,4.53,23,S&T,Track,Replacement,DEL-AGR,0
+2,3,2,5,False,1.97,45,Engineering,Point Machine,Replacement,DEL-AGR,0
+1,3,2,2,False,4.14,43,Engineering,Point Machine,Overhaul,DEL-AGR,0
+4,4,3,5,False,5.3,-13,Engineering,Track,Inspection,MUM-PUN,1
+5,2,5,3,False,3.85,34,S&T,OHE,Inspection,MUM-PUN,1
+4,1,1,1,False,1.67,53,Engineering,Point Machine,Replacement,MUM-PUN,0
+3,5,2,4,False,0.77,51,S&T,Track,Testing,MUM-PUN,0
+3,1,2,5,True,0.75,10,S&T,Point Machine,Inspection,MAS-BLR,0
+2,3,5,2,False,0.99,44,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+1,2,3,3,False,3.69,46,Traction Distribution,Signal,Testing,MAS-BLR,0
+3,2,1,2,False,2.42,13,S&T,OHE,Inspection,MUM-PUN,0
+3,1,2,1,True,1.84,51,S&T,Point Machine,Inspection,HWH-KOL,0
+1,5,1,5,False,1.71,33,Engineering,Point Machine,Testing,DEL-AGR,0
+3,3,3,1,False,5.72,42,S&T,Point Machine,Inspection,MUM-PUN,1
+2,2,5,3,False,1.15,42,S&T,Track,Overhaul,DEL-AGR,0
+1,4,3,1,False,2.18,44,Engineering,Point Machine,Overhaul,DEL-AGR,0
+4,1,5,4,False,3.09,57,Traction Distribution,Track,Repair,DEL-AGR,0
+3,3,4,5,False,0.5,50,Engineering,Point Machine,Repair,DEL-AGR,0
+4,3,5,4,False,5.57,17,Engineering,Signal,Replacement,MUM-PUN,1
+4,3,2,4,True,1.05,28,Traction Distribution,Track,Replacement,BPL-NGP,0
+5,1,5,5,False,4.25,34,Traction Distribution,Point Machine,Testing,DEL-AGR,1
+5,5,2,5,False,3.96,50,S&T,OHE,Replacement,BPL-NGP,1
+4,2,3,5,False,4.95,15,S&T,Point Machine,Testing,MUM-PUN,0
+5,4,4,2,False,4.08,9,Traction Distribution,Signal,Repair,HWH-KOL,1
+3,4,2,3,False,4.73,41,Engineering,Signal,Repair,MAS-BLR,0
+5,2,2,5,True,2.82,57,S&T,Point Machine,Repair,HWH-KOL,0
+4,1,1,2,False,3.19,54,Engineering,Signal,Overhaul,MUM-PUN,0
+4,2,1,4,False,4.36,-3,S&T,Bridge,Inspection,MUM-PUN,1
+5,5,3,1,False,3.63,54,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+3,5,5,5,False,3.31,45,S&T,Bridge,Overhaul,MAS-BLR,1
+4,5,2,4,True,1.63,-3,Traction Distribution,Track,Testing,BPL-NGP,1
+2,2,3,4,True,1.92,-14,S&T,OHE,Testing,MUM-PUN,1
+5,4,5,5,False,2.47,1,Traction Distribution,OHE,Inspection,HWH-KOL,1
+4,1,4,2,False,0.55,55,Engineering,Bridge,Overhaul,HWH-KOL,0
+4,4,1,3,False,2.8,42,Engineering,OHE,Replacement,DEL-AGR,1
+3,3,3,5,False,0.52,29,Engineering,Bridge,Overhaul,MAS-BLR,1
+5,4,1,1,False,3.61,33,Traction Distribution,Signal,Testing,BPL-NGP,1
+1,4,2,5,False,4.37,16,S&T,Bridge,Replacement,HWH-KOL,0
+1,5,2,2,True,3.59,53,Engineering,OHE,Inspection,BPL-NGP,0
+3,3,4,3,False,4.31,-3,Engineering,Bridge,Testing,DEL-AGR,0
+4,2,1,3,False,0.5,9,S&T,Signal,Replacement,MAS-BLR,0
+5,3,2,4,False,0.83,1,Engineering,Signal,Replacement,BPL-NGP,0
+3,1,2,5,True,4.34,49,Traction Distribution,OHE,Replacement,MAS-BLR,1
+4,1,2,2,True,4.92,26,Traction Distribution,OHE,Testing,MAS-BLR,0
+3,3,4,1,True,4.45,37,Traction Distribution,Track,Replacement,HWH-KOL,1
+5,5,2,3,False,4.15,54,Engineering,Point Machine,Repair,MUM-PUN,0
+4,3,2,4,True,4.39,0,S&T,OHE,Overhaul,BPL-NGP,1
+3,4,3,4,False,4.57,58,S&T,Track,Overhaul,HWH-KOL,1
+5,1,4,4,True,4.48,-5,S&T,OHE,Inspection,HWH-KOL,1
+1,3,1,2,True,4.56,42,S&T,Point Machine,Replacement,BPL-NGP,0
+5,4,5,5,False,0.91,38,Engineering,Track,Overhaul,MAS-BLR,1
+1,2,5,1,True,0.85,47,Engineering,Bridge,Testing,DEL-AGR,0
+2,1,4,1,False,2.49,-3,S&T,Point Machine,Repair,HWH-KOL,0
+5,1,3,1,False,3.4,57,Engineering,Signal,Replacement,BPL-NGP,1
+4,5,4,5,False,4.69,45,Engineering,Point Machine,Testing,MUM-PUN,0
+5,4,3,1,True,2.34,-6,S&T,Bridge,Replacement,MUM-PUN,1
+4,2,2,4,False,2.01,27,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+4,2,2,5,False,4.8,47,S&T,Point Machine,Inspection,MUM-PUN,0
+2,1,1,4,False,1.87,21,Engineering,Signal,Inspection,HWH-KOL,1
+1,5,5,5,False,5.01,14,Traction Distribution,Track,Overhaul,MAS-BLR,1
+1,1,2,1,False,1.47,6,Traction Distribution,Signal,Testing,HWH-KOL,0
+2,4,2,3,False,2.48,24,Engineering,Bridge,Overhaul,MUM-PUN,0
+1,2,5,3,False,2.71,59,Engineering,Signal,Overhaul,MAS-BLR,1
+3,2,3,4,False,2.15,31,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+4,2,4,4,False,0.52,40,S&T,Bridge,Repair,DEL-AGR,0
+5,5,2,3,False,1.8,44,Engineering,Signal,Replacement,HWH-KOL,1
+3,1,2,2,False,2.36,44,Engineering,OHE,Repair,MAS-BLR,0
+5,2,4,1,False,2.22,16,Engineering,Signal,Repair,MUM-PUN,0
+5,2,3,3,False,4.82,43,S&T,Signal,Replacement,DEL-AGR,1
+5,2,1,2,False,0.76,10,S&T,OHE,Overhaul,BPL-NGP,0
+3,1,5,3,True,2.64,29,S&T,Point Machine,Testing,HWH-KOL,0
+2,5,3,4,False,0.71,8,Engineering,Signal,Repair,BPL-NGP,0
+5,2,4,3,False,5.62,56,S&T,Track,Repair,MUM-PUN,0
+2,3,2,3,False,4.85,40,S&T,Point Machine,Inspection,DEL-AGR,0
+3,2,3,1,False,5.9,29,Traction Distribution,OHE,Testing,MUM-PUN,0
+1,5,4,4,False,5.51,19,Traction Distribution,Point Machine,Overhaul,HWH-KOL,0
+4,2,5,3,False,2.24,25,Engineering,OHE,Repair,HWH-KOL,0
+4,2,2,1,False,4.3,44,Engineering,Point Machine,Testing,MAS-BLR,0
+1,2,4,2,True,2.19,6,S&T,Point Machine,Overhaul,MUM-PUN,0
+2,2,5,4,False,5.39,48,S&T,Point Machine,Replacement,MUM-PUN,0
+3,1,4,5,False,2.76,7,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+3,4,1,3,False,2.57,-4,S&T,OHE,Replacement,HWH-KOL,0
+5,1,1,5,True,5.53,41,Engineering,Signal,Inspection,MAS-BLR,0
+2,2,2,1,False,5.1,39,S&T,OHE,Inspection,MAS-BLR,0
+5,2,1,2,False,5.82,11,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+3,2,4,5,False,0.87,34,Engineering,OHE,Repair,HWH-KOL,1
+5,4,5,1,True,1.84,40,Traction Distribution,OHE,Inspection,BPL-NGP,1
+2,3,3,4,False,2.15,45,Engineering,Signal,Testing,DEL-AGR,0
+1,5,3,2,True,2.83,57,Traction Distribution,Track,Testing,BPL-NGP,0
+1,2,4,2,False,3.1,50,S&T,OHE,Testing,DEL-AGR,1
+2,5,3,3,False,2.1,18,S&T,Bridge,Inspection,DEL-AGR,0
+5,1,3,2,False,4.85,3,Engineering,Point Machine,Testing,DEL-AGR,0
+1,3,3,5,False,1.73,-7,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+2,4,2,5,False,4.33,29,S&T,Point Machine,Inspection,BPL-NGP,0
+1,3,1,3,False,5.18,35,S&T,Bridge,Testing,BPL-NGP,0
+5,5,3,3,True,3.82,37,S&T,Signal,Repair,BPL-NGP,0
+4,2,5,1,False,2.45,-14,S&T,Point Machine,Overhaul,BPL-NGP,0
+4,1,1,2,False,1.53,38,S&T,Track,Inspection,HWH-KOL,0
+4,4,2,1,False,1.24,45,Traction Distribution,Signal,Inspection,MAS-BLR,1
+4,1,2,5,False,4.59,40,Engineering,Track,Testing,DEL-AGR,1
+4,4,5,2,False,3.08,25,Engineering,OHE,Replacement,HWH-KOL,1
+1,4,3,2,False,0.75,-13,Traction Distribution,Track,Testing,BPL-NGP,0
+5,5,3,5,False,5.91,22,Traction Distribution,Signal,Inspection,MAS-BLR,1
+4,3,4,4,False,4.19,34,S&T,Track,Testing,MUM-PUN,0
+4,5,2,4,True,5.14,28,S&T,Track,Testing,DEL-AGR,1
+2,1,4,1,True,2.91,29,Engineering,OHE,Testing,BPL-NGP,0
+5,3,1,3,True,5.75,24,Engineering,OHE,Inspection,DEL-AGR,0
+2,1,1,3,False,1.6,27,Traction Distribution,OHE,Inspection,BPL-NGP,0
+1,4,5,2,False,1.52,10,S&T,Signal,Replacement,BPL-NGP,0
+5,4,4,4,False,5.4,31,Engineering,OHE,Inspection,BPL-NGP,1
+2,5,1,5,True,5.4,7,Traction Distribution,Track,Inspection,MUM-PUN,1
+1,4,3,2,False,3.24,22,S&T,OHE,Testing,DEL-AGR,0
+4,2,1,2,True,1.19,17,S&T,Bridge,Overhaul,BPL-NGP,0
+2,1,4,2,False,2.18,39,Traction Distribution,Track,Testing,MUM-PUN,0
+5,5,4,5,False,4.65,53,Traction Distribution,Track,Testing,MUM-PUN,1
+3,3,2,1,False,5.15,33,Engineering,Point Machine,Inspection,DEL-AGR,0
+1,1,2,5,True,2.41,-4,S&T,OHE,Testing,MUM-PUN,1
+5,5,2,4,False,0.84,36,Engineering,Signal,Inspection,MAS-BLR,1
+3,5,2,3,False,4.16,10,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+2,3,2,3,False,4.57,-11,Traction Distribution,Signal,Repair,MUM-PUN,0
+4,4,2,5,True,2.83,0,S&T,Point Machine,Repair,DEL-AGR,1
+3,1,3,4,False,3.71,60,Engineering,OHE,Overhaul,DEL-AGR,1
+1,1,5,2,False,5.93,18,Traction Distribution,Track,Inspection,DEL-AGR,0
+4,2,4,1,False,1.85,1,S&T,Point Machine,Testing,DEL-AGR,1
+3,4,2,4,False,3.65,-4,Engineering,Point Machine,Testing,BPL-NGP,1
+4,1,5,1,False,3.86,34,S&T,Signal,Overhaul,BPL-NGP,1
+5,1,2,1,False,3.52,43,S&T,Point Machine,Inspection,BPL-NGP,0
+4,4,5,5,False,5.28,12,Engineering,Point Machine,Replacement,MUM-PUN,1
+4,4,2,3,False,3.83,-7,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+2,4,3,4,True,3.29,12,Traction Distribution,Bridge,Repair,DEL-AGR,0
+2,4,2,2,False,1.18,35,Engineering,Signal,Repair,MUM-PUN,0
+3,5,4,1,True,4.37,-6,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+5,4,2,1,False,1.23,6,S&T,Track,Testing,MAS-BLR,0
+3,3,5,2,False,0.65,-14,Traction Distribution,Signal,Inspection,HWH-KOL,0
+2,5,1,1,False,3.19,21,Traction Distribution,Point Machine,Replacement,BPL-NGP,0
+4,2,3,3,False,3.65,-2,S&T,OHE,Repair,BPL-NGP,0
+5,1,1,2,False,5.99,0,Traction Distribution,Signal,Replacement,MAS-BLR,0
+5,4,5,3,False,4.42,-6,Traction Distribution,Track,Inspection,MUM-PUN,1
+2,2,3,3,True,5.17,40,Traction Distribution,Point Machine,Testing,DEL-AGR,1
+4,5,4,2,False,2.41,22,S&T,Bridge,Replacement,DEL-AGR,1
+3,3,5,3,False,3.3,57,Traction Distribution,Point Machine,Testing,MUM-PUN,1
+3,5,3,1,False,5.86,15,Traction Distribution,OHE,Inspection,MUM-PUN,0
+2,1,1,2,False,2.8,2,Traction Distribution,Point Machine,Replacement,HWH-KOL,0
+1,4,2,5,True,4.94,1,Engineering,Signal,Overhaul,DEL-AGR,0
+2,3,2,5,True,3.39,57,S&T,Bridge,Overhaul,HWH-KOL,1
+3,3,5,3,False,1.73,30,S&T,Track,Inspection,BPL-NGP,0
+5,2,5,5,False,3.69,10,S&T,OHE,Overhaul,DEL-AGR,1
+5,5,3,3,False,1.7,35,S&T,Signal,Inspection,MUM-PUN,1
+1,2,5,1,False,0.52,27,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+4,5,2,5,False,1.8,-6,S&T,Signal,Inspection,DEL-AGR,0
+1,3,4,3,False,1.56,38,Traction Distribution,Point Machine,Inspection,BPL-NGP,0
+4,1,2,4,False,2.54,-6,Traction Distribution,Track,Overhaul,BPL-NGP,0
+2,5,2,4,False,5.39,0,Engineering,Track,Overhaul,MUM-PUN,1
+3,1,2,2,True,2.63,39,S&T,OHE,Testing,DEL-AGR,0
+4,2,3,4,False,5.15,19,S&T,Point Machine,Overhaul,HWH-KOL,1
+3,5,2,3,False,3.56,2,Traction Distribution,Signal,Replacement,MAS-BLR,0
+5,5,2,2,False,0.54,-9,S&T,Point Machine,Inspection,MUM-PUN,1
+3,5,2,2,False,1.54,30,S&T,OHE,Overhaul,MAS-BLR,1
+5,3,1,4,False,5.62,38,Traction Distribution,Bridge,Repair,MAS-BLR,0
+4,4,5,2,False,3.82,1,Engineering,Signal,Inspection,MUM-PUN,1
+2,2,2,1,False,5.61,17,S&T,Signal,Overhaul,HWH-KOL,0
+4,4,1,5,True,2.21,11,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+3,3,3,2,False,4.44,52,Traction Distribution,Signal,Inspection,HWH-KOL,0
+3,1,5,4,False,4.75,45,Engineering,Signal,Replacement,MAS-BLR,0
+1,3,2,4,False,5.87,6,Traction Distribution,Bridge,Overhaul,MAS-BLR,1
+1,3,5,5,False,0.6,24,Engineering,Bridge,Replacement,DEL-AGR,0
+3,2,4,4,True,5.74,55,Engineering,Track,Overhaul,BPL-NGP,1
+1,2,4,4,False,2.65,11,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+5,3,2,5,False,5.11,-4,S&T,Point Machine,Repair,MUM-PUN,1
+5,1,1,5,False,3.5,8,S&T,Signal,Repair,MAS-BLR,1
+4,1,2,1,False,3.61,31,S&T,OHE,Repair,BPL-NGP,0
+4,4,5,4,False,2.48,60,Traction Distribution,Signal,Testing,MUM-PUN,1
+3,2,4,1,True,5.06,9,Engineering,Track,Repair,MAS-BLR,1
+1,4,4,5,True,1.95,-10,Engineering,Track,Overhaul,BPL-NGP,1
+2,3,5,1,True,3.21,-1,S&T,Track,Repair,DEL-AGR,1
+3,3,2,2,False,3.58,16,Traction Distribution,OHE,Replacement,DEL-AGR,1
+5,3,2,1,False,4.58,-7,S&T,Bridge,Overhaul,BPL-NGP,0
+2,3,5,4,False,3.09,-12,Traction Distribution,OHE,Replacement,MAS-BLR,0
+3,5,3,1,False,4.24,35,Traction Distribution,Track,Overhaul,DEL-AGR,1
+2,5,2,1,False,3.17,47,Traction Distribution,OHE,Testing,HWH-KOL,0
+1,2,2,3,True,4.13,3,S&T,Point Machine,Testing,MAS-BLR,1
+1,4,5,5,False,4.21,25,S&T,Bridge,Testing,MAS-BLR,1
+2,5,1,3,False,4.4,28,Engineering,Point Machine,Inspection,BPL-NGP,1
+1,1,1,3,False,5.03,36,Engineering,Signal,Overhaul,MAS-BLR,0
+1,4,4,4,False,3.47,59,S&T,Point Machine,Overhaul,MAS-BLR,1
+2,3,1,3,False,1.56,52,Traction Distribution,Track,Replacement,MAS-BLR,0
+2,5,1,2,False,4.24,9,Traction Distribution,OHE,Repair,BPL-NGP,0
+3,3,5,3,True,0.92,59,S&T,OHE,Inspection,MAS-BLR,1
+1,5,3,1,True,1.7,-12,S&T,Track,Testing,DEL-AGR,0
+2,1,4,2,True,4.86,58,Traction Distribution,Track,Testing,DEL-AGR,0
+3,1,3,4,False,2.89,-4,Engineering,Bridge,Inspection,HWH-KOL,0
+5,5,1,2,False,3.24,-6,Engineering,Signal,Replacement,BPL-NGP,1
+4,3,1,1,False,5.93,-6,Traction Distribution,Track,Replacement,MAS-BLR,0
+5,3,4,1,False,1.79,-5,S&T,OHE,Inspection,BPL-NGP,1
+2,1,1,5,False,0.61,20,Engineering,Signal,Replacement,MUM-PUN,0
+3,2,3,2,False,1.11,34,Engineering,Bridge,Testing,MAS-BLR,0
+3,5,2,1,False,1.84,41,Engineering,Bridge,Repair,DEL-AGR,0
+5,2,2,4,False,4.49,-13,Engineering,Bridge,Overhaul,DEL-AGR,0
+5,3,5,3,True,4.77,8,S&T,Signal,Testing,BPL-NGP,1
+5,2,4,3,True,3.61,-5,Traction Distribution,Bridge,Replacement,MAS-BLR,1
+4,2,4,5,False,1.9,-4,Traction Distribution,Signal,Inspection,HWH-KOL,0
+3,1,2,2,False,3.37,41,Traction Distribution,Signal,Repair,DEL-AGR,0
+3,5,2,3,False,0.58,34,Traction Distribution,Bridge,Inspection,DEL-AGR,0
+5,5,4,4,False,4.25,1,Engineering,Point Machine,Repair,MAS-BLR,1
+2,1,1,4,False,3.88,8,Engineering,Track,Overhaul,MUM-PUN,0
+2,2,2,2,False,0.62,55,Engineering,Bridge,Repair,BPL-NGP,0
+5,3,4,4,True,4.99,29,Traction Distribution,Track,Replacement,MUM-PUN,1
+2,2,4,4,True,4.7,3,S&T,Point Machine,Testing,MUM-PUN,1
+2,4,1,1,False,2.2,56,Traction Distribution,OHE,Repair,BPL-NGP,0
+3,2,4,1,False,3.99,0,S&T,Track,Testing,BPL-NGP,0
+2,1,3,4,True,3.81,7,Traction Distribution,Point Machine,Repair,HWH-KOL,0
+5,2,2,1,True,1.29,37,S&T,Point Machine,Overhaul,HWH-KOL,1
+5,3,4,5,False,1.56,24,Traction Distribution,Bridge,Inspection,HWH-KOL,1
+2,1,5,1,False,4.26,-9,Engineering,Point Machine,Repair,HWH-KOL,0
+3,5,3,5,True,5.63,46,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+5,1,2,4,True,3.67,3,S&T,Bridge,Replacement,BPL-NGP,1
+4,1,2,3,False,3.62,37,Engineering,Bridge,Replacement,MUM-PUN,0
+2,3,3,2,False,4.06,11,Engineering,OHE,Replacement,MUM-PUN,0
+3,3,1,2,False,2.92,42,Engineering,Track,Repair,BPL-NGP,0
+4,2,3,4,False,0.8,53,Engineering,Signal,Testing,BPL-NGP,1
+4,2,1,4,False,2.68,43,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+1,1,1,2,False,5.45,55,Engineering,Track,Inspection,MAS-BLR,0
+2,4,3,3,False,4.93,26,S&T,Track,Testing,HWH-KOL,0
+5,2,4,5,False,5.6,-10,S&T,Signal,Inspection,MUM-PUN,1
+2,1,5,2,False,1.34,26,S&T,Bridge,Testing,HWH-KOL,0
+2,2,1,4,False,3.28,20,S&T,Signal,Repair,DEL-AGR,0
+2,5,2,1,False,3.72,39,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+1,2,3,5,False,1.65,4,Traction Distribution,Bridge,Repair,MAS-BLR,1
+1,5,3,1,True,1.61,38,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+2,2,5,2,False,4.8,19,S&T,Signal,Replacement,HWH-KOL,1
+5,1,4,3,False,4.2,36,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+1,2,3,2,False,4.06,17,Engineering,Point Machine,Repair,HWH-KOL,0
+2,2,1,1,True,1.97,14,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+1,1,1,4,False,3.29,2,Engineering,Bridge,Overhaul,BPL-NGP,0
+3,3,1,1,False,0.63,48,Engineering,Track,Testing,HWH-KOL,0
+2,2,4,5,True,1.21,-9,Traction Distribution,Signal,Repair,DEL-AGR,1
+4,4,2,1,False,3.35,3,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+3,3,2,2,False,2.2,18,Engineering,Track,Replacement,BPL-NGP,0
+4,3,4,5,False,5.81,-3,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+4,3,5,1,True,3.09,54,Engineering,OHE,Repair,HWH-KOL,0
+3,1,3,1,False,0.96,11,Engineering,Signal,Testing,MAS-BLR,0
+5,4,5,4,False,0.6,4,Traction Distribution,Signal,Testing,BPL-NGP,0
+3,1,4,1,True,4.49,5,Engineering,Track,Overhaul,BPL-NGP,0
+5,4,4,5,True,1.44,0,Engineering,OHE,Repair,HWH-KOL,1
+5,5,5,3,True,1.53,35,Traction Distribution,Bridge,Overhaul,HWH-KOL,1
+3,4,1,5,False,2.83,22,S&T,Track,Overhaul,HWH-KOL,0
+4,3,4,2,False,1.95,3,S&T,OHE,Overhaul,HWH-KOL,1
+2,2,5,1,False,3.89,51,Traction Distribution,Point Machine,Replacement,DEL-AGR,1
+5,5,5,5,True,3.17,35,Engineering,OHE,Replacement,DEL-AGR,1
+4,2,3,4,False,1.11,16,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+5,3,4,5,True,4.82,24,Engineering,Point Machine,Testing,HWH-KOL,1
+2,4,5,2,False,2.84,35,S&T,Bridge,Replacement,HWH-KOL,1
+4,5,5,3,False,3.86,-3,Engineering,Point Machine,Repair,HWH-KOL,0
+3,5,5,3,False,0.52,46,Engineering,Point Machine,Replacement,HWH-KOL,1
+1,1,5,3,False,3.95,5,Engineering,Signal,Replacement,MAS-BLR,1
+1,5,2,2,False,2.06,-12,S&T,Track,Overhaul,HWH-KOL,0
+3,1,4,2,True,3.22,25,Traction Distribution,Track,Repair,HWH-KOL,0
+2,3,3,4,True,2.14,51,Engineering,Track,Inspection,HWH-KOL,1
+1,5,5,1,False,5.98,40,S&T,Bridge,Testing,DEL-AGR,0
+3,4,5,2,True,1.77,9,Traction Distribution,Track,Testing,DEL-AGR,1
+4,5,5,2,False,5.52,15,Traction Distribution,OHE,Inspection,DEL-AGR,1
+2,2,3,1,False,5.55,30,Traction Distribution,Point Machine,Repair,MUM-PUN,1
+5,2,3,1,False,2.82,3,Engineering,Point Machine,Replacement,DEL-AGR,1
+4,2,1,3,False,2.17,47,S&T,Track,Overhaul,MUM-PUN,1
+3,2,4,1,False,2.6,8,S&T,Bridge,Overhaul,MAS-BLR,0
+5,4,3,2,False,5.94,2,S&T,OHE,Repair,MUM-PUN,0
+3,3,3,3,True,3.9,-7,Engineering,Track,Repair,BPL-NGP,1
+1,4,4,5,True,3.5,37,Engineering,Track,Replacement,MUM-PUN,1
+1,3,5,1,False,0.7,-13,Traction Distribution,Bridge,Repair,MAS-BLR,0
+5,2,1,3,False,5.16,46,Engineering,Bridge,Replacement,BPL-NGP,1
+5,1,3,1,False,0.96,58,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+4,3,4,3,False,0.76,-6,Engineering,Signal,Inspection,MUM-PUN,0
+1,5,5,3,False,2.01,-7,S&T,Bridge,Overhaul,DEL-AGR,0
+2,5,4,4,False,3.12,56,S&T,Signal,Overhaul,MUM-PUN,1
+1,2,4,3,False,5.42,-5,Traction Distribution,Signal,Repair,BPL-NGP,0
+1,3,5,5,False,4.85,16,Traction Distribution,Point Machine,Replacement,BPL-NGP,1
+2,4,5,1,False,1.59,51,Engineering,Signal,Replacement,BPL-NGP,1
+3,4,4,1,False,2.55,-4,Traction Distribution,OHE,Inspection,MAS-BLR,0
+1,1,2,1,False,4.79,35,Engineering,Point Machine,Replacement,MUM-PUN,0
+5,3,3,2,False,3.4,14,Traction Distribution,Track,Replacement,HWH-KOL,1
+3,1,4,1,False,1.46,18,Traction Distribution,Bridge,Testing,HWH-KOL,0
+2,1,1,1,True,2.68,55,Engineering,Track,Repair,DEL-AGR,0
+3,4,4,2,False,3.94,34,S&T,Bridge,Overhaul,BPL-NGP,0
+4,1,3,5,False,5.85,9,Traction Distribution,Signal,Repair,DEL-AGR,0
+2,2,5,5,False,4.14,56,Traction Distribution,OHE,Inspection,MAS-BLR,1
+1,3,2,1,True,0.59,29,S&T,Signal,Repair,DEL-AGR,0
+1,4,5,5,False,4.38,-7,Engineering,OHE,Testing,DEL-AGR,1
+5,3,3,2,False,1.88,15,S&T,Track,Repair,DEL-AGR,1
+1,1,3,3,True,5.24,4,Traction Distribution,Track,Testing,MAS-BLR,0
+4,4,4,2,True,2.61,34,S&T,OHE,Overhaul,MAS-BLR,0
+2,5,3,3,True,1.6,50,Engineering,Point Machine,Overhaul,MAS-BLR,1
+4,5,5,4,False,3.07,-12,Engineering,Bridge,Overhaul,MAS-BLR,1
+1,4,1,4,False,1.9,44,Engineering,Bridge,Replacement,MAS-BLR,0
+5,3,4,3,True,1.8,54,S&T,Bridge,Overhaul,HWH-KOL,1
+4,5,5,4,False,3.65,60,S&T,Point Machine,Inspection,DEL-AGR,1
+3,3,2,4,False,4.72,35,S&T,Point Machine,Overhaul,HWH-KOL,0
+2,1,2,1,False,5.09,9,Traction Distribution,Signal,Overhaul,MUM-PUN,0
+5,5,3,2,False,2.69,-4,S&T,Bridge,Inspection,MUM-PUN,0
+2,2,4,1,False,0.87,56,S&T,Bridge,Replacement,BPL-NGP,0
+3,5,5,4,False,3.16,16,S&T,OHE,Replacement,DEL-AGR,1
+2,2,4,3,False,2.89,11,S&T,Track,Repair,MUM-PUN,0
+2,5,4,4,False,1.58,41,Traction Distribution,Track,Inspection,MUM-PUN,0
+3,3,3,3,False,5.43,39,Engineering,OHE,Inspection,DEL-AGR,0
+1,3,4,2,False,5.86,46,S&T,Point Machine,Repair,BPL-NGP,0
+1,2,2,1,False,0.78,52,Engineering,OHE,Repair,BPL-NGP,0
+2,5,3,5,False,4.88,51,Engineering,Bridge,Repair,HWH-KOL,0
+1,1,1,2,False,4.05,-2,Engineering,OHE,Overhaul,DEL-AGR,0
+3,3,1,1,False,1.94,-2,S&T,Point Machine,Replacement,BPL-NGP,0
+5,2,5,2,False,3.99,1,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+1,3,5,5,False,1.21,33,Traction Distribution,Bridge,Inspection,MUM-PUN,0
+1,2,3,2,True,0.88,29,Engineering,Point Machine,Overhaul,MAS-BLR,0
+1,4,1,5,True,5.96,50,Traction Distribution,OHE,Testing,MAS-BLR,1
+3,2,1,3,True,4.0,49,Engineering,Track,Testing,HWH-KOL,0
+2,1,1,5,False,1.89,47,Engineering,Point Machine,Overhaul,HWH-KOL,0
+3,1,4,4,False,2.98,-9,S&T,Track,Repair,MAS-BLR,1
+1,4,2,1,False,5.73,38,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+2,2,2,3,True,2.91,49,S&T,OHE,Inspection,HWH-KOL,0
+3,2,5,3,False,5.45,59,Engineering,Track,Inspection,HWH-KOL,0
+3,4,5,2,False,5.28,11,S&T,Point Machine,Inspection,MUM-PUN,0
+3,2,4,3,False,2.39,44,Engineering,Signal,Inspection,MUM-PUN,0
+4,2,2,1,False,4.33,16,Engineering,OHE,Repair,DEL-AGR,0
+3,2,3,4,False,4.13,-2,Engineering,Signal,Inspection,MUM-PUN,1
+5,2,2,5,True,4.74,11,S&T,Signal,Testing,MUM-PUN,0
+3,4,5,1,False,2.51,4,Engineering,Signal,Overhaul,MAS-BLR,0
+2,3,1,3,False,0.79,54,Traction Distribution,Track,Overhaul,MUM-PUN,0
+2,5,4,4,True,1.44,-1,Engineering,Track,Inspection,DEL-AGR,0
+2,4,3,1,False,3.89,-5,Engineering,Point Machine,Testing,MAS-BLR,0
+3,1,4,2,False,4.76,29,Traction Distribution,Track,Inspection,MUM-PUN,0
+2,2,3,2,False,4.66,29,Traction Distribution,OHE,Testing,MAS-BLR,0
+5,2,1,1,False,3.71,28,S&T,Track,Overhaul,DEL-AGR,0
+3,3,4,5,False,0.97,-3,Engineering,OHE,Repair,DEL-AGR,1
+5,2,4,3,False,0.6,23,Engineering,Point Machine,Inspection,MAS-BLR,0
+4,5,3,4,False,4.8,55,Traction Distribution,OHE,Overhaul,DEL-AGR,0
+2,2,2,3,False,3.52,-8,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+2,3,2,5,False,4.8,45,Traction Distribution,Signal,Replacement,BPL-NGP,0
+4,1,3,5,True,1.4,-5,Traction Distribution,OHE,Inspection,MUM-PUN,0
+2,5,2,4,False,2.74,3,Engineering,Signal,Replacement,HWH-KOL,1
+2,5,2,2,False,5.56,53,Traction Distribution,OHE,Replacement,HWH-KOL,1
+5,4,2,3,False,1.44,8,S&T,Track,Repair,MUM-PUN,0
+3,2,1,5,False,0.84,25,Traction Distribution,Signal,Testing,HWH-KOL,0
+1,1,5,3,False,4.09,14,S&T,Point Machine,Repair,MUM-PUN,0
+3,4,2,3,False,3.77,32,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+3,3,1,1,True,5.74,16,Traction Distribution,Signal,Overhaul,MUM-PUN,1
+5,5,1,5,True,5.49,19,Traction Distribution,Signal,Overhaul,DEL-AGR,1
+4,4,5,4,False,4.62,47,S&T,Signal,Overhaul,HWH-KOL,0
+1,3,3,2,False,0.61,27,Engineering,Signal,Replacement,HWH-KOL,0
+1,5,2,3,True,3.14,28,S&T,Bridge,Repair,DEL-AGR,0
+4,5,3,3,True,5.43,46,S&T,Point Machine,Repair,HWH-KOL,1
+1,3,1,1,False,2.89,18,Engineering,Signal,Inspection,BPL-NGP,0
+2,1,2,5,False,5.79,47,Traction Distribution,OHE,Inspection,DEL-AGR,0
+1,1,2,5,False,4.09,39,Engineering,OHE,Replacement,MUM-PUN,0
+1,3,5,5,False,1.1,52,S&T,OHE,Replacement,MAS-BLR,1
+5,3,1,2,True,3.3,20,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+1,1,3,2,True,4.33,27,Traction Distribution,Bridge,Testing,DEL-AGR,0
+1,1,4,1,True,0.86,-5,S&T,Signal,Replacement,HWH-KOL,0
+5,4,5,4,False,2.4,-6,Traction Distribution,OHE,Inspection,HWH-KOL,1
+1,4,3,2,True,4.44,-6,Traction Distribution,Track,Inspection,MUM-PUN,0
+5,1,2,5,False,1.36,33,Engineering,OHE,Repair,DEL-AGR,0
+1,3,2,5,False,2.42,10,Traction Distribution,Bridge,Repair,MAS-BLR,0
+1,1,2,1,False,4.29,7,S&T,Bridge,Inspection,MAS-BLR,0
+1,4,4,5,False,4.77,31,S&T,OHE,Overhaul,BPL-NGP,0
+4,5,2,1,True,3.35,15,Engineering,Track,Repair,DEL-AGR,1
+4,5,4,3,False,5.76,-4,S&T,Point Machine,Overhaul,MAS-BLR,0
+3,3,4,3,False,5.59,27,Traction Distribution,Point Machine,Repair,HWH-KOL,0
+2,4,5,5,False,3.1,27,Traction Distribution,Bridge,Inspection,HWH-KOL,1
+1,5,2,4,False,1.38,-4,Traction Distribution,OHE,Inspection,MAS-BLR,0
+3,4,5,5,False,4.75,6,Traction Distribution,Track,Replacement,HWH-KOL,1
+2,3,3,3,False,1.84,3,S&T,Bridge,Replacement,MUM-PUN,0
+3,4,4,5,False,5.14,38,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+4,3,4,5,False,3.73,4,Engineering,Bridge,Testing,MAS-BLR,1
+5,5,5,5,True,2.67,-12,Traction Distribution,Track,Overhaul,HWH-KOL,1
+3,3,3,3,True,3.56,6,Engineering,OHE,Overhaul,HWH-KOL,1
+1,5,4,2,True,3.43,21,S&T,OHE,Inspection,HWH-KOL,0
+2,1,2,5,False,5.59,43,Traction Distribution,Signal,Replacement,MUM-PUN,0
+5,1,3,4,False,1.68,-11,Traction Distribution,Bridge,Overhaul,HWH-KOL,1
+3,1,3,5,False,5.6,52,Traction Distribution,Track,Replacement,MAS-BLR,1
+4,3,4,3,False,0.67,10,Traction Distribution,Track,Testing,DEL-AGR,0
+3,4,4,5,False,4.73,11,S&T,Signal,Replacement,MAS-BLR,1
+1,2,1,4,False,5.56,-13,Engineering,Bridge,Repair,MUM-PUN,1
+5,1,5,4,False,2.67,6,Traction Distribution,Track,Testing,MUM-PUN,1
+4,5,4,1,False,0.9,21,S&T,OHE,Repair,DEL-AGR,1
+5,4,1,3,False,4.93,32,Traction Distribution,Track,Replacement,BPL-NGP,0
+5,4,5,4,False,5.14,43,S&T,Signal,Inspection,MUM-PUN,1
+2,3,4,4,False,2.35,25,Traction Distribution,OHE,Inspection,HWH-KOL,0
+2,3,1,5,False,3.35,-7,S&T,Track,Inspection,HWH-KOL,1
+2,1,3,2,True,4.95,15,Engineering,Signal,Replacement,BPL-NGP,0
+5,1,5,2,False,1.56,41,Engineering,OHE,Testing,MAS-BLR,0
+3,5,2,5,False,3.96,33,Traction Distribution,Track,Inspection,HWH-KOL,1
+3,2,5,5,False,2.87,29,Traction Distribution,OHE,Testing,DEL-AGR,1
+5,4,3,1,True,1.46,24,Engineering,Point Machine,Testing,BPL-NGP,1
+4,4,2,2,False,5.07,23,Traction Distribution,Signal,Inspection,DEL-AGR,0
+5,2,2,5,False,2.29,60,Traction Distribution,Track,Inspection,MAS-BLR,0
+5,2,3,1,False,5.64,30,S&T,OHE,Testing,MUM-PUN,1
+1,4,4,4,False,3.63,30,Traction Distribution,Point Machine,Replacement,BPL-NGP,0
+2,1,5,1,False,3.33,11,Engineering,Track,Inspection,DEL-AGR,0
+4,3,1,1,True,2.83,22,S&T,Signal,Testing,HWH-KOL,0
+5,5,5,4,False,2.7,39,S&T,Bridge,Replacement,BPL-NGP,1
+1,4,3,4,True,5.0,50,S&T,Signal,Overhaul,BPL-NGP,1
+2,4,1,3,False,4.23,44,Engineering,Signal,Overhaul,DEL-AGR,0
+3,1,5,5,False,4.76,35,S&T,Point Machine,Repair,DEL-AGR,1
+4,1,2,2,True,2.82,44,S&T,OHE,Repair,MAS-BLR,0
+1,2,4,3,True,1.94,-12,Engineering,Signal,Inspection,HWH-KOL,0
+4,2,4,4,False,0.98,6,S&T,Point Machine,Replacement,MAS-BLR,1
+2,1,1,4,False,4.77,4,S&T,Track,Testing,DEL-AGR,0
+2,5,2,2,False,2.78,35,Traction Distribution,Point Machine,Overhaul,HWH-KOL,0
+3,1,4,4,True,3.3,42,S&T,Signal,Overhaul,HWH-KOL,0
+3,4,2,3,False,3.08,-3,S&T,Bridge,Inspection,MAS-BLR,0
+4,3,1,3,False,2.87,0,S&T,Point Machine,Replacement,BPL-NGP,1
+2,4,1,5,False,4.26,23,S&T,Bridge,Testing,BPL-NGP,0
+5,2,5,2,True,3.85,58,Engineering,Track,Inspection,MUM-PUN,1
+1,2,1,4,False,5.85,-14,Traction Distribution,Track,Repair,MAS-BLR,0
+5,4,1,5,False,1.26,51,S&T,Bridge,Overhaul,MUM-PUN,0
+1,2,3,4,False,3.65,0,S&T,Signal,Inspection,MUM-PUN,0
+4,4,1,5,False,0.85,6,Engineering,Bridge,Repair,BPL-NGP,1
+2,1,4,3,False,4.94,33,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+2,1,3,2,False,3.89,40,S&T,OHE,Inspection,MAS-BLR,0
+1,4,4,5,False,2.86,51,Engineering,Track,Replacement,DEL-AGR,0
+4,4,3,4,False,4.91,-14,Engineering,Track,Repair,MAS-BLR,1
+1,1,4,2,False,3.0,-11,S&T,Point Machine,Repair,MUM-PUN,0
+4,5,4,2,False,1.75,21,Traction Distribution,Track,Repair,MUM-PUN,1
+4,1,3,2,False,3.1,27,Engineering,Track,Repair,MAS-BLR,0
+5,5,1,5,False,0.89,5,Engineering,Signal,Overhaul,MAS-BLR,1
+4,4,2,1,False,5.44,33,S&T,Bridge,Inspection,MUM-PUN,1
+2,5,1,4,False,4.52,5,S&T,Point Machine,Inspection,DEL-AGR,0
+4,5,1,3,False,4.68,55,Traction Distribution,Point Machine,Repair,MUM-PUN,0
+5,2,2,1,False,5.31,-1,Traction Distribution,Point Machine,Testing,HWH-KOL,1
+2,4,2,4,False,4.85,35,S&T,OHE,Repair,DEL-AGR,0
+1,2,1,4,False,2.88,25,S&T,Signal,Inspection,MUM-PUN,0
+5,3,2,4,False,1.15,-7,S&T,OHE,Replacement,DEL-AGR,0
+1,2,3,3,False,2.55,31,S&T,OHE,Overhaul,MAS-BLR,1
+3,3,1,2,True,5.64,-3,Engineering,Bridge,Replacement,MUM-PUN,1
+2,5,2,1,False,5.72,26,S&T,Bridge,Inspection,MUM-PUN,0
+1,3,1,1,False,4.72,33,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+4,1,1,2,False,1.62,-9,S&T,Bridge,Testing,DEL-AGR,0
+1,2,1,4,False,1.57,2,S&T,Bridge,Testing,HWH-KOL,0
+4,4,3,1,False,5.34,8,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+4,3,4,5,False,1.28,55,Engineering,Bridge,Repair,MAS-BLR,1
+1,3,4,3,False,3.71,2,Engineering,Track,Replacement,MUM-PUN,0
+1,3,4,2,False,2.58,55,Traction Distribution,Track,Testing,DEL-AGR,0
+4,2,4,5,False,2.16,26,Traction Distribution,OHE,Replacement,BPL-NGP,1
+3,3,5,1,False,4.23,57,S&T,Track,Testing,MAS-BLR,0
+1,4,2,5,False,5.78,48,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+5,5,4,2,False,4.78,7,S&T,Track,Testing,HWH-KOL,1
+2,4,5,2,False,3.17,27,Traction Distribution,Bridge,Inspection,HWH-KOL,0
+1,5,3,3,False,2.92,39,Engineering,Point Machine,Overhaul,BPL-NGP,0
+5,5,5,5,True,5.49,-9,Traction Distribution,Track,Testing,BPL-NGP,1
+1,1,1,2,True,3.68,35,Engineering,Point Machine,Inspection,BPL-NGP,0
+3,2,5,5,False,3.23,20,Engineering,Point Machine,Overhaul,MUM-PUN,1
+5,2,3,2,True,4.26,-12,Traction Distribution,Signal,Inspection,MAS-BLR,1
+3,1,2,2,False,1.8,51,Engineering,Bridge,Testing,DEL-AGR,0
+3,1,1,4,False,0.85,5,S&T,Bridge,Testing,DEL-AGR,0
+2,4,4,4,True,5.2,51,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+1,2,3,2,False,3.84,1,Traction Distribution,Track,Replacement,HWH-KOL,0
+3,1,2,1,False,1.41,26,S&T,OHE,Repair,HWH-KOL,0
+5,2,2,2,False,2.14,13,Engineering,Point Machine,Testing,MAS-BLR,0
+1,2,5,3,False,5.94,52,Engineering,OHE,Repair,MAS-BLR,0
+5,1,3,1,False,3.99,57,S&T,OHE,Overhaul,BPL-NGP,0
+3,1,1,1,True,4.0,43,S&T,Signal,Inspection,DEL-AGR,0
+3,4,2,5,True,0.9,49,Traction Distribution,OHE,Repair,DEL-AGR,0
+1,5,1,1,False,5.83,43,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+4,3,4,3,False,5.41,8,S&T,Track,Repair,BPL-NGP,1
+1,4,5,4,False,3.51,55,S&T,Point Machine,Overhaul,BPL-NGP,1
+2,5,5,2,False,2.2,25,S&T,Point Machine,Testing,BPL-NGP,0
+4,5,4,3,True,4.34,11,Engineering,Track,Testing,DEL-AGR,1
+1,1,4,1,False,5.08,0,S&T,Point Machine,Inspection,MUM-PUN,0
+3,5,3,4,False,4.82,39,Traction Distribution,OHE,Repair,MUM-PUN,0
+3,1,4,4,False,5.87,6,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+1,1,1,5,False,4.0,34,Traction Distribution,OHE,Testing,DEL-AGR,0
+2,3,3,5,False,2.27,-10,Traction Distribution,OHE,Testing,MAS-BLR,0
+2,4,3,2,True,3.24,33,S&T,Signal,Overhaul,DEL-AGR,0
+4,1,1,1,False,4.99,34,S&T,Point Machine,Inspection,HWH-KOL,0
+5,2,3,2,False,1.96,25,Traction Distribution,Point Machine,Overhaul,MAS-BLR,0
+5,2,4,1,False,1.77,35,S&T,Signal,Repair,DEL-AGR,0
+1,2,2,3,False,4.49,60,Traction Distribution,OHE,Testing,BPL-NGP,0
+1,5,3,1,False,2.94,48,S&T,Point Machine,Replacement,HWH-KOL,0
+1,2,2,5,False,4.99,18,Engineering,OHE,Inspection,MAS-BLR,0
+3,2,2,4,True,1.29,51,Engineering,OHE,Testing,HWH-KOL,0
+1,1,1,2,True,2.35,57,Engineering,Bridge,Testing,MAS-BLR,0
+2,1,2,5,False,1.97,-2,Engineering,Bridge,Replacement,HWH-KOL,1
+5,1,5,4,False,4.34,12,Traction Distribution,Signal,Testing,DEL-AGR,0
+5,3,5,3,False,4.68,41,Traction Distribution,Point Machine,Inspection,BPL-NGP,1
+5,3,4,1,True,3.01,24,Traction Distribution,Bridge,Repair,MAS-BLR,1
+2,3,4,2,False,3.13,-4,Engineering,Track,Inspection,HWH-KOL,0
+4,5,4,3,False,1.23,21,S&T,OHE,Repair,MAS-BLR,1
+4,3,3,4,False,4.36,14,Engineering,Point Machine,Repair,MAS-BLR,0
+1,1,3,2,False,5.96,41,Engineering,Track,Replacement,BPL-NGP,0
+3,2,4,4,False,4.78,24,S&T,Signal,Repair,BPL-NGP,0
+3,2,4,2,True,1.73,-4,Traction Distribution,Point Machine,Replacement,HWH-KOL,1
+2,5,3,2,False,3.93,-11,Engineering,Bridge,Repair,MAS-BLR,0
+4,2,3,3,False,2.12,7,S&T,Bridge,Repair,MUM-PUN,0
+4,1,3,1,False,0.67,-3,Engineering,Point Machine,Testing,HWH-KOL,0
+3,4,2,3,False,1.49,51,Traction Distribution,Track,Replacement,DEL-AGR,0
+4,3,2,2,False,1.06,6,Engineering,Track,Inspection,DEL-AGR,0
+4,1,1,2,False,1.58,33,S&T,Bridge,Repair,HWH-KOL,0
+3,4,3,4,True,4.88,-5,Engineering,Point Machine,Testing,BPL-NGP,1
+2,2,4,2,False,2.11,19,S&T,Track,Inspection,DEL-AGR,0
+4,5,4,4,False,4.66,56,S&T,Track,Testing,DEL-AGR,1
+4,5,5,4,False,5.72,34,S&T,Track,Repair,DEL-AGR,0
+5,2,1,4,False,3.66,7,Traction Distribution,Bridge,Overhaul,HWH-KOL,0
+1,3,4,2,False,3.17,42,Traction Distribution,Point Machine,Replacement,MUM-PUN,0
+3,3,4,5,False,4.63,23,S&T,Bridge,Overhaul,DEL-AGR,1
+5,4,3,2,False,1.03,3,Traction Distribution,Track,Overhaul,BPL-NGP,0
+3,1,2,2,False,2.86,60,S&T,Point Machine,Inspection,HWH-KOL,0
+5,2,2,5,False,3.24,56,Engineering,Bridge,Repair,DEL-AGR,0
+1,1,4,2,False,5.07,28,S&T,OHE,Replacement,BPL-NGP,0
+1,4,5,4,False,4.98,-12,Traction Distribution,Point Machine,Repair,MAS-BLR,1
+4,1,4,1,False,5.17,16,Engineering,Point Machine,Repair,HWH-KOL,1
+2,3,3,4,True,4.34,24,S&T,Track,Testing,MAS-BLR,0
+3,4,4,5,False,3.42,55,S&T,OHE,Repair,HWH-KOL,1
+3,5,1,4,False,5.05,40,Engineering,Signal,Inspection,DEL-AGR,0
+3,2,4,3,False,5.3,2,S&T,Track,Replacement,DEL-AGR,1
+5,1,1,5,False,3.14,24,S&T,OHE,Inspection,DEL-AGR,1
+1,4,5,2,False,5.92,-1,S&T,Bridge,Inspection,MUM-PUN,0
+4,1,5,2,True,5.31,21,Traction Distribution,Track,Testing,MUM-PUN,1
+5,1,3,1,False,3.31,26,S&T,Signal,Repair,HWH-KOL,0
+4,5,2,4,False,0.88,24,S&T,Point Machine,Inspection,HWH-KOL,0
+2,5,4,4,False,1.73,18,Engineering,Signal,Overhaul,MAS-BLR,0
+1,4,4,4,False,4.77,18,Engineering,Track,Replacement,DEL-AGR,0
+4,5,4,4,False,1.11,45,Traction Distribution,Track,Replacement,MAS-BLR,1
+3,1,3,1,False,3.08,23,Traction Distribution,Track,Replacement,MUM-PUN,0
+1,1,2,4,False,3.83,-11,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+2,2,1,4,True,5.33,41,Engineering,OHE,Testing,DEL-AGR,1
+5,1,2,2,False,5.16,32,Traction Distribution,Bridge,Inspection,DEL-AGR,1
+2,5,3,3,True,4.7,38,Engineering,Point Machine,Replacement,DEL-AGR,0
+1,1,3,5,False,2.74,39,Engineering,Signal,Repair,MUM-PUN,0
+4,3,3,3,False,1.28,-2,Engineering,Bridge,Overhaul,MAS-BLR,1
+1,5,2,4,False,4.18,58,Traction Distribution,Signal,Replacement,HWH-KOL,0
+5,4,5,3,False,1.5,60,S&T,Track,Repair,DEL-AGR,1
+5,2,2,4,False,3.59,-4,S&T,Bridge,Replacement,BPL-NGP,1
+5,3,5,4,True,5.89,2,Traction Distribution,OHE,Repair,HWH-KOL,1
+5,3,2,4,False,3.53,4,Engineering,OHE,Inspection,BPL-NGP,0
+2,4,3,4,False,4.05,58,Engineering,OHE,Testing,BPL-NGP,0
+2,3,4,5,False,4.23,55,Traction Distribution,Bridge,Overhaul,BPL-NGP,1
+2,2,2,2,False,5.07,5,S&T,Signal,Overhaul,DEL-AGR,0
+3,4,2,5,False,2.89,33,Traction Distribution,Bridge,Testing,HWH-KOL,0
+5,5,2,4,False,3.24,4,S&T,Bridge,Testing,BPL-NGP,1
+4,3,5,3,False,1.47,-12,Engineering,Point Machine,Replacement,HWH-KOL,1
+4,1,1,2,False,3.88,3,S&T,Track,Overhaul,MAS-BLR,1
+5,3,3,3,True,2.13,-9,Traction Distribution,Track,Replacement,MAS-BLR,1
+4,5,4,4,False,3.29,49,Engineering,Track,Repair,MAS-BLR,0
+2,5,4,2,False,4.72,44,Engineering,Point Machine,Overhaul,MUM-PUN,0
+3,3,3,2,False,0.6,-1,S&T,Signal,Testing,HWH-KOL,0
+3,1,1,5,False,3.6,28,S&T,Bridge,Testing,MAS-BLR,0
+1,3,1,3,True,1.45,1,S&T,Track,Replacement,MUM-PUN,1
+4,5,3,4,False,2.04,28,Engineering,Signal,Testing,BPL-NGP,0
+4,5,5,1,True,0.69,53,Traction Distribution,Signal,Inspection,MUM-PUN,1
+4,1,1,1,False,1.43,51,Engineering,Bridge,Inspection,DEL-AGR,0
+3,2,5,5,False,5.93,48,Engineering,Track,Replacement,MUM-PUN,0
+4,3,4,1,False,5.99,4,Traction Distribution,OHE,Repair,MAS-BLR,1
+5,1,1,4,True,4.46,0,S&T,Bridge,Testing,MAS-BLR,1
+3,5,2,5,False,3.87,-2,S&T,Bridge,Inspection,MAS-BLR,1
+3,1,2,3,False,4.77,-5,S&T,Bridge,Replacement,MUM-PUN,0
+1,4,5,5,True,5.43,32,Engineering,Point Machine,Overhaul,BPL-NGP,1
+4,5,3,3,False,3.36,35,S&T,Track,Inspection,MUM-PUN,0
+5,4,2,5,False,0.69,52,Traction Distribution,Track,Inspection,DEL-AGR,0
+4,4,2,2,False,4.4,-8,Engineering,OHE,Replacement,MUM-PUN,0
+5,2,3,3,False,5.92,5,Traction Distribution,OHE,Testing,DEL-AGR,0
+5,5,1,2,False,1.92,40,Engineering,OHE,Inspection,BPL-NGP,1
+4,3,2,4,False,3.05,37,Traction Distribution,Track,Inspection,BPL-NGP,0
+3,1,1,1,False,2.49,18,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+1,2,4,5,False,2.65,-3,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+1,2,4,1,True,4.47,22,S&T,Track,Overhaul,HWH-KOL,1
+2,3,3,2,False,2.58,-2,Traction Distribution,Bridge,Repair,DEL-AGR,0
+3,2,1,3,False,5.68,26,Traction Distribution,Signal,Repair,MAS-BLR,1
+4,3,2,1,False,4.84,53,S&T,Signal,Replacement,HWH-KOL,1
+3,3,5,3,False,0.65,0,Traction Distribution,OHE,Repair,HWH-KOL,0
+1,2,2,5,False,5.0,-6,S&T,Bridge,Replacement,DEL-AGR,0
+2,4,1,5,False,4.75,41,Traction Distribution,Bridge,Testing,BPL-NGP,0
+5,2,1,1,False,3.34,-13,Traction Distribution,Track,Overhaul,BPL-NGP,1
+5,4,5,3,False,3.23,59,S&T,Point Machine,Testing,BPL-NGP,1
+2,2,1,3,False,5.1,44,Engineering,Point Machine,Replacement,HWH-KOL,0
+5,5,3,1,False,2.84,16,Engineering,Bridge,Overhaul,MUM-PUN,1
+4,2,5,4,False,1.38,13,Engineering,Bridge,Replacement,DEL-AGR,0
+5,1,4,3,False,2.22,15,S&T,Point Machine,Overhaul,MUM-PUN,1
+5,1,3,4,False,1.96,15,S&T,Point Machine,Overhaul,HWH-KOL,1
+4,5,2,2,False,4.25,48,Traction Distribution,Signal,Testing,DEL-AGR,0
+2,5,1,2,False,1.48,45,Engineering,Bridge,Testing,DEL-AGR,0
+4,2,1,4,False,4.05,1,Engineering,Bridge,Inspection,MUM-PUN,0
+2,4,5,4,False,3.06,-1,S&T,Bridge,Overhaul,DEL-AGR,0
+2,3,1,1,True,5.12,26,Engineering,Bridge,Overhaul,DEL-AGR,0
+4,1,1,2,True,3.17,34,Traction Distribution,Point Machine,Overhaul,HWH-KOL,0
+3,3,5,3,False,5.61,40,Engineering,Bridge,Inspection,BPL-NGP,1
+3,4,3,5,False,5.45,9,S&T,Point Machine,Replacement,HWH-KOL,1
+2,5,2,2,False,1.52,22,Traction Distribution,Signal,Testing,DEL-AGR,0
+3,5,4,2,False,4.27,-7,S&T,Track,Testing,MUM-PUN,0
+1,1,3,5,False,1.68,20,Traction Distribution,Bridge,Repair,DEL-AGR,0
+4,2,5,4,False,5.03,37,S&T,OHE,Replacement,BPL-NGP,0
+3,3,3,5,False,4.0,8,Traction Distribution,Bridge,Testing,MUM-PUN,1
+5,1,4,4,True,2.12,9,Traction Distribution,Signal,Testing,MUM-PUN,1
+3,3,5,5,False,1.87,20,S&T,Signal,Repair,MAS-BLR,0
+3,1,3,1,False,2.86,50,Engineering,Bridge,Testing,HWH-KOL,0
+1,1,2,2,False,4.9,31,Traction Distribution,OHE,Testing,BPL-NGP,0
+1,1,5,2,False,4.88,54,Engineering,Point Machine,Inspection,MUM-PUN,0
+2,2,2,1,True,0.68,-10,S&T,Signal,Inspection,MAS-BLR,0
+2,4,1,4,True,2.16,49,S&T,Point Machine,Inspection,BPL-NGP,0
+2,1,3,4,True,2.83,-11,Traction Distribution,OHE,Inspection,HWH-KOL,1
+2,5,5,1,False,3.72,10,S&T,Bridge,Overhaul,HWH-KOL,1
+4,2,1,1,False,1.32,17,S&T,OHE,Repair,BPL-NGP,1
+1,1,5,1,False,2.34,3,S&T,Track,Overhaul,DEL-AGR,0
+2,2,5,3,True,5.37,60,Traction Distribution,Point Machine,Inspection,MUM-PUN,1
+1,4,5,3,False,3.12,52,S&T,Bridge,Overhaul,BPL-NGP,0
+2,1,3,2,True,4.59,28,Traction Distribution,Bridge,Overhaul,HWH-KOL,1
+4,1,2,5,False,3.17,19,Engineering,Track,Testing,BPL-NGP,1
+1,5,3,2,False,3.06,43,S&T,Bridge,Repair,HWH-KOL,0
+2,3,1,3,False,3.92,39,Traction Distribution,Signal,Replacement,DEL-AGR,0
+1,2,5,3,False,1.93,22,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+5,4,4,2,False,1.87,48,S&T,Point Machine,Repair,BPL-NGP,1
+4,5,3,5,False,5.94,0,Traction Distribution,Bridge,Overhaul,MUM-PUN,1
+2,2,3,5,False,5.28,6,S&T,Signal,Replacement,BPL-NGP,0
+1,3,4,1,False,4.56,-13,S&T,Point Machine,Testing,MUM-PUN,0
+1,1,3,3,False,1.25,-6,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+3,2,5,1,False,0.67,0,Traction Distribution,Track,Repair,DEL-AGR,0
+4,3,5,3,False,1.46,32,Traction Distribution,Point Machine,Replacement,MAS-BLR,1
+3,1,5,4,False,5.66,50,Traction Distribution,Track,Replacement,MUM-PUN,1
+5,5,4,3,False,4.99,30,Engineering,Bridge,Testing,HWH-KOL,1
+2,5,4,2,True,3.38,19,S&T,Track,Overhaul,MUM-PUN,1
+2,2,2,2,False,5.83,6,S&T,Track,Inspection,BPL-NGP,0
+3,2,1,2,False,1.31,-7,Traction Distribution,OHE,Replacement,BPL-NGP,0
+2,1,3,2,False,3.58,29,Engineering,Track,Testing,MAS-BLR,0
+5,3,5,2,False,1.51,-4,Traction Distribution,Track,Testing,MAS-BLR,1
+1,1,1,4,False,2.19,45,Engineering,Track,Testing,MAS-BLR,0
+3,2,3,1,False,5.67,16,S&T,Signal,Replacement,MUM-PUN,1
+3,3,1,1,False,5.28,12,Traction Distribution,OHE,Inspection,HWH-KOL,0
+1,4,3,3,True,1.06,-13,Engineering,Track,Repair,MUM-PUN,1
+3,3,1,4,False,1.87,4,Engineering,Track,Testing,BPL-NGP,0
+3,2,4,2,False,3.77,-13,Traction Distribution,Point Machine,Repair,BPL-NGP,1
+2,4,5,2,False,0.84,40,Engineering,Signal,Overhaul,MUM-PUN,0
+1,4,4,4,False,3.53,22,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+1,4,4,2,False,3.71,44,Traction Distribution,Bridge,Replacement,MUM-PUN,0
+1,3,2,4,False,2.1,28,S&T,Track,Testing,MAS-BLR,0
+3,5,3,1,False,2.11,57,Traction Distribution,Bridge,Repair,MAS-BLR,1
+1,2,1,1,False,1.76,44,Engineering,Point Machine,Inspection,DEL-AGR,1
+5,5,2,3,True,5.65,-3,Traction Distribution,Bridge,Repair,MUM-PUN,1
+2,2,3,2,True,2.64,-6,Engineering,OHE,Inspection,MUM-PUN,1
+4,2,4,4,False,3.72,52,Traction Distribution,Track,Overhaul,MAS-BLR,1
+4,3,1,3,False,2.16,6,Traction Distribution,Bridge,Inspection,BPL-NGP,0
+3,3,5,2,False,4.36,43,Engineering,OHE,Repair,DEL-AGR,0
+5,4,3,1,False,1.06,33,Traction Distribution,Track,Replacement,MAS-BLR,1
+1,2,5,1,False,0.89,38,S&T,Track,Repair,MUM-PUN,0
+2,5,3,4,False,4.59,6,Traction Distribution,Signal,Overhaul,MUM-PUN,0
+2,2,3,2,False,4.5,9,S&T,Signal,Testing,DEL-AGR,0
+1,3,4,3,False,1.96,27,Engineering,OHE,Testing,DEL-AGR,0
+2,5,5,5,False,2.45,-13,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+2,3,1,5,False,5.76,9,Engineering,Bridge,Testing,DEL-AGR,0
+4,4,3,2,False,1.07,24,S&T,Bridge,Overhaul,DEL-AGR,0
+2,5,1,1,False,1.51,1,Engineering,Point Machine,Inspection,BPL-NGP,0
+5,5,3,4,False,2.87,7,Engineering,Point Machine,Testing,MUM-PUN,0
+4,3,5,4,False,2.05,59,Engineering,Bridge,Replacement,BPL-NGP,0
+5,3,5,2,True,4.07,7,Engineering,Signal,Inspection,MAS-BLR,1
+1,1,2,3,False,4.3,53,Traction Distribution,OHE,Overhaul,DEL-AGR,0
+5,3,2,1,True,3.4,55,Traction Distribution,Point Machine,Repair,BPL-NGP,1
+4,5,3,4,False,3.86,36,Traction Distribution,Signal,Replacement,DEL-AGR,1
+5,3,2,4,True,2.88,-3,Engineering,Bridge,Overhaul,BPL-NGP,1
+2,2,1,2,False,4.68,1,Traction Distribution,Signal,Inspection,MUM-PUN,0
+5,1,2,3,False,0.73,56,S&T,Track,Replacement,DEL-AGR,0
+3,2,3,2,True,2.22,-14,Traction Distribution,Signal,Inspection,MUM-PUN,0
+1,2,3,1,False,4.26,23,Traction Distribution,Bridge,Inspection,MUM-PUN,0
+3,5,5,1,False,2.31,30,Engineering,Signal,Repair,BPL-NGP,1
+1,3,3,5,False,0.93,48,Traction Distribution,Signal,Overhaul,BPL-NGP,1
+5,1,2,3,False,2.4,53,S&T,Bridge,Replacement,BPL-NGP,0
+2,1,4,1,False,4.41,7,S&T,Track,Inspection,DEL-AGR,0
+2,5,4,1,False,1.17,23,S&T,Track,Overhaul,MAS-BLR,1
+3,5,3,2,False,4.49,33,Engineering,Bridge,Replacement,HWH-KOL,0
+3,4,3,5,False,4.77,58,Engineering,Signal,Inspection,DEL-AGR,1
+1,1,2,2,False,3.99,27,Traction Distribution,Track,Replacement,MAS-BLR,0
+5,1,5,5,True,1.84,-5,Traction Distribution,OHE,Repair,BPL-NGP,1
+5,1,5,3,False,4.93,55,S&T,Point Machine,Overhaul,DEL-AGR,1
+4,4,1,4,True,1.68,24,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+4,4,2,4,False,5.48,-1,S&T,Track,Repair,MAS-BLR,1
+3,5,2,1,False,4.39,0,Engineering,Signal,Overhaul,BPL-NGP,0
+3,1,5,1,False,0.8,1,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+3,1,1,5,True,4.9,40,Traction Distribution,Point Machine,Replacement,BPL-NGP,1
+1,5,2,5,False,3.29,57,Engineering,Point Machine,Testing,DEL-AGR,0
+1,5,2,1,False,2.99,19,Traction Distribution,Signal,Inspection,MUM-PUN,0
+2,4,3,4,False,2.81,-7,S&T,Bridge,Testing,DEL-AGR,1
+3,1,2,5,False,3.84,52,Traction Distribution,Track,Inspection,BPL-NGP,1
+1,1,3,5,False,4.49,33,Engineering,Bridge,Replacement,MAS-BLR,0
+1,1,4,2,False,5.43,28,S&T,Bridge,Inspection,DEL-AGR,0
+5,4,5,5,False,2.0,-10,Engineering,Point Machine,Inspection,BPL-NGP,0
+2,5,1,4,True,3.97,58,Traction Distribution,OHE,Repair,MUM-PUN,1
+3,4,1,5,False,4.27,-9,S&T,Signal,Replacement,BPL-NGP,1
+3,2,1,1,False,4.21,31,Engineering,OHE,Overhaul,DEL-AGR,0
+4,4,5,4,False,3.21,30,Traction Distribution,Track,Repair,MUM-PUN,1
+4,1,4,1,False,2.65,24,Traction Distribution,Signal,Replacement,MUM-PUN,0
+2,5,3,2,True,4.69,27,S&T,Point Machine,Inspection,MAS-BLR,0
+5,5,4,1,True,2.15,15,Traction Distribution,OHE,Overhaul,DEL-AGR,1
+2,4,3,3,False,1.64,28,Traction Distribution,OHE,Inspection,HWH-KOL,0
+5,5,2,5,False,3.5,13,S&T,OHE,Testing,DEL-AGR,1
+3,3,3,4,False,1.97,21,Traction Distribution,Track,Inspection,HWH-KOL,0
+1,3,4,2,True,0.68,36,Engineering,Bridge,Overhaul,BPL-NGP,1
+4,2,1,3,True,0.78,41,Traction Distribution,Bridge,Repair,BPL-NGP,0
+1,5,4,2,False,4.32,-3,S&T,Signal,Testing,DEL-AGR,0
+4,4,3,4,False,5.85,60,Engineering,Signal,Repair,BPL-NGP,1
+1,1,1,2,True,3.0,-7,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+2,5,2,1,True,1.31,6,Traction Distribution,Track,Testing,BPL-NGP,1
+4,1,3,3,False,5.0,12,Traction Distribution,Track,Replacement,MAS-BLR,0
+5,3,2,5,True,1.94,10,Engineering,Bridge,Replacement,DEL-AGR,1
+3,1,2,3,False,5.98,12,Traction Distribution,Track,Repair,MUM-PUN,0
+1,4,4,2,True,3.6,10,Traction Distribution,OHE,Replacement,MAS-BLR,1
+2,3,3,1,False,1.78,18,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+5,3,3,5,False,3.23,43,S&T,Point Machine,Inspection,MUM-PUN,1
+4,4,4,4,False,2.34,48,Traction Distribution,Signal,Repair,HWH-KOL,1
+1,4,1,1,False,4.79,12,Traction Distribution,Track,Testing,MAS-BLR,0
+2,2,2,1,False,1.08,5,Engineering,Point Machine,Testing,MUM-PUN,0
+2,5,1,1,True,5.21,36,Engineering,OHE,Inspection,MUM-PUN,1
+1,3,5,2,False,4.72,-10,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+5,1,1,5,False,5.24,19,S&T,Point Machine,Repair,DEL-AGR,0
+4,1,5,1,True,5.42,2,Engineering,Track,Overhaul,MUM-PUN,0
+1,2,1,5,False,1.76,31,Engineering,Signal,Overhaul,MUM-PUN,0
+4,4,2,1,False,3.37,-9,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+3,3,4,4,True,5.17,48,Engineering,Point Machine,Overhaul,HWH-KOL,0
+1,2,5,2,False,2.58,6,Engineering,Point Machine,Testing,MUM-PUN,0
+3,3,1,5,False,0.83,24,S&T,Signal,Testing,MUM-PUN,0
+1,5,2,3,False,2.1,28,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+2,3,5,2,False,1.83,21,S&T,Signal,Replacement,MAS-BLR,0
+5,1,2,2,True,5.29,19,S&T,Point Machine,Repair,MAS-BLR,0
+4,1,2,5,True,3.05,6,Traction Distribution,Track,Repair,BPL-NGP,1
+1,3,4,3,False,4.26,43,S&T,Bridge,Repair,HWH-KOL,0
+5,3,1,2,False,5.79,24,Traction Distribution,Signal,Repair,MUM-PUN,0
+3,5,5,4,False,2.15,2,Engineering,OHE,Repair,DEL-AGR,0
+5,3,5,3,True,4.69,5,S&T,Signal,Replacement,HWH-KOL,1
+4,4,5,4,False,0.63,18,Engineering,OHE,Repair,HWH-KOL,1
+2,3,2,3,False,1.07,49,Traction Distribution,Point Machine,Repair,BPL-NGP,0
+3,2,1,1,False,1.39,58,Traction Distribution,Track,Overhaul,DEL-AGR,0
+3,4,3,1,False,2.22,15,Traction Distribution,OHE,Repair,MAS-BLR,1
+4,4,2,1,False,2.72,15,Engineering,Track,Inspection,DEL-AGR,0
+2,4,5,3,False,3.12,-5,Traction Distribution,Track,Inspection,MUM-PUN,0
+2,1,4,3,False,1.85,26,S&T,Point Machine,Overhaul,MUM-PUN,0
+2,4,5,4,True,0.86,3,Engineering,OHE,Testing,MAS-BLR,1
+2,2,4,5,False,4.23,47,S&T,Point Machine,Overhaul,BPL-NGP,0
+1,4,4,1,False,0.63,26,S&T,Signal,Inspection,DEL-AGR,0
+1,4,1,5,False,4.95,2,S&T,Signal,Replacement,MAS-BLR,1
+5,4,1,5,False,5.61,54,Traction Distribution,OHE,Repair,BPL-NGP,0
+1,5,1,4,False,4.41,47,S&T,Track,Repair,DEL-AGR,0
+5,3,3,3,True,3.78,8,Engineering,Bridge,Testing,BPL-NGP,1
+1,1,2,1,False,4.11,-5,S&T,Signal,Testing,DEL-AGR,0
+4,4,5,1,False,4.09,5,Engineering,Point Machine,Overhaul,HWH-KOL,1
+2,4,1,1,False,5.62,14,Engineering,Track,Replacement,DEL-AGR,0
+3,1,5,4,False,5.8,16,Engineering,Point Machine,Replacement,DEL-AGR,1
+2,1,4,3,False,2.85,47,Traction Distribution,Signal,Testing,HWH-KOL,1
+3,2,1,1,True,3.89,58,S&T,Signal,Overhaul,BPL-NGP,0
+3,5,1,1,False,4.92,42,Engineering,OHE,Replacement,HWH-KOL,0
+3,3,2,1,False,0.51,49,S&T,Track,Inspection,MUM-PUN,0
+2,5,2,4,False,3.4,-5,Traction Distribution,Track,Testing,HWH-KOL,1
+3,5,2,4,False,4.09,-3,S&T,Point Machine,Testing,DEL-AGR,0
+5,3,3,4,False,4.44,54,Traction Distribution,Signal,Repair,DEL-AGR,1
+3,4,1,1,False,2.53,32,S&T,OHE,Repair,DEL-AGR,0
+2,2,1,1,False,2.13,3,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+1,1,4,1,True,1.5,45,S&T,Point Machine,Testing,BPL-NGP,0
+2,2,5,4,True,3.57,-1,S&T,Point Machine,Replacement,BPL-NGP,1
+1,3,2,4,False,5.56,43,Engineering,Bridge,Repair,DEL-AGR,0
+1,1,5,2,True,5.43,52,Engineering,Point Machine,Overhaul,HWH-KOL,0
+5,2,2,1,False,2.48,22,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+1,1,2,2,False,1.92,35,Traction Distribution,Signal,Testing,DEL-AGR,0
+3,4,1,5,False,4.84,40,S&T,Bridge,Replacement,MAS-BLR,0
+5,5,3,1,True,4.49,52,S&T,OHE,Replacement,MAS-BLR,0
+5,5,3,4,True,3.28,29,Engineering,OHE,Inspection,BPL-NGP,1
+1,2,4,3,False,2.64,8,S&T,Bridge,Overhaul,MAS-BLR,0
+1,3,1,1,False,1.18,1,Engineering,Signal,Repair,HWH-KOL,0
+2,5,1,5,True,4.82,12,S&T,Signal,Repair,MAS-BLR,1
+3,3,3,3,False,3.9,-10,Engineering,Track,Overhaul,HWH-KOL,0
+5,2,1,4,True,2.57,38,Traction Distribution,Track,Repair,DEL-AGR,0
+2,2,1,1,False,5.55,13,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+1,4,4,2,True,4.13,39,Engineering,OHE,Testing,MAS-BLR,1
+2,3,5,4,False,5.61,-10,Engineering,Signal,Testing,HWH-KOL,1
+5,5,3,4,False,3.11,10,Traction Distribution,Signal,Replacement,BPL-NGP,1
+1,5,1,1,False,3.0,15,Engineering,Point Machine,Repair,DEL-AGR,0
+2,1,5,4,False,5.65,-8,S&T,Track,Inspection,HWH-KOL,1
+1,4,3,5,False,5.78,48,Engineering,Point Machine,Overhaul,DEL-AGR,0
+1,2,4,4,False,5.78,30,S&T,Bridge,Overhaul,MUM-PUN,0
+5,3,1,2,False,5.0,49,Engineering,OHE,Overhaul,DEL-AGR,0
+1,2,3,5,False,3.04,46,Engineering,OHE,Overhaul,MUM-PUN,0
+2,2,1,4,False,1.66,-12,S&T,OHE,Replacement,BPL-NGP,1
+5,2,4,1,False,2.61,50,Engineering,Track,Overhaul,DEL-AGR,0
+4,1,2,1,False,5.66,-9,Traction Distribution,Point Machine,Overhaul,DEL-AGR,1
+1,4,5,5,False,2.5,51,S&T,Signal,Overhaul,BPL-NGP,1
+3,1,1,2,True,4.66,36,S&T,OHE,Overhaul,DEL-AGR,0
+5,2,4,1,False,5.58,47,S&T,Track,Inspection,HWH-KOL,0
+3,1,1,3,False,5.84,23,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+3,1,4,3,False,5.71,-2,Traction Distribution,Signal,Testing,BPL-NGP,0
+3,2,3,3,False,3.55,-3,Engineering,Track,Replacement,DEL-AGR,0
+4,5,5,4,True,3.21,-6,Traction Distribution,Point Machine,Replacement,DEL-AGR,1
+1,5,4,5,False,5.93,46,S&T,Bridge,Overhaul,BPL-NGP,0
+5,2,2,4,True,1.7,26,Traction Distribution,OHE,Replacement,MUM-PUN,1
+5,3,1,1,False,1.53,2,Traction Distribution,Track,Replacement,HWH-KOL,0
+1,5,3,1,False,5.8,-5,Traction Distribution,Bridge,Testing,HWH-KOL,0
+5,2,3,1,False,4.29,-9,Traction Distribution,Signal,Inspection,HWH-KOL,1
+5,5,1,2,True,3.45,5,Engineering,Signal,Testing,HWH-KOL,0
+4,1,3,2,False,1.23,42,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+2,2,2,5,False,3.32,52,Traction Distribution,Signal,Repair,DEL-AGR,0
+3,2,2,2,False,5.69,31,Engineering,Track,Overhaul,DEL-AGR,0
+5,1,1,1,True,3.82,60,Engineering,Point Machine,Overhaul,MUM-PUN,0
+1,5,2,5,True,2.73,15,S&T,Signal,Testing,MAS-BLR,1
+5,5,2,2,False,3.53,10,S&T,Bridge,Repair,MAS-BLR,1
+5,2,1,5,True,5.37,37,Traction Distribution,Track,Inspection,HWH-KOL,1
+4,5,3,4,False,5.52,-4,S&T,Bridge,Repair,DEL-AGR,1
+2,4,2,5,True,2.7,54,Engineering,Point Machine,Replacement,DEL-AGR,0
+3,5,1,5,False,3.84,44,S&T,Signal,Repair,MAS-BLR,0
+1,5,3,1,False,2.04,-12,Traction Distribution,OHE,Repair,MUM-PUN,1
+5,3,1,4,False,2.98,0,Traction Distribution,Bridge,Testing,MAS-BLR,0
+2,1,5,3,False,1.71,33,Engineering,Track,Replacement,HWH-KOL,0
+1,5,3,4,False,3.42,41,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+4,4,5,4,False,3.68,2,Engineering,OHE,Overhaul,DEL-AGR,1
+4,5,5,3,False,2.36,42,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+4,5,5,2,False,2.0,21,Traction Distribution,Signal,Overhaul,HWH-KOL,1
+1,1,3,5,False,1.33,36,Engineering,Point Machine,Testing,HWH-KOL,0
+4,3,3,4,False,1.27,17,Traction Distribution,Bridge,Overhaul,HWH-KOL,0
+4,1,4,5,False,4.41,20,S&T,Signal,Repair,MUM-PUN,1
+4,1,1,2,True,1.72,15,Traction Distribution,Track,Overhaul,BPL-NGP,0
+5,5,5,5,False,1.15,-3,Engineering,Signal,Repair,BPL-NGP,1
+2,5,2,2,False,5.99,0,Traction Distribution,OHE,Inspection,MAS-BLR,0
+2,5,1,3,False,1.93,-2,Traction Distribution,Point Machine,Replacement,MAS-BLR,0
+5,5,2,5,False,5.43,46,Engineering,OHE,Replacement,HWH-KOL,1
+3,4,2,2,False,3.85,17,S&T,Bridge,Replacement,BPL-NGP,1
+3,3,1,2,False,4.43,14,S&T,OHE,Repair,MAS-BLR,0
+2,5,4,5,True,3.59,50,Engineering,Point Machine,Repair,DEL-AGR,1
+4,3,1,5,False,1.49,52,Traction Distribution,Bridge,Testing,HWH-KOL,0
+4,4,5,2,True,5.16,3,Engineering,Bridge,Repair,BPL-NGP,1
+1,2,3,2,False,5.05,12,Engineering,Signal,Overhaul,HWH-KOL,0
+3,4,4,2,True,2.42,16,S&T,Signal,Repair,DEL-AGR,0
+5,5,2,1,False,4.7,48,S&T,Point Machine,Inspection,BPL-NGP,0
+2,4,1,3,False,3.49,36,Engineering,OHE,Inspection,HWH-KOL,0
+2,3,1,2,False,5.5,26,Traction Distribution,OHE,Repair,BPL-NGP,0
+5,1,4,5,False,4.92,3,Engineering,Point Machine,Testing,DEL-AGR,1
+1,1,4,1,False,0.73,14,Engineering,Point Machine,Replacement,DEL-AGR,0
+2,4,2,4,False,5.34,-12,S&T,Bridge,Overhaul,BPL-NGP,0
+3,4,2,3,True,5.83,38,Traction Distribution,Signal,Testing,MAS-BLR,1
+4,4,5,4,False,4.58,54,Engineering,Point Machine,Inspection,BPL-NGP,0
+1,5,5,1,False,1.16,44,S&T,Signal,Inspection,MAS-BLR,0
+3,3,3,3,False,4.94,9,Traction Distribution,Bridge,Testing,MAS-BLR,1
+1,5,2,4,False,4.06,22,Traction Distribution,Track,Replacement,MUM-PUN,0
+4,4,2,2,False,2.36,57,Engineering,Point Machine,Overhaul,DEL-AGR,0
+4,2,3,5,False,5.36,17,S&T,Track,Repair,HWH-KOL,1
+3,5,3,3,False,3.61,48,Traction Distribution,Bridge,Testing,BPL-NGP,1
+2,1,1,2,False,5.19,29,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+1,3,1,1,False,4.19,23,S&T,Bridge,Repair,HWH-KOL,0
+5,5,3,1,False,2.09,29,Traction Distribution,Point Machine,Overhaul,MAS-BLR,1
+4,4,4,3,True,5.86,2,S&T,OHE,Inspection,MAS-BLR,1
+2,5,1,3,False,3.64,17,Engineering,Signal,Repair,HWH-KOL,1
+3,1,3,5,False,3.34,8,S&T,Bridge,Repair,HWH-KOL,1
+4,3,1,4,False,2.72,42,S&T,OHE,Overhaul,DEL-AGR,1
+4,4,2,1,False,1.25,31,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+3,4,4,3,False,4.27,15,Traction Distribution,Point Machine,Inspection,BPL-NGP,0
+2,5,2,3,True,2.87,47,S&T,Point Machine,Testing,MAS-BLR,0
+4,3,2,1,False,5.64,19,Traction Distribution,Signal,Testing,DEL-AGR,0
+4,4,5,4,False,5.81,57,Engineering,OHE,Replacement,DEL-AGR,1
+3,3,1,3,False,4.72,31,Traction Distribution,OHE,Repair,BPL-NGP,0
+1,5,1,1,False,1.83,52,Engineering,Point Machine,Replacement,HWH-KOL,0
+3,1,5,3,False,4.44,60,S&T,Point Machine,Replacement,HWH-KOL,1
+4,2,3,4,False,0.61,10,Traction Distribution,Track,Overhaul,HWH-KOL,0
+5,1,1,2,False,5.05,5,S&T,Signal,Repair,BPL-NGP,0
+3,4,3,2,False,3.21,48,Traction Distribution,Track,Inspection,BPL-NGP,0
+2,2,3,1,False,5.65,3,S&T,OHE,Overhaul,DEL-AGR,1
+3,2,2,2,False,2.58,42,Engineering,Point Machine,Overhaul,BPL-NGP,1
+1,5,3,5,False,1.95,-1,S&T,Signal,Repair,HWH-KOL,0
+1,2,4,4,False,5.97,51,Engineering,Point Machine,Overhaul,HWH-KOL,0
+4,1,2,1,False,3.42,37,S&T,Track,Replacement,BPL-NGP,1
+5,1,5,3,True,5.25,25,S&T,Bridge,Replacement,BPL-NGP,1
+5,2,3,1,False,5.51,19,Engineering,Point Machine,Inspection,MUM-PUN,1
+3,5,5,3,False,3.35,33,S&T,Point Machine,Repair,DEL-AGR,1
+1,3,1,1,False,3.01,15,Engineering,Point Machine,Repair,DEL-AGR,0
+5,5,2,4,True,3.54,15,Engineering,Signal,Testing,MAS-BLR,1
+3,2,4,3,False,5.16,1,S&T,Bridge,Testing,MUM-PUN,0
+2,2,5,4,True,5.81,-3,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+5,1,2,3,False,2.31,52,Engineering,Track,Replacement,MAS-BLR,0
+4,2,5,2,False,4.56,42,Engineering,Bridge,Repair,MUM-PUN,0
+4,3,1,2,False,2.07,19,Engineering,Point Machine,Replacement,HWH-KOL,0
+2,5,3,2,False,3.86,48,S&T,Signal,Overhaul,MUM-PUN,0
+5,2,2,3,True,4.93,31,Engineering,Bridge,Overhaul,BPL-NGP,1
+3,4,3,3,False,5.38,30,S&T,Signal,Overhaul,HWH-KOL,0
+3,4,5,4,False,2.97,-6,Traction Distribution,Point Machine,Replacement,HWH-KOL,1
+4,2,4,1,False,2.53,26,Engineering,Point Machine,Overhaul,HWH-KOL,1
+4,5,4,2,False,1.89,-6,Traction Distribution,Bridge,Testing,MAS-BLR,1
+1,3,2,5,False,1.23,37,S&T,OHE,Overhaul,HWH-KOL,0
+2,1,5,5,False,2.51,-9,S&T,Bridge,Replacement,HWH-KOL,1
+2,5,3,5,False,5.3,24,S&T,Signal,Testing,MAS-BLR,1
+5,5,4,2,False,2.8,13,Traction Distribution,Bridge,Testing,DEL-AGR,1
+4,1,4,1,False,2.25,-5,S&T,Signal,Overhaul,MAS-BLR,1
+2,5,4,1,False,4.57,21,Traction Distribution,Bridge,Testing,DEL-AGR,0
+4,5,4,1,False,1.69,1,Engineering,Point Machine,Repair,MUM-PUN,1
+4,5,3,5,False,1.91,4,Engineering,Point Machine,Replacement,DEL-AGR,0
+2,2,4,5,False,5.65,52,S&T,Track,Repair,HWH-KOL,0
+3,4,5,5,False,0.95,12,Engineering,OHE,Repair,MAS-BLR,1
+5,3,2,4,False,2.78,16,Engineering,Track,Overhaul,MUM-PUN,1
+3,4,3,2,False,3.67,-14,Engineering,Bridge,Overhaul,BPL-NGP,0
+1,4,1,3,False,1.77,8,Engineering,Signal,Inspection,MUM-PUN,0
+4,4,2,5,False,2.05,12,Engineering,Bridge,Overhaul,BPL-NGP,1
+3,3,4,5,False,1.72,39,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+3,4,4,3,True,2.4,-6,S&T,Track,Inspection,BPL-NGP,0
+4,3,2,5,True,5.44,55,Engineering,Point Machine,Replacement,MUM-PUN,0
+5,1,3,2,False,2.87,-5,Engineering,Signal,Repair,MAS-BLR,0
+2,1,5,3,True,2.8,34,Traction Distribution,Track,Testing,DEL-AGR,0
+3,5,1,5,False,2.63,-14,Traction Distribution,Signal,Inspection,MAS-BLR,1
+1,5,1,2,False,5.8,47,Engineering,OHE,Inspection,MAS-BLR,0
+4,3,2,4,False,1.15,38,S&T,Bridge,Overhaul,BPL-NGP,0
+3,1,4,3,False,5.3,48,Engineering,Point Machine,Repair,BPL-NGP,0
+2,4,2,2,False,2.3,55,S&T,Signal,Overhaul,MUM-PUN,0
+4,1,5,2,False,5.76,48,S&T,Signal,Overhaul,HWH-KOL,0
+3,2,5,4,False,2.23,32,Traction Distribution,Signal,Inspection,DEL-AGR,0
+3,2,3,3,True,0.96,48,S&T,Point Machine,Replacement,MUM-PUN,1
+3,1,2,2,False,3.36,-7,Traction Distribution,OHE,Replacement,HWH-KOL,0
+2,5,1,4,False,1.75,34,Traction Distribution,Track,Inspection,MUM-PUN,0
+1,3,5,1,False,4.64,60,Traction Distribution,Track,Overhaul,BPL-NGP,0
+5,2,5,1,True,4.12,14,Traction Distribution,Track,Testing,MAS-BLR,1
+1,3,3,5,False,4.28,59,Traction Distribution,Bridge,Testing,HWH-KOL,0
+2,1,3,4,True,1.56,23,Engineering,OHE,Inspection,MUM-PUN,0
+4,3,4,3,False,4.4,21,Traction Distribution,OHE,Inspection,MUM-PUN,1
+1,3,4,1,True,2.21,8,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+4,2,1,3,False,5.99,-6,S&T,Track,Repair,BPL-NGP,0
+4,5,4,3,False,4.52,51,Traction Distribution,Track,Overhaul,DEL-AGR,0
+4,2,5,3,True,3.75,40,Traction Distribution,Signal,Repair,HWH-KOL,1
+2,1,4,1,False,5.27,16,Engineering,Signal,Repair,HWH-KOL,0
+1,3,3,3,True,3.74,58,Engineering,Point Machine,Overhaul,MUM-PUN,0
+5,5,3,3,False,3.54,-1,Traction Distribution,Bridge,Repair,MUM-PUN,1
+2,2,2,2,True,1.81,44,S&T,Point Machine,Inspection,MAS-BLR,0
+5,1,4,1,False,4.23,19,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+1,5,2,5,False,2.56,32,S&T,OHE,Inspection,HWH-KOL,0
+1,3,2,4,True,0.74,-12,S&T,Signal,Inspection,DEL-AGR,0
+4,1,2,4,False,4.99,31,Engineering,Signal,Overhaul,MUM-PUN,0
+5,4,2,4,True,0.79,36,Engineering,Track,Replacement,MUM-PUN,1
+5,2,2,4,False,4.2,59,Engineering,Bridge,Replacement,MUM-PUN,1
+4,5,1,1,False,1.36,11,S&T,Point Machine,Inspection,MAS-BLR,0
+2,2,4,3,False,2.88,-9,Engineering,Point Machine,Inspection,HWH-KOL,1
+5,3,3,5,True,5.23,-10,Traction Distribution,Signal,Repair,MAS-BLR,0
+4,3,5,2,True,1.02,-3,Engineering,Point Machine,Repair,HWH-KOL,1
+1,2,1,5,False,4.17,8,Traction Distribution,Signal,Replacement,BPL-NGP,0
+1,3,4,1,False,3.87,48,Engineering,OHE,Inspection,DEL-AGR,1
+5,1,1,2,False,5.27,0,Engineering,Point Machine,Testing,MAS-BLR,0
+2,4,3,2,True,1.45,-4,S&T,Bridge,Repair,BPL-NGP,1
+4,4,3,4,False,4.9,-12,Traction Distribution,OHE,Testing,DEL-AGR,1
+1,5,3,1,False,2.98,14,Traction Distribution,Point Machine,Replacement,BPL-NGP,0
+2,2,4,2,False,2.86,31,S&T,OHE,Replacement,HWH-KOL,0
+2,2,5,4,False,2.49,7,S&T,OHE,Inspection,DEL-AGR,0
+2,3,2,2,False,2.62,23,Traction Distribution,Bridge,Overhaul,MAS-BLR,0
+4,4,5,5,False,3.36,4,Traction Distribution,Bridge,Inspection,HWH-KOL,1
+5,5,1,5,False,1.09,46,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+5,1,2,2,False,2.84,-13,Engineering,Bridge,Testing,HWH-KOL,0
+4,2,2,3,True,4.09,1,S&T,OHE,Repair,DEL-AGR,1
+2,2,5,2,False,3.24,28,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+5,2,1,2,False,1.41,49,S&T,OHE,Overhaul,BPL-NGP,0
+3,3,2,4,False,2.5,16,Engineering,Point Machine,Inspection,MUM-PUN,1
+3,5,3,2,False,2.94,-9,S&T,Bridge,Repair,MAS-BLR,0
+4,1,5,1,False,4.18,27,Engineering,OHE,Overhaul,MUM-PUN,0
+4,5,3,2,False,5.45,6,S&T,Point Machine,Overhaul,HWH-KOL,0
+5,4,5,5,False,3.53,8,S&T,OHE,Inspection,HWH-KOL,1
+3,4,4,2,False,4.22,55,Traction Distribution,Point Machine,Overhaul,DEL-AGR,0
+4,4,4,2,True,0.92,56,Traction Distribution,Track,Testing,MAS-BLR,1
+4,1,4,4,False,5.75,5,Traction Distribution,Point Machine,Inspection,DEL-AGR,1
+2,4,1,1,False,2.23,30,Traction Distribution,OHE,Testing,HWH-KOL,0
+2,2,3,2,False,2.45,26,Engineering,OHE,Replacement,MAS-BLR,0
+4,3,3,1,False,1.73,58,Traction Distribution,Signal,Overhaul,MAS-BLR,1
+1,4,2,5,False,0.97,56,S&T,Point Machine,Inspection,MUM-PUN,0
+2,4,1,5,False,4.85,12,Traction Distribution,Signal,Overhaul,MUM-PUN,1
+4,2,1,4,False,1.82,-13,Engineering,Track,Replacement,HWH-KOL,1
+5,2,4,2,False,2.05,-14,S&T,Bridge,Repair,BPL-NGP,1
+3,3,4,4,False,1.5,-14,Engineering,OHE,Overhaul,MUM-PUN,0
+2,1,2,4,False,5.86,44,S&T,Track,Repair,HWH-KOL,0
+3,4,4,5,False,4.8,41,Engineering,Signal,Inspection,MAS-BLR,1
+4,1,4,1,False,5.61,48,Engineering,Bridge,Replacement,BPL-NGP,0
+3,3,5,4,False,5.24,-4,Engineering,Signal,Overhaul,MAS-BLR,1
+1,4,5,1,True,5.48,-10,Engineering,Signal,Inspection,MAS-BLR,1
+3,1,5,3,False,3.13,-2,Traction Distribution,OHE,Testing,MAS-BLR,1
+3,5,1,5,False,1.44,32,Traction Distribution,Track,Overhaul,HWH-KOL,1
+4,2,4,1,False,2.3,-14,Engineering,OHE,Testing,MAS-BLR,1
+5,1,2,1,False,2.11,35,Traction Distribution,Track,Replacement,HWH-KOL,0
+5,4,3,5,False,4.44,52,S&T,Bridge,Inspection,BPL-NGP,1
+4,3,4,1,False,0.64,-4,Engineering,OHE,Inspection,MAS-BLR,1
+2,4,4,4,False,1.28,41,Traction Distribution,Signal,Replacement,DEL-AGR,0
+3,4,3,3,False,4.26,27,Engineering,OHE,Replacement,MAS-BLR,1
+1,3,5,2,False,1.18,56,Engineering,Track,Overhaul,MAS-BLR,0
+5,5,1,5,True,0.77,4,Engineering,Signal,Overhaul,MAS-BLR,1
+5,2,1,5,False,1.1,3,Engineering,Track,Overhaul,BPL-NGP,0
+5,3,1,2,True,4.3,-13,S&T,Point Machine,Replacement,DEL-AGR,1
+2,1,5,1,False,1.27,38,Engineering,Bridge,Inspection,MUM-PUN,0
+2,4,3,1,False,1.3,51,Engineering,OHE,Replacement,DEL-AGR,0
+5,2,3,1,False,1.77,-13,S&T,Track,Testing,BPL-NGP,1
+3,4,4,5,False,4.63,22,S&T,Track,Testing,HWH-KOL,1
+4,5,3,3,False,1.6,40,Traction Distribution,Bridge,Testing,HWH-KOL,1
+3,5,3,4,False,0.69,44,Engineering,Signal,Inspection,BPL-NGP,1
+3,5,1,2,False,5.48,55,S&T,Signal,Replacement,MAS-BLR,0
+4,1,1,5,True,5.32,40,Engineering,Track,Overhaul,DEL-AGR,0
+5,1,5,4,False,1.52,55,Traction Distribution,Point Machine,Repair,MAS-BLR,1
+2,5,3,4,False,1.96,60,Engineering,Track,Replacement,MUM-PUN,0
+5,2,1,3,False,1.54,55,Traction Distribution,Bridge,Inspection,BPL-NGP,0
+2,1,2,4,False,4.46,18,Traction Distribution,Signal,Inspection,HWH-KOL,0
+3,2,2,3,False,1.88,16,Engineering,Track,Inspection,HWH-KOL,0
+5,5,2,2,False,5.62,18,Engineering,Point Machine,Testing,MUM-PUN,0
+5,2,2,3,False,5.05,57,Engineering,Signal,Testing,DEL-AGR,1
+5,1,4,2,False,3.74,7,S&T,Point Machine,Replacement,BPL-NGP,1
+2,4,1,5,False,0.55,42,S&T,Track,Inspection,MUM-PUN,0
+5,1,2,4,False,5.36,32,S&T,Bridge,Repair,MUM-PUN,1
+5,2,3,4,True,4.5,-10,S&T,Signal,Replacement,DEL-AGR,1
+5,1,3,4,False,4.83,22,Traction Distribution,Point Machine,Inspection,MAS-BLR,1
+1,4,5,3,False,0.9,0,S&T,Bridge,Overhaul,MUM-PUN,0
+4,3,5,5,False,4.4,40,Engineering,OHE,Testing,MUM-PUN,1
+5,5,2,2,False,4.93,19,Engineering,Signal,Testing,MUM-PUN,1
+4,2,3,3,False,5.76,12,Traction Distribution,Signal,Testing,HWH-KOL,1
+2,2,1,1,True,3.69,-10,Engineering,Point Machine,Testing,HWH-KOL,0
+4,1,4,2,False,3.29,-5,Engineering,Track,Inspection,HWH-KOL,0
+1,2,1,3,False,2.84,43,Engineering,Track,Replacement,MUM-PUN,0
+3,3,1,3,False,4.36,50,S&T,Point Machine,Replacement,MUM-PUN,0
+4,1,4,5,False,5.56,7,Engineering,Track,Inspection,MAS-BLR,1
+3,3,1,4,False,3.8,48,S&T,Signal,Inspection,HWH-KOL,0
+4,5,3,3,False,1.75,27,Traction Distribution,Point Machine,Replacement,MAS-BLR,0
+2,4,1,3,False,0.6,12,Traction Distribution,Signal,Overhaul,MAS-BLR,0
+4,4,4,4,False,3.91,19,S&T,Bridge,Repair,BPL-NGP,1
+4,5,4,4,True,5.26,37,Traction Distribution,Bridge,Replacement,HWH-KOL,1
+4,4,3,2,False,0.86,54,S&T,Track,Inspection,MAS-BLR,1
+2,4,5,3,False,2.69,22,Traction Distribution,Track,Inspection,DEL-AGR,1
+2,5,3,3,False,5.67,11,Engineering,Bridge,Replacement,HWH-KOL,0
+2,1,1,1,False,3.26,43,Traction Distribution,Track,Replacement,BPL-NGP,1
+3,5,1,5,False,1.71,25,Engineering,OHE,Overhaul,DEL-AGR,0
+3,2,2,3,False,2.45,15,Engineering,Bridge,Testing,DEL-AGR,0
+2,4,2,2,False,2.74,20,Engineering,OHE,Inspection,DEL-AGR,0
+3,5,2,4,False,1.15,26,S&T,Signal,Repair,HWH-KOL,0
+2,3,2,4,True,4.13,-4,S&T,Track,Testing,HWH-KOL,1
+2,1,3,5,False,3.76,-10,Engineering,Signal,Inspection,HWH-KOL,1
+4,2,1,1,False,4.06,35,Traction Distribution,OHE,Testing,DEL-AGR,0
+5,3,4,3,False,3.86,-1,Engineering,Track,Testing,HWH-KOL,1
+2,5,2,1,False,0.59,25,S&T,OHE,Inspection,MAS-BLR,0
+5,5,4,3,True,1.46,44,S&T,OHE,Inspection,DEL-AGR,1
+3,3,3,3,False,1.41,2,S&T,Signal,Overhaul,BPL-NGP,0
+1,5,5,3,True,1.04,14,Traction Distribution,Bridge,Replacement,MUM-PUN,1
+2,3,3,5,True,4.55,59,Traction Distribution,Bridge,Testing,DEL-AGR,0
+1,3,2,3,False,1.16,-12,Traction Distribution,Point Machine,Replacement,DEL-AGR,0
+1,5,3,3,False,4.18,42,Traction Distribution,OHE,Overhaul,DEL-AGR,0
+2,4,4,1,False,1.48,-2,Traction Distribution,OHE,Repair,HWH-KOL,0
+3,3,3,2,False,1.15,53,S&T,Track,Repair,HWH-KOL,0
+4,3,3,5,False,1.39,16,S&T,Signal,Inspection,BPL-NGP,0
+1,4,3,3,False,3.3,-14,Engineering,Track,Inspection,DEL-AGR,0
+5,4,2,5,False,4.05,39,Traction Distribution,Signal,Inspection,BPL-NGP,1
+2,3,2,3,False,4.97,-3,Traction Distribution,OHE,Testing,BPL-NGP,0
+1,1,5,3,False,1.21,13,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+4,1,4,3,False,3.89,23,Traction Distribution,Signal,Replacement,BPL-NGP,0
+4,1,1,3,False,4.76,41,Traction Distribution,Signal,Replacement,DEL-AGR,0
+4,3,5,1,False,2.22,17,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+1,4,4,1,False,0.94,50,Engineering,Track,Testing,BPL-NGP,0
+1,5,1,3,False,1.36,22,Engineering,Track,Replacement,MAS-BLR,0
+2,2,4,3,True,1.0,11,S&T,Point Machine,Inspection,HWH-KOL,1
+3,4,3,3,False,5.38,11,S&T,OHE,Inspection,HWH-KOL,0
+5,4,5,3,False,2.57,46,Traction Distribution,Bridge,Overhaul,MAS-BLR,1
+2,1,3,2,False,3.38,35,Traction Distribution,Point Machine,Overhaul,MUM-PUN,1
+1,2,3,4,False,4.73,-5,Traction Distribution,Bridge,Replacement,MUM-PUN,0
+5,2,2,4,False,2.54,42,Traction Distribution,Point Machine,Replacement,HWH-KOL,0
+1,5,2,1,False,4.07,17,Engineering,Bridge,Inspection,DEL-AGR,0
+1,5,4,3,False,0.92,12,S&T,Track,Inspection,DEL-AGR,0
+3,5,5,4,False,3.14,-7,Engineering,OHE,Replacement,MUM-PUN,1
+3,3,5,4,False,1.03,60,S&T,Bridge,Repair,DEL-AGR,0
+4,3,4,2,True,1.87,-11,S&T,Point Machine,Repair,BPL-NGP,1
+5,2,4,5,False,2.11,60,Traction Distribution,OHE,Repair,HWH-KOL,1
+5,4,3,4,True,4.45,-10,Engineering,Bridge,Overhaul,HWH-KOL,1
+2,1,2,3,False,4.21,23,S&T,Signal,Repair,HWH-KOL,0
+5,2,4,4,False,4.61,-7,Traction Distribution,Track,Repair,DEL-AGR,1
+4,1,2,5,False,0.84,22,S&T,Point Machine,Repair,HWH-KOL,0
+1,3,2,2,True,5.97,48,Engineering,OHE,Overhaul,DEL-AGR,0
+5,2,5,1,False,0.8,30,Engineering,Track,Inspection,MUM-PUN,0
+1,1,3,3,False,5.04,26,S&T,Signal,Testing,BPL-NGP,0
+3,2,2,1,False,4.57,-6,S&T,Track,Replacement,MAS-BLR,0
+4,5,5,5,True,3.75,57,Traction Distribution,Bridge,Repair,MUM-PUN,1
+2,3,5,5,False,2.91,14,S&T,Bridge,Overhaul,MUM-PUN,0
+2,5,2,4,False,4.66,26,S&T,Bridge,Testing,BPL-NGP,0
+3,5,3,5,False,4.57,53,S&T,Track,Inspection,MAS-BLR,0
+5,5,3,1,False,1.25,33,Engineering,Bridge,Repair,MUM-PUN,1
+2,2,4,4,True,4.86,41,Engineering,OHE,Inspection,MAS-BLR,0
+4,5,5,3,False,0.93,-1,S&T,Signal,Inspection,MUM-PUN,0
+3,5,3,2,False,3.25,20,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+1,5,4,2,False,4.05,26,S&T,Bridge,Inspection,MUM-PUN,0
+4,2,3,3,False,5.02,-1,Engineering,OHE,Repair,MUM-PUN,1
+5,2,5,4,True,3.05,14,Traction Distribution,Track,Testing,MAS-BLR,1
+3,3,3,1,True,1.8,48,Engineering,Bridge,Overhaul,MUM-PUN,0
+1,5,2,4,True,3.2,55,Traction Distribution,Track,Overhaul,DEL-AGR,0
+1,5,3,5,False,1.88,47,Traction Distribution,Track,Inspection,BPL-NGP,0
+3,3,5,1,True,3.41,56,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+3,1,4,5,False,3.04,60,Engineering,Point Machine,Inspection,DEL-AGR,1
+3,3,1,4,True,4.79,0,Engineering,Point Machine,Overhaul,MAS-BLR,1
+2,4,1,2,False,1.82,50,S&T,Bridge,Overhaul,MUM-PUN,0
+3,3,3,4,False,1.6,32,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+2,2,5,4,False,3.11,50,Traction Distribution,Track,Testing,MAS-BLR,0
+4,2,3,4,True,0.78,33,S&T,Signal,Testing,MUM-PUN,1
+4,1,3,1,False,1.76,-5,Engineering,Point Machine,Inspection,BPL-NGP,1
+4,2,4,1,False,2.45,28,Traction Distribution,Signal,Testing,MUM-PUN,1
+1,4,3,4,False,3.18,43,Traction Distribution,Point Machine,Repair,HWH-KOL,0
+5,2,5,2,False,1.98,-5,S&T,OHE,Overhaul,BPL-NGP,0
+1,5,4,2,False,3.58,23,S&T,OHE,Testing,BPL-NGP,1
+5,1,4,3,True,5.33,35,Engineering,Track,Replacement,HWH-KOL,1
+1,3,4,4,False,3.49,20,Traction Distribution,Point Machine,Testing,BPL-NGP,0
+3,3,4,1,False,2.08,45,Engineering,Bridge,Testing,MAS-BLR,0
+1,5,1,5,False,0.84,-5,Traction Distribution,Bridge,Replacement,MAS-BLR,0
+1,5,3,3,False,1.25,11,Traction Distribution,Signal,Inspection,BPL-NGP,0
+4,3,1,1,False,3.59,57,Traction Distribution,Point Machine,Replacement,MUM-PUN,1
+4,4,3,1,True,4.26,24,Traction Distribution,Track,Testing,HWH-KOL,0
+1,4,1,5,False,0.77,-1,Traction Distribution,Point Machine,Repair,MAS-BLR,0
+5,3,3,1,False,1.52,-6,Engineering,OHE,Testing,MUM-PUN,0
+2,1,2,3,False,2.25,30,S&T,Bridge,Inspection,BPL-NGP,0
+2,3,1,4,True,2.26,55,S&T,Point Machine,Overhaul,BPL-NGP,0
+2,2,1,3,False,5.77,-11,Traction Distribution,Track,Overhaul,HWH-KOL,0
+3,3,3,2,False,1.62,-6,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+1,4,1,1,False,0.84,14,S&T,Point Machine,Replacement,HWH-KOL,0
+3,2,5,4,False,2.44,1,S&T,Signal,Inspection,MAS-BLR,1
+2,2,4,3,False,1.24,-5,Engineering,Signal,Repair,BPL-NGP,0
+1,5,4,1,False,1.2,8,Engineering,Track,Testing,DEL-AGR,0
+2,2,1,1,False,2.74,34,S&T,Signal,Inspection,MAS-BLR,0
+4,1,4,3,False,2.19,47,Traction Distribution,Bridge,Testing,BPL-NGP,1
+4,4,4,1,False,1.0,8,Traction Distribution,Bridge,Overhaul,MUM-PUN,0
+2,4,2,2,False,3.82,38,S&T,OHE,Overhaul,BPL-NGP,0
+2,5,1,1,False,3.26,47,Engineering,Signal,Repair,HWH-KOL,0
+4,4,3,4,False,0.92,-14,Traction Distribution,Signal,Testing,MAS-BLR,1
+4,5,4,4,True,5.25,49,S&T,Bridge,Repair,MUM-PUN,1
+5,3,1,4,True,2.07,-1,S&T,Track,Replacement,MUM-PUN,1
+5,2,1,1,False,5.79,37,S&T,Point Machine,Inspection,DEL-AGR,1
+5,5,2,2,False,5.62,42,Traction Distribution,Bridge,Testing,BPL-NGP,1
+5,2,3,2,False,2.89,49,Engineering,Bridge,Overhaul,MAS-BLR,1
+3,2,3,4,False,1.76,16,Engineering,Point Machine,Inspection,BPL-NGP,1
+2,5,3,5,False,5.09,35,Engineering,Bridge,Overhaul,MUM-PUN,1
+2,5,2,2,False,2.49,-13,Traction Distribution,Signal,Inspection,MAS-BLR,0
+2,2,1,4,False,1.4,19,Engineering,Bridge,Replacement,MUM-PUN,0
+4,4,1,3,True,3.53,58,Engineering,Track,Replacement,BPL-NGP,0
+4,5,1,5,False,3.19,-3,S&T,Track,Testing,HWH-KOL,1
+5,4,4,1,False,5.18,-3,Traction Distribution,Track,Repair,MAS-BLR,1
+1,1,4,5,False,4.51,38,S&T,Point Machine,Inspection,MAS-BLR,0
+3,4,3,3,False,5.32,24,Traction Distribution,Signal,Replacement,MUM-PUN,0
+2,1,1,2,True,4.54,20,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+5,5,3,1,False,4.03,4,S&T,Track,Overhaul,DEL-AGR,1
+2,1,5,5,False,3.25,-2,S&T,Point Machine,Inspection,BPL-NGP,0
+1,5,2,5,False,5.93,41,S&T,Signal,Inspection,MUM-PUN,0
+3,1,3,1,True,5.78,12,Traction Distribution,OHE,Overhaul,DEL-AGR,1
+5,3,3,3,False,5.17,44,Engineering,Track,Overhaul,MAS-BLR,1
+5,2,2,4,False,4.76,19,Traction Distribution,Bridge,Replacement,BPL-NGP,1
+1,5,3,3,True,3.68,15,S&T,Signal,Inspection,DEL-AGR,0
+2,2,3,1,False,1.93,3,Traction Distribution,Point Machine,Repair,BPL-NGP,0
+1,4,3,2,False,5.31,35,S&T,OHE,Testing,BPL-NGP,0
+2,1,4,2,False,0.56,7,Traction Distribution,OHE,Inspection,MAS-BLR,0
+3,3,3,2,False,1.75,54,Engineering,OHE,Repair,MAS-BLR,0
+2,5,1,5,False,2.72,16,Engineering,Track,Replacement,MAS-BLR,1
+1,5,1,2,False,3.72,47,Engineering,Bridge,Overhaul,MAS-BLR,0
+3,2,3,4,True,3.58,21,Traction Distribution,Point Machine,Testing,BPL-NGP,1
+1,2,5,5,False,1.47,17,Traction Distribution,Signal,Replacement,BPL-NGP,0
+2,3,1,4,True,1.08,19,Traction Distribution,Track,Replacement,HWH-KOL,0
+1,3,1,4,False,1.72,19,Engineering,Bridge,Repair,BPL-NGP,0
+1,3,4,1,False,2.42,21,Engineering,Signal,Inspection,MAS-BLR,0
+3,1,3,1,False,0.58,52,S&T,Bridge,Repair,DEL-AGR,0
+5,4,2,4,False,4.31,38,Traction Distribution,Point Machine,Repair,DEL-AGR,1
+4,2,2,4,False,1.86,-12,Engineering,Bridge,Inspection,HWH-KOL,1
+1,2,4,4,True,2.43,-10,S&T,Point Machine,Overhaul,MUM-PUN,0
+1,5,3,3,False,2.34,-13,S&T,Track,Repair,HWH-KOL,0
+2,4,4,3,True,3.32,37,S&T,Track,Replacement,MUM-PUN,1
+4,2,2,1,False,5.23,1,S&T,Signal,Repair,BPL-NGP,1
+4,5,3,2,False,1.32,14,S&T,OHE,Replacement,MAS-BLR,0
+5,2,5,3,True,2.37,48,Traction Distribution,Point Machine,Inspection,MUM-PUN,1
+2,3,2,1,False,4.31,-5,Engineering,Bridge,Overhaul,BPL-NGP,0
+1,2,2,1,False,0.74,-3,S&T,Track,Overhaul,DEL-AGR,0
+1,1,1,1,False,5.06,-9,Engineering,Point Machine,Repair,BPL-NGP,0
+1,3,4,2,False,5.79,7,Engineering,Track,Repair,BPL-NGP,0
+1,3,1,5,True,3.84,-8,S&T,OHE,Overhaul,BPL-NGP,0
+5,5,2,4,False,5.76,33,S&T,Track,Repair,HWH-KOL,1
+2,2,4,5,True,2.77,41,Engineering,Signal,Inspection,DEL-AGR,1
+5,5,1,2,False,2.78,-1,Engineering,Point Machine,Repair,MAS-BLR,0
+3,4,5,3,True,1.08,25,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+3,1,3,5,False,0.69,8,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+3,4,2,2,False,1.84,-8,Traction Distribution,OHE,Repair,DEL-AGR,0
+5,3,3,4,True,3.13,21,Engineering,Signal,Replacement,MAS-BLR,1
+1,2,4,4,False,3.29,38,Engineering,Bridge,Repair,HWH-KOL,0
+1,3,3,5,False,1.7,3,Engineering,Bridge,Overhaul,HWH-KOL,0
+3,2,5,5,True,3.87,45,Engineering,Bridge,Replacement,MUM-PUN,1
+2,4,5,4,False,1.5,60,S&T,Point Machine,Replacement,BPL-NGP,1
+3,3,2,3,False,2.29,-10,S&T,Point Machine,Replacement,MUM-PUN,0
+4,3,4,5,False,1.58,-2,Engineering,Track,Replacement,BPL-NGP,0
+3,2,2,4,False,4.33,7,S&T,OHE,Replacement,MAS-BLR,0
+2,2,5,2,False,3.34,49,S&T,OHE,Repair,MUM-PUN,1
+2,3,2,4,False,4.55,-4,Engineering,Signal,Testing,BPL-NGP,0
+4,3,2,3,True,0.81,21,S&T,Track,Repair,MUM-PUN,1
+2,2,4,2,True,2.84,26,S&T,Signal,Testing,MAS-BLR,0
+3,3,4,3,True,5.82,-5,Traction Distribution,Bridge,Overhaul,MAS-BLR,1
+3,2,1,4,False,0.79,-11,Engineering,Bridge,Replacement,MUM-PUN,0
+4,3,3,5,False,2.8,-6,Engineering,Point Machine,Repair,MUM-PUN,1
+4,1,2,3,False,0.72,-10,Traction Distribution,Track,Replacement,DEL-AGR,0
+3,3,4,1,True,1.31,23,S&T,Point Machine,Testing,BPL-NGP,1
+2,4,3,5,False,3.04,56,S&T,Track,Inspection,MAS-BLR,1
+2,5,5,3,False,1.37,12,Traction Distribution,Point Machine,Replacement,DEL-AGR,0
+3,4,5,2,False,3.35,5,Traction Distribution,Track,Overhaul,MAS-BLR,0
+2,4,4,4,True,5.58,3,Engineering,Signal,Overhaul,BPL-NGP,1
+4,1,4,2,False,1.6,59,Traction Distribution,Track,Inspection,HWH-KOL,0
+2,2,5,2,True,1.09,57,S&T,Bridge,Replacement,MUM-PUN,1
+4,4,1,5,True,5.04,34,S&T,OHE,Inspection,BPL-NGP,1
+4,5,4,5,False,3.03,20,Traction Distribution,Bridge,Testing,HWH-KOL,1
+5,3,4,3,False,5.35,-3,Engineering,Track,Repair,MAS-BLR,1
+1,5,1,2,False,2.18,55,Traction Distribution,Point Machine,Replacement,HWH-KOL,0
+4,2,5,5,False,3.95,-14,S&T,OHE,Testing,DEL-AGR,1
+1,1,4,1,False,5.58,-2,Traction Distribution,OHE,Replacement,MUM-PUN,0
+2,1,2,4,True,1.44,36,S&T,Bridge,Inspection,MUM-PUN,0
+1,3,3,3,False,4.9,-1,Traction Distribution,Track,Testing,HWH-KOL,0
+1,4,3,5,False,3.97,-6,S&T,Bridge,Overhaul,MUM-PUN,0
+1,2,5,3,True,4.97,30,S&T,Track,Overhaul,MAS-BLR,0
+1,4,5,5,False,1.44,-13,S&T,Signal,Inspection,MUM-PUN,0
+5,4,5,1,False,2.89,6,Traction Distribution,Track,Replacement,BPL-NGP,0
+1,2,4,4,True,1.21,34,Traction Distribution,OHE,Replacement,MUM-PUN,0
+2,2,1,1,False,5.78,-1,Engineering,OHE,Repair,MAS-BLR,0
+4,4,5,4,False,0.84,42,Traction Distribution,Point Machine,Replacement,MAS-BLR,1
+5,4,1,1,False,0.86,-7,S&T,Point Machine,Repair,BPL-NGP,0
+5,1,1,5,False,5.44,31,Engineering,Point Machine,Replacement,BPL-NGP,0
+1,2,1,4,False,2.15,-9,Traction Distribution,Bridge,Testing,BPL-NGP,0
+5,3,5,1,False,3.78,40,Engineering,OHE,Overhaul,HWH-KOL,1
+4,3,3,5,False,2.08,42,Traction Distribution,Track,Repair,HWH-KOL,1
+1,1,2,2,False,4.07,45,S&T,Track,Repair,DEL-AGR,0
+3,5,1,3,False,1.56,7,Traction Distribution,Signal,Inspection,MAS-BLR,0
+5,2,3,1,True,3.02,3,S&T,Point Machine,Repair,MAS-BLR,1
+2,2,4,1,False,3.43,59,Engineering,Track,Inspection,HWH-KOL,0
+1,1,5,2,True,2.34,40,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+5,5,3,3,False,1.88,-1,Traction Distribution,Bridge,Testing,HWH-KOL,1
+5,2,4,3,False,1.27,-12,Engineering,Track,Testing,DEL-AGR,1
+5,5,5,5,False,4.38,12,Engineering,Point Machine,Replacement,MAS-BLR,1
+5,3,5,1,False,1.43,35,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+5,5,2,4,False,2.11,14,Traction Distribution,OHE,Replacement,MAS-BLR,0
+3,1,5,1,False,2.35,46,Engineering,Point Machine,Overhaul,MUM-PUN,0
+1,1,3,2,False,3.0,23,Traction Distribution,OHE,Testing,HWH-KOL,0
+4,5,5,1,False,4.36,60,Engineering,Signal,Inspection,BPL-NGP,1
+2,5,1,1,False,2.85,51,Engineering,OHE,Repair,DEL-AGR,0
+3,3,1,3,True,5.29,21,S&T,Track,Inspection,MAS-BLR,0
+4,1,5,5,False,4.24,48,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+5,5,4,4,False,5.11,19,Traction Distribution,Bridge,Testing,DEL-AGR,1
+2,2,1,5,False,4.44,-14,S&T,Track,Overhaul,BPL-NGP,0
+2,5,5,3,False,1.32,9,Engineering,OHE,Overhaul,MAS-BLR,1
+4,5,1,1,False,5.88,16,S&T,Signal,Replacement,MUM-PUN,0
+1,5,4,2,False,4.83,59,Traction Distribution,OHE,Inspection,BPL-NGP,1
+3,4,2,5,True,3.65,48,Traction Distribution,Signal,Overhaul,BPL-NGP,1
+4,4,1,1,False,1.41,-4,Engineering,OHE,Testing,DEL-AGR,0
+3,3,5,1,False,1.45,-14,S&T,OHE,Testing,HWH-KOL,0
+2,1,5,5,False,3.88,25,S&T,Point Machine,Repair,HWH-KOL,1
+5,2,1,1,False,2.79,26,S&T,Signal,Repair,MUM-PUN,1
+2,4,1,5,True,4.22,41,Engineering,OHE,Overhaul,MUM-PUN,0
+4,5,4,4,False,2.55,5,Engineering,Point Machine,Inspection,BPL-NGP,1
+3,3,1,4,False,3.32,46,S&T,Point Machine,Inspection,BPL-NGP,0
+1,4,4,3,False,1.53,16,Engineering,OHE,Testing,MUM-PUN,0
+3,1,5,1,False,1.35,11,S&T,Signal,Testing,DEL-AGR,1
+1,3,4,3,False,0.92,17,Engineering,OHE,Replacement,BPL-NGP,1
+5,3,2,5,False,5.01,56,Traction Distribution,OHE,Replacement,DEL-AGR,1
+4,5,1,5,False,3.55,15,Engineering,Bridge,Replacement,DEL-AGR,0
+2,2,4,3,True,5.71,28,S&T,Signal,Inspection,MUM-PUN,0
+3,2,1,5,False,4.62,52,S&T,Signal,Repair,MAS-BLR,0
+4,2,3,4,False,4.73,-13,S&T,Point Machine,Repair,BPL-NGP,0
+2,1,3,1,False,3.3,26,S&T,Point Machine,Testing,MUM-PUN,0
+2,3,4,4,False,4.98,39,S&T,OHE,Replacement,HWH-KOL,0
+3,4,2,4,True,5.68,53,Traction Distribution,Track,Overhaul,MAS-BLR,1
+2,5,4,3,False,4.47,-10,Traction Distribution,Point Machine,Inspection,BPL-NGP,0
+4,5,4,4,False,1.08,40,Engineering,Point Machine,Testing,BPL-NGP,0
+1,1,2,5,False,4.08,46,Traction Distribution,Bridge,Testing,DEL-AGR,0
+5,2,2,3,False,1.16,12,S&T,OHE,Replacement,MUM-PUN,0
+2,2,1,2,False,0.92,41,Engineering,OHE,Repair,DEL-AGR,0
+3,2,3,5,False,4.31,23,Traction Distribution,Signal,Testing,MAS-BLR,0
+1,5,2,5,False,5.09,35,Traction Distribution,OHE,Testing,MUM-PUN,1
+2,1,1,4,False,1.37,15,Engineering,Track,Replacement,HWH-KOL,0
+4,1,3,4,False,0.91,-1,Engineering,OHE,Repair,HWH-KOL,0
+2,5,3,1,False,5.38,48,S&T,Point Machine,Overhaul,HWH-KOL,1
+1,5,1,3,True,1.23,2,Traction Distribution,Point Machine,Repair,DEL-AGR,0
+3,2,1,1,True,0.69,0,Engineering,Point Machine,Overhaul,MAS-BLR,0
+1,2,1,3,False,4.47,52,S&T,Bridge,Testing,MUM-PUN,0
+2,3,4,5,False,5.16,56,S&T,Point Machine,Replacement,MAS-BLR,0
+3,3,2,2,False,3.33,31,Traction Distribution,Point Machine,Inspection,BPL-NGP,0
+3,5,1,5,False,3.47,29,Traction Distribution,OHE,Replacement,BPL-NGP,0
+4,3,1,1,False,2.35,13,Traction Distribution,Point Machine,Testing,BPL-NGP,0
+4,1,5,1,False,1.81,31,Engineering,Point Machine,Repair,MAS-BLR,0
+5,3,2,5,False,4.65,31,Traction Distribution,OHE,Testing,MUM-PUN,0
+1,3,4,1,True,5.17,24,S&T,OHE,Repair,MUM-PUN,1
+2,3,3,4,False,2.27,35,S&T,Point Machine,Overhaul,BPL-NGP,0
+1,3,1,4,False,2.01,27,Traction Distribution,Signal,Overhaul,MUM-PUN,0
+1,5,2,2,False,1.97,51,Traction Distribution,Signal,Inspection,MAS-BLR,0
+2,5,1,1,False,0.78,36,Engineering,OHE,Inspection,DEL-AGR,0
+3,2,4,2,False,2.05,14,Engineering,Point Machine,Testing,MAS-BLR,0
+5,2,2,1,True,0.64,35,Traction Distribution,OHE,Overhaul,MUM-PUN,1
+4,4,3,4,False,4.84,3,Traction Distribution,Track,Overhaul,DEL-AGR,1
+4,3,1,5,False,1.91,2,S&T,Bridge,Repair,BPL-NGP,0
+4,3,5,5,True,4.3,48,Engineering,OHE,Inspection,MUM-PUN,1
+1,1,2,5,False,3.49,29,Engineering,OHE,Repair,MUM-PUN,0
+5,2,3,4,False,5.11,-10,Traction Distribution,Bridge,Replacement,HWH-KOL,0
+5,4,5,5,True,5.78,12,Traction Distribution,OHE,Overhaul,HWH-KOL,1
+1,5,4,4,True,2.52,59,Traction Distribution,Track,Repair,DEL-AGR,0
+3,4,4,4,False,0.99,33,S&T,Bridge,Repair,DEL-AGR,1
+5,2,5,5,True,4.62,51,S&T,Signal,Repair,HWH-KOL,1
+3,1,1,2,True,0.62,27,Engineering,Bridge,Testing,MUM-PUN,0
+5,1,5,3,False,1.73,-11,Traction Distribution,OHE,Overhaul,HWH-KOL,0
+5,2,3,5,False,0.79,-1,Traction Distribution,Signal,Testing,BPL-NGP,1
+3,3,3,2,False,5.44,-8,Engineering,Signal,Inspection,BPL-NGP,0
+1,5,2,2,False,0.53,41,S&T,Bridge,Replacement,DEL-AGR,0
+2,5,4,1,False,3.21,42,S&T,Bridge,Replacement,MAS-BLR,0
+2,1,5,2,False,2.83,20,Traction Distribution,Track,Replacement,BPL-NGP,0
+3,4,4,3,False,4.09,40,Traction Distribution,Bridge,Repair,DEL-AGR,1
+3,2,1,5,False,2.09,27,Engineering,Bridge,Inspection,BPL-NGP,0
+3,1,3,1,False,5.31,41,Traction Distribution,Point Machine,Inspection,MAS-BLR,0
+1,3,4,4,False,4.54,36,Engineering,Track,Overhaul,HWH-KOL,1
+2,1,2,4,False,2.88,20,Traction Distribution,OHE,Replacement,MAS-BLR,1
+4,2,4,5,False,2.47,34,Traction Distribution,OHE,Inspection,MAS-BLR,1
+1,3,4,4,False,4.99,9,Engineering,Track,Repair,MAS-BLR,1
+2,2,1,1,False,4.66,42,Traction Distribution,Bridge,Testing,MAS-BLR,0
+5,3,3,3,False,2.69,54,Engineering,Point Machine,Replacement,DEL-AGR,1
+1,3,1,5,False,2.38,1,Engineering,Track,Testing,DEL-AGR,0
+3,4,3,5,False,0.71,36,Engineering,Signal,Inspection,BPL-NGP,1
+2,1,2,4,True,0.95,-6,Traction Distribution,Bridge,Inspection,BPL-NGP,0
+1,1,5,5,False,0.8,14,Traction Distribution,OHE,Replacement,HWH-KOL,0
+3,3,5,4,False,0.63,36,S&T,OHE,Overhaul,MUM-PUN,1
+3,2,3,1,False,1.34,6,Traction Distribution,Track,Testing,MAS-BLR,0
+1,4,3,5,False,5.21,3,S&T,Track,Replacement,HWH-KOL,1
+1,1,4,1,False,4.89,14,S&T,Bridge,Repair,BPL-NGP,0
+1,3,4,2,False,5.15,-6,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+4,5,4,2,True,3.93,32,S&T,Track,Repair,MAS-BLR,0
+5,1,4,4,True,3.93,-5,S&T,OHE,Inspection,BPL-NGP,1
+1,2,5,1,False,1.18,10,Engineering,Point Machine,Inspection,BPL-NGP,0
+2,5,5,4,False,4.34,9,S&T,Bridge,Overhaul,MAS-BLR,1
+2,3,1,5,False,2.04,58,Traction Distribution,OHE,Overhaul,DEL-AGR,1
+2,1,3,4,False,3.36,60,Traction Distribution,Bridge,Inspection,BPL-NGP,1
+2,2,3,2,False,5.75,-9,Engineering,Track,Replacement,HWH-KOL,0
+1,4,3,5,True,5.29,-3,S&T,Track,Testing,BPL-NGP,1
+3,5,3,2,False,1.78,40,S&T,OHE,Testing,MUM-PUN,0
+2,2,4,4,False,4.55,8,Traction Distribution,Signal,Replacement,HWH-KOL,0
+2,3,3,3,True,1.07,34,Traction Distribution,Point Machine,Inspection,MUM-PUN,0
+2,4,2,1,False,0.65,55,Traction Distribution,Signal,Overhaul,DEL-AGR,0
+5,1,3,1,False,0.65,-2,Traction Distribution,OHE,Replacement,HWH-KOL,0
+4,2,5,1,False,1.44,58,S&T,OHE,Testing,DEL-AGR,0
+3,4,2,5,False,4.32,-11,S&T,Bridge,Replacement,DEL-AGR,1
+2,1,1,5,False,2.5,3,S&T,Track,Overhaul,HWH-KOL,1
+5,4,5,3,True,0.59,24,S&T,OHE,Replacement,MAS-BLR,1
+5,3,1,5,False,5.93,52,Traction Distribution,Signal,Replacement,BPL-NGP,0
+1,5,4,1,False,3.43,27,Traction Distribution,Track,Repair,DEL-AGR,0
+5,1,5,5,True,2.67,-4,Traction Distribution,Bridge,Replacement,DEL-AGR,1
+4,5,2,2,True,3.35,4,S&T,Bridge,Repair,HWH-KOL,0
+1,2,2,1,False,3.36,43,Engineering,Track,Replacement,HWH-KOL,0
+4,1,2,4,True,3.09,28,Engineering,Point Machine,Testing,DEL-AGR,0
+1,4,1,2,False,3.87,-14,Engineering,Point Machine,Repair,MUM-PUN,0
+1,3,1,2,False,5.37,23,S&T,Point Machine,Replacement,DEL-AGR,0
+1,5,1,4,False,2.16,16,S&T,OHE,Testing,HWH-KOL,0
+3,1,3,2,False,3.18,-14,S&T,Signal,Inspection,BPL-NGP,0
+4,1,3,4,False,0.52,4,Traction Distribution,Track,Repair,MUM-PUN,1
+3,3,1,1,False,5.23,56,S&T,Track,Replacement,HWH-KOL,0
+1,5,5,1,False,2.18,38,Traction Distribution,Track,Replacement,MUM-PUN,1
+1,3,4,2,False,1.99,-9,S&T,OHE,Repair,MAS-BLR,0
+5,4,1,4,False,5.99,-13,Traction Distribution,Track,Overhaul,DEL-AGR,1
+5,5,5,2,False,3.71,11,Engineering,Point Machine,Replacement,HWH-KOL,1
+4,5,1,1,False,1.18,20,Engineering,Point Machine,Repair,MUM-PUN,1
+1,3,3,4,False,1.96,20,Traction Distribution,Signal,Replacement,HWH-KOL,0
+5,4,3,3,False,2.44,38,Traction Distribution,Track,Testing,HWH-KOL,1
+4,3,3,3,False,5.92,-1,S&T,OHE,Testing,BPL-NGP,1
+3,4,5,2,True,2.87,-11,Engineering,Bridge,Repair,MAS-BLR,1
+1,3,5,1,False,1.77,36,Engineering,Signal,Inspection,HWH-KOL,0
+5,3,2,1,True,3.63,53,S&T,Bridge,Inspection,MUM-PUN,1
+3,3,3,4,False,2.73,-2,Traction Distribution,Signal,Replacement,HWH-KOL,1
+1,4,5,1,False,0.8,13,S&T,Track,Overhaul,HWH-KOL,0
+2,4,4,2,False,5.24,32,Traction Distribution,Point Machine,Inspection,MAS-BLR,1
+3,5,5,5,False,0.59,-2,S&T,Bridge,Replacement,HWH-KOL,0
+1,4,3,2,True,5.44,50,Engineering,Bridge,Repair,MAS-BLR,0
+2,1,2,4,False,4.86,2,S&T,Bridge,Testing,BPL-NGP,0
+3,3,3,2,False,0.92,25,S&T,Track,Overhaul,HWH-KOL,1
+5,2,5,5,False,4.48,11,Engineering,Track,Replacement,MUM-PUN,1
+1,1,5,5,False,4.74,36,Traction Distribution,OHE,Replacement,MUM-PUN,0
+3,1,4,3,False,3.81,0,Engineering,Bridge,Inspection,DEL-AGR,0
+5,3,4,4,False,3.68,-7,Traction Distribution,Bridge,Replacement,HWH-KOL,1
+5,5,3,3,True,0.77,24,Traction Distribution,Signal,Repair,MAS-BLR,1
+5,3,2,5,True,0.83,50,Traction Distribution,Signal,Inspection,DEL-AGR,1
+1,3,3,2,False,4.5,33,Engineering,Point Machine,Repair,MAS-BLR,0
+5,1,3,5,False,1.08,42,Traction Distribution,Bridge,Overhaul,MAS-BLR,1
+5,4,5,4,False,1.83,18,S&T,Track,Replacement,HWH-KOL,0
+2,1,3,4,True,3.24,-4,Traction Distribution,Bridge,Testing,MUM-PUN,0
+3,5,4,2,False,1.4,18,Engineering,Bridge,Repair,HWH-KOL,0
+3,5,1,5,True,4.84,60,Traction Distribution,Track,Overhaul,MAS-BLR,1
+3,5,4,4,False,4.94,44,Engineering,Bridge,Replacement,DEL-AGR,0
+2,2,3,5,True,5.13,38,Traction Distribution,Point Machine,Testing,HWH-KOL,1
+5,1,5,5,True,0.77,8,Engineering,Bridge,Testing,DEL-AGR,1
+5,2,3,1,False,2.85,30,Traction Distribution,Signal,Overhaul,BPL-NGP,0
+2,4,3,5,False,5.16,32,Traction Distribution,Bridge,Replacement,DEL-AGR,1
+5,2,1,5,False,2.5,35,S&T,Track,Replacement,MUM-PUN,0
+2,5,5,2,False,4.33,52,S&T,Track,Overhaul,BPL-NGP,0
+4,1,4,5,False,3.74,37,Engineering,OHE,Testing,BPL-NGP,1
+3,1,5,3,False,2.41,2,Engineering,Point Machine,Repair,MUM-PUN,0
+3,2,1,2,False,2.02,2,Traction Distribution,Track,Testing,HWH-KOL,0
+1,4,2,2,False,4.09,32,Traction Distribution,Signal,Testing,DEL-AGR,0
+4,4,5,2,False,1.23,50,Traction Distribution,Signal,Inspection,HWH-KOL,0
+2,2,1,1,False,5.23,57,Engineering,Track,Repair,DEL-AGR,1
+2,4,3,4,False,3.67,31,Engineering,Track,Repair,MAS-BLR,0
+1,4,3,4,False,1.11,25,Traction Distribution,Track,Replacement,DEL-AGR,1
+5,3,5,4,False,4.37,47,S&T,Bridge,Repair,BPL-NGP,1
+1,3,5,3,True,2.87,59,Engineering,Bridge,Repair,HWH-KOL,1
+4,1,5,2,False,1.62,-12,Engineering,Point Machine,Inspection,MUM-PUN,0
+5,2,2,4,False,5.79,9,Traction Distribution,Point Machine,Inspection,HWH-KOL,0
+1,3,3,5,False,4.46,11,Traction Distribution,Track,Replacement,DEL-AGR,1
+3,1,4,1,False,3.76,28,Engineering,Track,Repair,HWH-KOL,1
+3,3,5,2,False,5.17,8,Traction Distribution,Signal,Replacement,BPL-NGP,0
+2,1,1,5,False,3.49,9,S&T,Bridge,Repair,HWH-KOL,0
+4,4,5,5,False,2.93,-13,Traction Distribution,OHE,Repair,MUM-PUN,1
+3,1,2,5,False,1.54,-14,S&T,Bridge,Testing,HWH-KOL,1
+3,1,1,1,False,1.34,19,Traction Distribution,Signal,Testing,MAS-BLR,0
+3,4,4,3,False,2.88,60,S&T,Signal,Repair,BPL-NGP,1
+5,2,4,1,False,3.01,8,Traction Distribution,Bridge,Inspection,DEL-AGR,0
+4,2,1,5,False,4.53,4,Traction Distribution,OHE,Testing,MUM-PUN,1
+2,2,1,3,False,2.93,5,S&T,Point Machine,Overhaul,DEL-AGR,0
+5,2,5,2,False,3.76,58,Engineering,Point Machine,Replacement,MUM-PUN,1
+5,4,5,1,False,5.08,35,Engineering,Point Machine,Overhaul,BPL-NGP,1
+5,4,1,4,False,5.96,34,S&T,Point Machine,Repair,MAS-BLR,0
+4,2,5,5,False,2.27,0,S&T,Bridge,Replacement,HWH-KOL,1
+2,4,5,5,False,5.46,53,Traction Distribution,OHE,Repair,BPL-NGP,0
+4,4,5,5,False,4.93,0,Engineering,Signal,Overhaul,MUM-PUN,1
+2,3,2,5,False,0.87,58,Traction Distribution,OHE,Inspection,HWH-KOL,0
+2,3,3,4,True,2.34,57,Engineering,Signal,Replacement,MAS-BLR,1
+3,5,5,5,False,1.7,28,S&T,Track,Testing,MUM-PUN,1
+5,3,5,5,False,4.15,51,S&T,Signal,Inspection,MUM-PUN,1
+3,2,4,3,True,3.55,60,S&T,OHE,Inspection,DEL-AGR,0
+2,3,1,4,False,3.22,29,Engineering,OHE,Testing,MUM-PUN,0
+3,5,1,5,False,4.7,43,Traction Distribution,Signal,Testing,DEL-AGR,0
+2,4,2,1,False,2.33,30,Engineering,Point Machine,Replacement,MAS-BLR,1
+4,1,1,4,True,2.61,25,Traction Distribution,Signal,Inspection,MAS-BLR,1
+2,3,1,2,False,5.26,11,S&T,Point Machine,Replacement,HWH-KOL,0
+3,4,1,1,False,5.85,35,Traction Distribution,Signal,Repair,HWH-KOL,0
+2,2,4,1,True,4.77,6,Traction Distribution,Bridge,Replacement,MUM-PUN,0
+2,5,3,1,False,1.69,0,Traction Distribution,Point Machine,Inspection,DEL-AGR,0
+5,5,3,5,False,1.12,6,S&T,OHE,Testing,HWH-KOL,1
+2,5,5,4,False,1.65,-14,S&T,OHE,Overhaul,DEL-AGR,1
+1,1,3,1,False,2.83,56,S&T,Point Machine,Overhaul,MAS-BLR,0
+2,3,3,4,True,1.8,5,S&T,OHE,Replacement,MUM-PUN,1
+3,3,2,4,False,5.46,45,Traction Distribution,Bridge,Repair,BPL-NGP,0
+1,4,3,3,False,4.19,18,S&T,Track,Testing,MUM-PUN,0
+2,5,1,4,True,2.79,11,S&T,Bridge,Repair,DEL-AGR,0
+1,2,3,5,False,2.01,3,Engineering,Bridge,Repair,HWH-KOL,0
+3,3,5,3,False,2.59,47,Engineering,Signal,Testing,DEL-AGR,1
+4,4,3,4,False,3.12,24,Traction Distribution,Signal,Inspection,MUM-PUN,1
+5,4,2,3,False,4.43,19,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+2,4,4,2,False,0.99,35,S&T,OHE,Overhaul,MAS-BLR,0
+5,2,5,5,False,5.17,46,S&T,Point Machine,Repair,HWH-KOL,1
+2,5,3,3,True,1.2,35,Engineering,Track,Replacement,BPL-NGP,0
+4,1,2,4,False,1.94,21,Engineering,OHE,Replacement,HWH-KOL,0
+3,3,4,4,False,5.96,53,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+4,4,1,4,False,1.55,53,S&T,Bridge,Overhaul,HWH-KOL,0
+4,1,5,4,False,1.06,58,Engineering,OHE,Replacement,MAS-BLR,0
+3,3,2,4,False,4.01,-8,Engineering,Track,Replacement,MAS-BLR,1
+2,3,2,3,False,2.66,52,Engineering,OHE,Overhaul,MAS-BLR,0
+3,4,4,4,False,1.01,0,Traction Distribution,Point Machine,Repair,BPL-NGP,1
+5,1,1,3,True,0.52,32,S&T,Bridge,Inspection,MAS-BLR,0
+5,2,2,2,True,0.94,35,Engineering,Bridge,Replacement,BPL-NGP,1
+5,2,1,4,False,3.38,1,Traction Distribution,Point Machine,Testing,MUM-PUN,1
+1,4,2,5,False,1.77,-14,Traction Distribution,Track,Inspection,DEL-AGR,0
+3,2,3,4,True,4.78,56,S&T,OHE,Inspection,MUM-PUN,0
+1,3,1,4,True,5.22,52,Engineering,OHE,Testing,HWH-KOL,0
+4,4,2,5,False,1.3,-1,Engineering,OHE,Testing,DEL-AGR,0
+5,4,4,2,False,2.35,31,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+1,1,5,1,False,1.31,-3,S&T,Bridge,Repair,BPL-NGP,0
+4,5,1,2,True,2.08,28,S&T,Signal,Overhaul,MUM-PUN,0
+5,1,4,4,False,1.82,9,Engineering,Bridge,Overhaul,BPL-NGP,0
+5,1,1,5,False,4.83,42,Traction Distribution,Bridge,Overhaul,MAS-BLR,1
+2,1,3,3,False,2.4,29,Traction Distribution,Point Machine,Testing,DEL-AGR,0
+1,2,5,4,True,3.23,23,S&T,Signal,Replacement,BPL-NGP,0
+5,5,4,1,False,4.21,37,Engineering,Point Machine,Testing,MAS-BLR,0
+5,2,2,4,False,5.02,21,S&T,OHE,Replacement,DEL-AGR,0
+3,4,2,4,True,2.16,-14,Traction Distribution,Bridge,Replacement,BPL-NGP,1
+5,3,4,3,False,1.65,30,S&T,Point Machine,Overhaul,HWH-KOL,1
+1,1,5,4,False,5.88,44,Engineering,Bridge,Replacement,BPL-NGP,1
+4,3,2,3,False,2.26,22,Engineering,OHE,Overhaul,DEL-AGR,1
+1,1,1,3,False,4.19,-1,Engineering,Track,Testing,HWH-KOL,0
+5,3,3,4,False,4.23,-14,S&T,OHE,Testing,MUM-PUN,0
+4,3,4,4,False,3.33,8,S&T,Bridge,Replacement,DEL-AGR,1
+5,3,3,2,True,1.76,43,S&T,Point Machine,Inspection,BPL-NGP,0
+3,2,5,2,False,1.28,10,Traction Distribution,Point Machine,Overhaul,HWH-KOL,1
+1,4,5,3,True,3.18,57,Engineering,Point Machine,Repair,MAS-BLR,1
+1,3,4,2,False,3.31,10,Traction Distribution,OHE,Repair,DEL-AGR,0
+2,2,1,2,False,4.75,18,Engineering,Track,Testing,BPL-NGP,0
+4,3,5,2,False,4.4,43,S&T,OHE,Replacement,BPL-NGP,0
+1,1,4,2,False,5.52,32,Engineering,Track,Overhaul,BPL-NGP,0
+5,5,2,3,True,5.84,-11,S&T,Signal,Repair,MUM-PUN,1
+2,4,3,3,False,4.5,-9,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+3,2,5,4,False,0.92,0,Engineering,Bridge,Overhaul,MUM-PUN,0
+2,4,5,2,True,2.73,51,S&T,Signal,Testing,BPL-NGP,1
+3,4,3,5,False,3.85,-13,S&T,Point Machine,Inspection,HWH-KOL,1
+3,4,1,3,False,3.75,-9,S&T,Signal,Replacement,HWH-KOL,1
+1,1,4,4,False,1.5,44,S&T,Signal,Replacement,HWH-KOL,0
+3,5,4,1,False,3.71,32,S&T,Bridge,Replacement,DEL-AGR,0
+4,5,1,1,False,2.42,59,Traction Distribution,Point Machine,Testing,MUM-PUN,1
+5,5,5,3,False,2.36,2,Engineering,Track,Inspection,MUM-PUN,1
+2,5,2,2,False,5.09,35,S&T,Track,Replacement,MAS-BLR,1
+5,5,5,3,False,2.82,-4,S&T,Track,Repair,HWH-KOL,1
+5,4,3,1,False,3.4,30,Traction Distribution,OHE,Testing,DEL-AGR,0
+5,1,2,3,False,3.6,-7,Traction Distribution,Track,Repair,DEL-AGR,0
+2,3,1,4,True,3.6,54,Traction Distribution,OHE,Repair,MAS-BLR,0
+5,2,1,4,False,1.67,17,Engineering,OHE,Inspection,DEL-AGR,1
+3,2,4,2,True,3.8,5,Engineering,Point Machine,Replacement,DEL-AGR,0
+1,5,2,2,True,2.34,59,S&T,Signal,Inspection,MUM-PUN,0
+2,5,5,3,False,4.1,-10,S&T,Track,Replacement,MUM-PUN,1
+4,3,2,3,False,1.3,45,Engineering,Track,Repair,DEL-AGR,0
+1,4,5,4,False,5.97,24,Traction Distribution,Track,Replacement,MAS-BLR,0
+3,1,5,2,False,4.75,37,Traction Distribution,Track,Overhaul,DEL-AGR,0
+4,2,1,4,False,2.79,5,S&T,Signal,Overhaul,BPL-NGP,0
+1,5,4,5,False,2.16,52,Traction Distribution,Bridge,Inspection,MAS-BLR,0
+3,3,5,2,False,2.63,19,S&T,Point Machine,Inspection,BPL-NGP,1
+2,3,2,5,True,4.47,17,S&T,Signal,Repair,DEL-AGR,1
+3,3,1,2,False,4.1,20,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+2,2,5,2,False,4.36,8,Engineering,Point Machine,Testing,MUM-PUN,0
+5,5,3,4,False,5.39,9,Engineering,Point Machine,Inspection,HWH-KOL,1
+1,4,1,4,False,3.01,-4,S&T,Bridge,Inspection,MUM-PUN,0
+5,4,5,3,False,4.18,22,Traction Distribution,Point Machine,Overhaul,BPL-NGP,1
+4,2,4,2,True,2.93,21,S&T,Bridge,Testing,HWH-KOL,1
+5,4,1,1,False,4.01,14,S&T,Signal,Testing,DEL-AGR,0
+5,5,2,5,False,3.11,59,Engineering,Bridge,Replacement,HWH-KOL,1
+1,4,1,5,True,4.77,-6,S&T,Track,Inspection,BPL-NGP,0
+5,3,5,5,True,0.53,54,Engineering,Signal,Replacement,MAS-BLR,1
+3,2,1,3,False,1.69,51,Engineering,Bridge,Replacement,MAS-BLR,0
+5,3,4,5,False,2.13,-13,Traction Distribution,Track,Replacement,DEL-AGR,1
+5,2,3,3,False,5.7,38,S&T,OHE,Replacement,MAS-BLR,1
+3,4,3,1,False,3.29,1,Engineering,Signal,Replacement,HWH-KOL,0
+2,1,5,1,False,2.5,-11,Engineering,Track,Overhaul,BPL-NGP,0
+1,1,5,2,True,2.72,50,S&T,Signal,Inspection,MUM-PUN,0
+1,4,1,2,False,2.99,-6,Engineering,OHE,Inspection,BPL-NGP,0
+2,2,1,5,False,5.27,8,S&T,Point Machine,Inspection,MUM-PUN,0
+5,3,1,2,False,5.79,-7,S&T,Point Machine,Replacement,HWH-KOL,0
+3,3,4,4,False,5.14,-4,Traction Distribution,Track,Replacement,MUM-PUN,1
+3,3,3,2,True,5.13,-10,S&T,Signal,Overhaul,MUM-PUN,1
+2,4,1,4,False,1.59,49,Engineering,Track,Replacement,HWH-KOL,0
+3,2,2,3,False,1.98,-10,S&T,Track,Replacement,MAS-BLR,0
+4,4,3,1,True,3.78,42,S&T,Signal,Testing,BPL-NGP,1
+5,2,4,3,False,4.11,-3,Engineering,Point Machine,Overhaul,BPL-NGP,1
+4,2,2,1,False,1.61,54,Engineering,Signal,Overhaul,MUM-PUN,0
+4,3,5,5,False,4.6,49,Engineering,Track,Repair,HWH-KOL,1
+5,5,5,4,True,1.6,33,Traction Distribution,Signal,Inspection,HWH-KOL,1
+3,2,4,5,True,1.95,48,Engineering,OHE,Testing,BPL-NGP,1
+5,3,3,5,False,2.19,8,Traction Distribution,Signal,Replacement,DEL-AGR,0
+2,1,5,2,False,5.15,44,S&T,Bridge,Inspection,DEL-AGR,0
+1,1,4,4,True,4.53,2,Traction Distribution,OHE,Replacement,HWH-KOL,0
+3,4,3,1,False,3.42,32,Engineering,Bridge,Inspection,MAS-BLR,1
+1,4,3,5,True,5.01,54,S&T,Track,Testing,BPL-NGP,1
+1,2,5,4,True,4.97,40,Engineering,Signal,Replacement,MAS-BLR,1
+5,4,3,4,False,2.64,6,Traction Distribution,Track,Overhaul,MUM-PUN,1
+4,2,1,5,False,4.8,41,S&T,Track,Replacement,MUM-PUN,0
+2,2,5,5,True,1.63,52,Engineering,Bridge,Inspection,BPL-NGP,0
+5,3,1,5,False,3.27,52,Traction Distribution,OHE,Overhaul,DEL-AGR,0
+1,2,4,1,False,1.15,41,Traction Distribution,Point Machine,Overhaul,MAS-BLR,0
+2,5,4,1,False,2.85,40,Traction Distribution,Signal,Repair,BPL-NGP,0
+4,3,3,5,True,3.36,44,Traction Distribution,Track,Overhaul,HWH-KOL,1
+2,2,1,2,True,0.94,41,Engineering,Bridge,Repair,DEL-AGR,1
+4,3,3,3,True,3.04,-4,S&T,Point Machine,Overhaul,MUM-PUN,1
+5,4,5,1,False,4.08,46,Traction Distribution,Point Machine,Overhaul,MAS-BLR,0
+1,2,2,4,False,3.88,-1,S&T,OHE,Inspection,DEL-AGR,0
+1,5,4,5,True,0.8,27,S&T,OHE,Repair,DEL-AGR,0
+5,3,5,5,False,1.02,11,Traction Distribution,OHE,Inspection,MUM-PUN,1
+3,4,5,3,False,2.43,1,S&T,Point Machine,Overhaul,MUM-PUN,1
+3,5,3,4,True,5.13,7,Engineering,Signal,Repair,BPL-NGP,0
+3,3,2,3,True,5.28,-8,Engineering,Signal,Overhaul,DEL-AGR,1
+3,1,4,3,True,2.2,18,Traction Distribution,Signal,Replacement,BPL-NGP,1
+4,4,3,3,True,4.45,17,Engineering,OHE,Inspection,BPL-NGP,1
+3,1,4,5,False,3.68,16,S&T,Bridge,Testing,MUM-PUN,1
+1,3,4,2,True,5.91,-8,S&T,Bridge,Overhaul,HWH-KOL,1
+4,5,4,3,False,1.02,31,S&T,OHE,Repair,BPL-NGP,0
+4,3,2,4,False,3.51,-2,Engineering,Signal,Testing,MAS-BLR,0
+1,4,4,3,False,3.76,50,Engineering,Bridge,Overhaul,BPL-NGP,1
+2,3,3,1,False,2.19,-13,Traction Distribution,Signal,Testing,MAS-BLR,0
+4,2,5,2,False,0.76,-10,Engineering,Signal,Inspection,DEL-AGR,0
+4,2,4,4,False,0.79,8,Engineering,Bridge,Inspection,BPL-NGP,1
+1,3,5,4,False,2.99,16,Traction Distribution,Signal,Inspection,BPL-NGP,0
+1,1,5,4,False,4.31,58,Engineering,OHE,Replacement,MUM-PUN,0
+3,3,5,5,True,4.35,25,S&T,Bridge,Overhaul,MUM-PUN,1
+3,3,4,4,False,1.5,14,Engineering,Signal,Testing,DEL-AGR,0
+5,5,3,3,False,5.22,48,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+3,1,1,2,False,2.57,4,Engineering,Track,Replacement,MAS-BLR,0
+5,5,2,2,False,5.8,53,S&T,Bridge,Overhaul,DEL-AGR,1
+2,3,3,5,False,1.15,16,S&T,OHE,Repair,MUM-PUN,1
+3,4,4,3,False,5.1,9,Traction Distribution,Point Machine,Inspection,HWH-KOL,1
+1,3,3,4,False,5.5,8,Engineering,OHE,Inspection,MAS-BLR,1
+3,2,3,1,False,5.02,-14,S&T,OHE,Inspection,MAS-BLR,0
+1,5,1,1,False,4.95,36,S&T,OHE,Overhaul,MAS-BLR,1
+3,2,4,2,False,2.49,29,Engineering,Track,Replacement,MAS-BLR,0
+2,1,3,1,False,4.42,33,Engineering,Signal,Overhaul,BPL-NGP,0
+1,4,1,4,True,3.69,34,Traction Distribution,Signal,Inspection,MUM-PUN,1
+1,4,2,4,False,2.83,-12,S&T,Signal,Testing,BPL-NGP,0
+3,5,5,3,True,5.96,51,S&T,Signal,Overhaul,HWH-KOL,1
+5,3,1,2,False,2.1,24,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+1,1,3,3,False,2.77,37,S&T,Bridge,Overhaul,HWH-KOL,0
+3,1,3,1,False,5.47,-12,Traction Distribution,Bridge,Repair,BPL-NGP,0
+2,3,1,3,False,2.09,43,Traction Distribution,Bridge,Overhaul,DEL-AGR,0
+5,2,1,1,False,1.34,36,S&T,Point Machine,Overhaul,BPL-NGP,0
+3,5,5,1,False,2.2,13,Engineering,OHE,Inspection,HWH-KOL,0
+5,1,3,1,False,4.68,56,S&T,Point Machine,Inspection,HWH-KOL,0
+2,5,2,1,False,5.23,34,Engineering,Track,Overhaul,BPL-NGP,0
+1,2,1,3,False,1.13,54,Traction Distribution,Bridge,Inspection,HWH-KOL,0
+3,1,3,3,False,3.92,47,Engineering,OHE,Inspection,DEL-AGR,0
+4,2,4,4,False,3.62,1,Traction Distribution,Track,Inspection,MUM-PUN,1
+5,1,4,3,True,4.18,60,S&T,OHE,Overhaul,MAS-BLR,1
+5,3,1,1,False,4.19,41,S&T,Signal,Testing,MAS-BLR,0
+5,2,4,1,False,5.78,0,Engineering,Signal,Replacement,BPL-NGP,1
+4,3,5,4,True,2.41,45,Engineering,Track,Inspection,BPL-NGP,1
+2,3,2,5,False,2.15,18,Traction Distribution,Track,Replacement,MUM-PUN,1
+3,1,1,2,True,3.7,50,Traction Distribution,Signal,Replacement,BPL-NGP,1
+1,1,5,2,False,2.86,-2,Engineering,Signal,Replacement,HWH-KOL,0
+3,1,3,2,True,3.11,5,Engineering,Bridge,Replacement,DEL-AGR,0
+2,1,4,2,False,0.88,12,Engineering,Signal,Replacement,MAS-BLR,0
+1,1,2,2,False,1.32,19,Traction Distribution,Signal,Repair,MAS-BLR,0
+2,2,2,3,False,5.64,33,S&T,Bridge,Testing,DEL-AGR,0
+3,3,2,4,False,0.88,2,Engineering,Bridge,Replacement,HWH-KOL,0
+2,2,2,4,False,3.75,38,Engineering,Track,Repair,BPL-NGP,0
+5,2,3,5,False,4.65,-13,Engineering,Track,Inspection,BPL-NGP,1
+3,3,1,2,False,0.57,10,Traction Distribution,Track,Overhaul,DEL-AGR,0
+5,3,5,3,True,1.73,35,Traction Distribution,OHE,Repair,DEL-AGR,1
+4,2,3,2,True,2.57,5,S&T,OHE,Repair,MAS-BLR,1
+1,2,5,1,False,3.29,18,Traction Distribution,Signal,Replacement,MAS-BLR,0
+2,3,3,2,False,2.38,31,Engineering,Track,Replacement,BPL-NGP,0
+4,1,2,2,False,4.07,4,S&T,Signal,Testing,BPL-NGP,0
+3,3,3,3,False,1.75,58,Engineering,Point Machine,Replacement,BPL-NGP,1
+2,5,1,1,True,0.64,49,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+3,2,5,4,False,0.51,58,S&T,Track,Overhaul,BPL-NGP,1
+5,1,4,5,False,2.4,23,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+2,4,1,5,False,2.49,11,S&T,Point Machine,Inspection,DEL-AGR,0
+1,1,3,1,False,5.72,60,S&T,OHE,Repair,MUM-PUN,0
+2,1,3,1,False,0.75,40,Traction Distribution,Bridge,Overhaul,MUM-PUN,0
+5,1,2,5,True,3.42,45,Traction Distribution,Bridge,Inspection,MUM-PUN,1
+4,5,1,5,False,3.68,-1,S&T,Track,Replacement,HWH-KOL,0
+5,5,4,3,False,4.35,51,S&T,Bridge,Replacement,DEL-AGR,0
+5,3,2,2,False,4.01,25,S&T,Track,Testing,HWH-KOL,1
+1,4,3,3,False,0.54,43,Engineering,OHE,Testing,HWH-KOL,0
+2,4,2,3,False,3.98,47,S&T,Bridge,Inspection,DEL-AGR,1
+1,4,4,5,False,2.27,-7,Traction Distribution,Bridge,Repair,HWH-KOL,1
+1,3,1,3,False,4.75,-7,Traction Distribution,Track,Overhaul,BPL-NGP,0
+5,5,2,1,False,1.54,-10,S&T,Track,Inspection,HWH-KOL,1
+5,4,3,4,False,4.44,34,S&T,Signal,Replacement,DEL-AGR,1
+1,1,3,4,False,3.94,54,Traction Distribution,Signal,Testing,BPL-NGP,0
+4,2,4,2,False,4.09,-12,Engineering,Signal,Testing,HWH-KOL,1
+3,5,1,1,False,1.47,-4,Engineering,OHE,Testing,HWH-KOL,0
+1,3,3,1,False,4.18,22,Engineering,Signal,Inspection,DEL-AGR,0
+5,2,4,5,False,4.55,15,Engineering,OHE,Inspection,DEL-AGR,1
+5,5,2,3,False,3.19,-7,Traction Distribution,Bridge,Inspection,DEL-AGR,1
+3,4,1,3,False,2.37,31,Engineering,OHE,Overhaul,MAS-BLR,1
+4,3,5,5,True,1.42,53,Engineering,Signal,Inspection,MUM-PUN,1
+2,3,4,1,False,2.09,1,S&T,OHE,Replacement,HWH-KOL,0
+4,1,4,2,True,4.7,-14,S&T,Point Machine,Testing,BPL-NGP,1
+3,2,4,5,False,2.75,2,Traction Distribution,Bridge,Replacement,BPL-NGP,0
+5,3,4,3,True,4.36,-1,Traction Distribution,Bridge,Testing,DEL-AGR,1
+1,5,4,1,True,4.57,20,S&T,Signal,Replacement,MAS-BLR,0
+1,2,3,4,False,4.21,-6,Engineering,Bridge,Repair,MUM-PUN,1
+5,1,1,1,False,4.2,13,Engineering,Bridge,Testing,BPL-NGP,1
+2,3,3,4,True,3.86,-6,Traction Distribution,Track,Replacement,MAS-BLR,1
+2,5,2,4,False,3.35,36,S&T,OHE,Inspection,HWH-KOL,1
+4,3,4,5,False,1.59,21,Traction Distribution,Track,Overhaul,DEL-AGR,1
+1,2,3,3,False,5.14,-9,S&T,OHE,Overhaul,HWH-KOL,0
+3,4,5,2,False,5.8,-11,Traction Distribution,Track,Testing,MUM-PUN,1
+2,4,3,5,False,3.07,22,S&T,Signal,Inspection,MAS-BLR,0
+1,2,3,3,False,5.63,30,Traction Distribution,OHE,Inspection,BPL-NGP,0
+5,5,5,4,False,5.99,-1,S&T,Signal,Overhaul,MAS-BLR,1
+1,3,3,1,False,3.17,10,Engineering,Track,Overhaul,MAS-BLR,0
+1,1,2,4,False,4.48,31,Engineering,Signal,Overhaul,DEL-AGR,0
+4,3,2,3,False,4.04,21,Engineering,OHE,Repair,DEL-AGR,0
+5,5,5,2,False,1.8,-6,S&T,Point Machine,Overhaul,BPL-NGP,1
+1,2,4,4,False,0.76,15,Traction Distribution,Track,Replacement,BPL-NGP,0
+4,3,1,1,False,2.99,0,S&T,OHE,Testing,MAS-BLR,0
+3,4,3,4,False,4.83,55,Traction Distribution,Track,Repair,BPL-NGP,0
+5,4,2,5,False,2.29,46,Engineering,Track,Overhaul,MAS-BLR,1
+1,5,4,3,False,4.81,9,S&T,Track,Inspection,MUM-PUN,0
+5,1,1,1,False,4.1,3,S&T,Point Machine,Overhaul,DEL-AGR,0
+4,3,4,3,False,4.33,-4,Engineering,Bridge,Overhaul,DEL-AGR,1
+5,3,4,3,False,2.07,41,S&T,Point Machine,Repair,HWH-KOL,0
+2,1,2,3,False,3.09,54,S&T,Signal,Inspection,DEL-AGR,0
+5,4,1,2,False,1.5,6,S&T,Bridge,Testing,HWH-KOL,0
+4,1,4,4,True,1.86,33,S&T,OHE,Inspection,HWH-KOL,1
+1,3,2,2,False,0.99,3,Engineering,OHE,Replacement,MUM-PUN,0
+5,2,5,3,True,1.2,54,Traction Distribution,Point Machine,Inspection,HWH-KOL,1
+4,1,4,3,False,1.66,8,Engineering,Point Machine,Replacement,BPL-NGP,0
+2,5,5,4,True,3.69,-7,Traction Distribution,OHE,Testing,DEL-AGR,1
+3,2,3,4,False,2.93,52,Traction Distribution,OHE,Replacement,HWH-KOL,0
+2,2,5,5,False,1.97,56,Engineering,Signal,Repair,MAS-BLR,0
+3,5,1,4,True,5.24,15,Engineering,Point Machine,Repair,MUM-PUN,0
+5,5,2,4,False,3.39,54,S&T,Point Machine,Inspection,BPL-NGP,1
+5,1,1,5,False,5.58,4,Traction Distribution,OHE,Replacement,MUM-PUN,1
+2,2,4,2,True,3.99,6,S&T,Point Machine,Inspection,MUM-PUN,1
+5,4,3,2,False,0.59,26,S&T,Track,Repair,MAS-BLR,0
+3,4,2,3,True,5.52,31,Traction Distribution,OHE,Inspection,MUM-PUN,1
+4,5,2,3,True,5.22,14,S&T,Bridge,Repair,MAS-BLR,1
+4,3,4,4,True,3.99,45,Traction Distribution,Point Machine,Inspection,BPL-NGP,1
+3,1,1,1,False,3.44,45,Traction Distribution,Point Machine,Testing,MAS-BLR,0
+3,5,3,1,False,2.99,-5,Engineering,Bridge,Overhaul,MAS-BLR,0
+3,1,4,4,False,3.15,60,S&T,Point Machine,Testing,MAS-BLR,0
+5,1,2,5,False,4.73,-3,Engineering,Point Machine,Overhaul,HWH-KOL,0
+2,4,2,2,False,3.32,25,Engineering,OHE,Replacement,MAS-BLR,0
+2,4,2,2,False,1.47,17,Engineering,Bridge,Inspection,DEL-AGR,0
+2,1,3,3,False,0.82,19,Engineering,Point Machine,Testing,HWH-KOL,0
+1,1,2,3,False,1.19,-5,Engineering,OHE,Testing,MUM-PUN,0
+2,3,2,1,True,1.88,11,Traction Distribution,Track,Replacement,DEL-AGR,1
+1,2,3,3,True,2.52,-12,S&T,Bridge,Repair,MAS-BLR,0
+1,4,1,5,False,5.41,59,S&T,Signal,Repair,MAS-BLR,0
+4,3,3,4,False,1.81,-4,Traction Distribution,Signal,Repair,BPL-NGP,1
+1,3,1,5,True,2.26,22,Traction Distribution,Track,Testing,BPL-NGP,0
+3,3,1,4,False,1.73,2,S&T,Signal,Inspection,BPL-NGP,0
+4,2,2,5,False,3.5,-1,S&T,Track,Overhaul,MUM-PUN,1
+4,2,2,2,False,3.89,15,S&T,Track,Overhaul,BPL-NGP,0
+3,4,1,1,True,3.43,58,S&T,Track,Overhaul,MAS-BLR,0
+1,3,5,1,True,5.74,21,S&T,Signal,Inspection,MUM-PUN,0
+5,3,2,5,False,5.97,58,Engineering,Point Machine,Replacement,MUM-PUN,0
+5,3,5,4,False,5.11,48,Engineering,Bridge,Repair,DEL-AGR,0
+4,2,5,2,False,4.93,18,Engineering,Signal,Replacement,MAS-BLR,1
+1,5,5,5,True,2.51,53,S&T,OHE,Inspection,HWH-KOL,1
+1,3,5,2,False,3.69,12,Traction Distribution,Bridge,Inspection,HWH-KOL,1
+2,4,1,3,True,2.43,23,S&T,Point Machine,Inspection,MUM-PUN,0
+1,5,2,2,False,4.81,37,Engineering,Bridge,Testing,DEL-AGR,0
+5,5,4,1,False,1.45,30,S&T,OHE,Replacement,MAS-BLR,1
+2,4,3,2,False,1.69,48,Traction Distribution,Track,Repair,MAS-BLR,0
+2,4,1,2,False,0.71,-2,S&T,Track,Overhaul,MUM-PUN,0
+5,3,3,3,False,3.85,23,Engineering,Point Machine,Replacement,BPL-NGP,1
+5,4,5,1,True,4.29,35,Engineering,Track,Repair,HWH-KOL,1
+2,2,5,2,False,0.52,10,S&T,OHE,Inspection,BPL-NGP,1
+2,4,2,3,True,3.31,51,Traction Distribution,Signal,Repair,DEL-AGR,0
+3,1,2,2,False,2.57,8,Engineering,Bridge,Overhaul,BPL-NGP,0
+4,5,2,4,False,4.86,8,Traction Distribution,Bridge,Overhaul,DEL-AGR,1
+5,2,2,4,False,0.71,10,Traction Distribution,OHE,Repair,MUM-PUN,0
+5,4,2,5,True,0.77,36,Engineering,OHE,Overhaul,MUM-PUN,1
+5,1,2,5,False,3.91,-6,Engineering,Signal,Overhaul,MUM-PUN,1
+1,1,3,2,False,3.75,-4,Engineering,Point Machine,Testing,MAS-BLR,0
+2,5,1,4,False,5.07,44,S&T,Signal,Replacement,DEL-AGR,0
+3,5,2,4,False,3.76,1,Engineering,Point Machine,Repair,MAS-BLR,1
+1,2,2,3,True,5.72,-7,Traction Distribution,Bridge,Inspection,DEL-AGR,0
+2,1,1,4,False,2.23,5,Engineering,Track,Inspection,MAS-BLR,0
+1,5,5,1,True,2.69,15,S&T,Signal,Inspection,MUM-PUN,0
+5,5,4,2,True,5.88,-12,Traction Distribution,Signal,Replacement,MAS-BLR,1
+1,1,5,5,False,1.09,48,Engineering,Bridge,Repair,HWH-KOL,1
+1,4,3,5,False,4.88,-6,Engineering,Point Machine,Repair,HWH-KOL,0
+1,2,1,1,True,0.56,16,Traction Distribution,Track,Overhaul,DEL-AGR,0
+1,4,5,3,False,3.18,1,Engineering,Signal,Repair,HWH-KOL,1
+3,3,3,2,False,1.34,8,S&T,Point Machine,Testing,HWH-KOL,0
+2,1,4,1,False,3.79,-11,Engineering,Bridge,Inspection,MAS-BLR,1
+5,2,2,1,False,4.89,57,Engineering,OHE,Repair,MUM-PUN,1
+2,3,3,3,False,0.68,56,S&T,Track,Inspection,DEL-AGR,0
+3,4,3,4,True,1.4,-5,S&T,Track,Replacement,MUM-PUN,1
+4,1,2,3,False,2.38,0,S&T,Track,Inspection,MUM-PUN,0
+4,5,3,2,False,1.91,52,Traction Distribution,Track,Repair,MAS-BLR,0
+4,4,4,4,False,2.61,17,Engineering,OHE,Overhaul,DEL-AGR,1
+2,5,1,4,True,5.74,-10,S&T,Signal,Testing,MAS-BLR,1
+3,5,1,5,True,1.06,-4,Engineering,Signal,Replacement,DEL-AGR,1
+5,1,5,2,False,2.83,17,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+5,1,3,2,False,3.01,27,S&T,OHE,Overhaul,HWH-KOL,1
+4,4,5,3,False,2.04,33,Traction Distribution,Point Machine,Overhaul,DEL-AGR,1
+4,1,4,3,False,2.03,-3,Engineering,OHE,Testing,BPL-NGP,1
+5,1,4,3,False,4.43,13,S&T,Signal,Inspection,BPL-NGP,1
+4,3,5,5,False,3.9,5,Engineering,Bridge,Repair,MAS-BLR,1
+5,5,4,1,False,4.97,26,Engineering,OHE,Replacement,DEL-AGR,1
+1,4,2,3,False,2.73,10,Traction Distribution,Bridge,Overhaul,BPL-NGP,0
+2,3,3,3,False,3.84,1,Traction Distribution,Track,Testing,HWH-KOL,0
+1,1,2,2,False,5.41,47,Engineering,Bridge,Inspection,HWH-KOL,0
+1,2,2,4,False,5.18,28,S&T,Point Machine,Repair,MAS-BLR,0
+3,4,4,5,False,5.56,21,Traction Distribution,Signal,Repair,HWH-KOL,1
+2,1,1,3,False,1.98,-4,Engineering,Point Machine,Overhaul,MUM-PUN,1
+3,3,4,1,False,5.92,-9,Traction Distribution,Point Machine,Testing,HWH-KOL,0
+3,1,3,1,False,4.99,45,Engineering,Bridge,Testing,MAS-BLR,1
+4,2,2,3,False,4.87,58,S&T,Signal,Overhaul,MAS-BLR,0
+5,2,1,4,True,4.17,29,Traction Distribution,Bridge,Overhaul,BPL-NGP,1
+5,4,4,2,False,5.91,-12,Traction Distribution,Point Machine,Replacement,DEL-AGR,1
+2,5,5,2,False,2.93,22,Engineering,Signal,Overhaul,MUM-PUN,0
+2,1,4,5,False,4.58,7,Engineering,Signal,Inspection,DEL-AGR,0
+4,4,3,1,False,4.34,-10,Engineering,Signal,Replacement,DEL-AGR,1
+1,4,4,1,True,4.53,-4,S&T,OHE,Repair,MAS-BLR,1
+3,5,3,1,False,4.63,23,Engineering,Bridge,Testing,MAS-BLR,1
+3,5,2,5,False,1.55,18,Traction Distribution,Bridge,Repair,DEL-AGR,1
+1,1,2,3,False,2.42,28,Engineering,Track,Repair,HWH-KOL,0
+4,4,2,1,False,2.66,38,S&T,Track,Replacement,MUM-PUN,1
+2,3,5,2,False,4.61,5,Traction Distribution,Track,Testing,DEL-AGR,0
+1,1,4,5,False,4.44,7,S&T,Point Machine,Testing,MUM-PUN,0
+4,2,1,4,False,5.08,36,S&T,Signal,Replacement,DEL-AGR,0
+1,5,5,2,False,4.84,0,Engineering,Point Machine,Testing,BPL-NGP,0
+4,3,1,2,False,3.78,-9,Traction Distribution,Point Machine,Overhaul,MAS-BLR,0
+1,2,3,1,True,1.27,50,Traction Distribution,Track,Testing,HWH-KOL,0
+3,2,1,4,False,4.0,1,Traction Distribution,Point Machine,Testing,MUM-PUN,1
+5,5,2,1,False,5.38,-5,Engineering,Point Machine,Repair,HWH-KOL,0
+2,2,4,2,False,4.04,41,S&T,Bridge,Replacement,MAS-BLR,0
+4,1,5,2,True,5.43,25,Traction Distribution,Point Machine,Repair,DEL-AGR,1
+4,3,5,4,True,5.99,-3,Traction Distribution,Signal,Repair,BPL-NGP,1
+5,5,5,4,False,2.48,49,S&T,Bridge,Replacement,DEL-AGR,1
+1,1,2,4,False,4.48,4,Traction Distribution,Signal,Inspection,MUM-PUN,0
+4,2,1,2,True,3.47,36,Engineering,Bridge,Repair,HWH-KOL,0
+5,3,5,2,True,3.0,34,Traction Distribution,Signal,Testing,MUM-PUN,1
+4,1,5,2,True,1.82,48,S&T,Bridge,Inspection,DEL-AGR,1
+1,4,2,1,False,1.85,40,Traction Distribution,Point Machine,Overhaul,BPL-NGP,0
+5,2,1,4,False,1.52,38,S&T,OHE,Overhaul,BPL-NGP,0
+1,1,4,3,False,3.97,-11,S&T,Signal,Repair,HWH-KOL,0
+3,2,1,3,True,1.28,56,Traction Distribution,Track,Replacement,HWH-KOL,0
+3,5,1,5,False,2.87,-5,Traction Distribution,Bridge,Testing,DEL-AGR,1
+3,5,5,1,False,3.38,5,Traction Distribution,Bridge,Testing,BPL-NGP,0
+3,3,3,5,True,2.91,19,Engineering,OHE,Testing,MUM-PUN,1
+1,3,1,4,False,5.2,7,S&T,Bridge,Overhaul,MUM-PUN,0
+3,5,4,2,False,2.94,30,Traction Distribution,Point Machine,Testing,MAS-BLR,1
+5,1,2,4,False,0.96,-11,Traction Distribution,Signal,Repair,BPL-NGP,0
+3,4,3,4,False,5.96,20,S&T,Bridge,Overhaul,BPL-NGP,0
+2,4,5,2,False,5.15,12,Traction Distribution,Point Machine,Overhaul,MUM-PUN,0
+5,4,2,2,False,4.13,34,S&T,OHE,Testing,HWH-KOL,0
+1,2,4,5,False,4.66,24,Engineering,Track,Repair,DEL-AGR,0
+3,4,5,1,False,1.21,42,Traction Distribution,Point Machine,Testing,MUM-PUN,0
+3,4,3,1,True,4.71,-2,S&T,Signal,Replacement,MAS-BLR,1
+3,5,5,4,False,1.64,57,S&T,Signal,Inspection,HWH-KOL,1
+5,1,3,5,False,3.19,15,Engineering,Point Machine,Overhaul,BPL-NGP,1
+3,4,3,3,False,1.48,12,Engineering,Bridge,Testing,BPL-NGP,0
+5,5,5,1,False,4.65,27,S&T,Track,Replacement,MAS-BLR,1
+1,2,4,3,False,1.85,-2,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+4,4,5,2,False,1.89,47,Engineering,Signal,Testing,HWH-KOL,1
+3,1,4,5,True,1.1,5,Traction Distribution,OHE,Testing,MAS-BLR,1
+2,4,4,4,False,4.46,55,Traction Distribution,Bridge,Replacement,DEL-AGR,0
+2,4,2,2,False,2.13,-3,S&T,Signal,Overhaul,MAS-BLR,0
+4,1,2,4,False,3.35,50,Traction Distribution,Signal,Overhaul,HWH-KOL,0
+4,1,5,4,False,2.33,15,Traction Distribution,Bridge,Overhaul,MUM-PUN,1
+4,4,4,4,False,4.76,31,Traction Distribution,Signal,Overhaul,BPL-NGP,1
+1,2,2,2,False,1.75,51,Traction Distribution,Bridge,Repair,MAS-BLR,0
+3,3,2,3,False,5.67,-5,Traction Distribution,Signal,Repair,DEL-AGR,0
+5,1,4,1,True,2.27,12,Traction Distribution,Point Machine,Inspection,BPL-NGP,1
+1,5,1,3,False,1.07,57,Engineering,OHE,Testing,MAS-BLR,0
+3,3,1,2,True,1.82,-3,S&T,Bridge,Repair,BPL-NGP,0
+3,5,4,3,True,0.91,-7,Traction Distribution,OHE,Overhaul,HWH-KOL,1
+5,1,2,5,False,3.08,25,S&T,OHE,Overhaul,DEL-AGR,0
+2,2,4,5,False,1.88,-13,Engineering,OHE,Overhaul,HWH-KOL,0
+3,4,3,3,False,5.37,60,Traction Distribution,Signal,Testing,MAS-BLR,0
+4,4,5,4,False,3.34,53,S&T,OHE,Testing,BPL-NGP,1
+1,4,3,1,False,1.78,0,Traction Distribution,OHE,Inspection,HWH-KOL,1
+5,5,5,3,False,2.98,-2,Engineering,Point Machine,Testing,MUM-PUN,1
+5,5,5,4,False,1.58,44,Engineering,Track,Repair,MAS-BLR,1
+4,1,2,4,False,1.48,25,S&T,OHE,Overhaul,MAS-BLR,1
+4,2,5,5,False,2.15,47,Engineering,OHE,Overhaul,MUM-PUN,0
+4,5,4,3,False,1.1,58,S&T,Point Machine,Inspection,MAS-BLR,1
+4,3,1,5,False,1.54,16,S&T,Point Machine,Repair,MUM-PUN,1
+5,5,1,5,True,5.66,5,Engineering,OHE,Testing,MAS-BLR,1
+3,3,2,3,False,4.17,32,Traction Distribution,Track,Inspection,MAS-BLR,0
+3,1,1,1,False,5.57,33,Engineering,Signal,Repair,BPL-NGP,0
+4,3,2,2,True,1.91,18,Traction Distribution,Signal,Inspection,HWH-KOL,1
+1,5,5,4,True,5.21,8,Engineering,Signal,Inspection,MUM-PUN,1
+5,4,3,3,False,2.49,5,S&T,Point Machine,Overhaul,DEL-AGR,0
+4,1,1,5,False,1.29,25,Traction Distribution,OHE,Testing,DEL-AGR,0
+4,2,3,5,False,4.93,17,Engineering,Point Machine,Replacement,MAS-BLR,0
+2,5,2,1,False,0.83,20,Traction Distribution,Track,Repair,BPL-NGP,0
+2,5,5,5,False,2.73,-7,Engineering,Bridge,Testing,MUM-PUN,0
+3,4,1,2,False,5.01,52,Traction Distribution,OHE,Repair,HWH-KOL,0
+4,1,4,5,False,3.89,39,Traction Distribution,Signal,Repair,MAS-BLR,1

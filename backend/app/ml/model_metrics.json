@@ -1,0 +1,11 @@
+{
+  "training_samples": 3000,
+  "evaluation_metrics": {
+    "accuracy": 0.685,
+    "precision": 0.6216,
+    "recall": 0.6389,
+    "f1": 0.6301,
+    "roc_auc": 0.7409
+  },
+  "seed": 42
+}

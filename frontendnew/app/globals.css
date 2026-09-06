@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+:root {
+  --page: #eef2f7;
+  --surface: #ffffff;
+  --surface-soft: #e7ecf2;
+  --text: #0f172a;
+  --muted: #64748b;
+  --railway-red: #d71920;
+  --railway-red-dark: #b91c1c;
+  --shadow-dark: rgba(163, 177, 198, 0.55);
+  --shadow-light: rgba(255, 255, 255, 0.95);
+}
+
+html, body { min-height: 100%; }
+body { background: var(--page); color: var(--text); }
+
+/* Soft neumorphic railway-control-room background. */
+.rail-bg {
+  background-color: var(--page);
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(255,255,255,.95), transparent 28%),
+    radial-gradient(circle at 90% 85%, rgba(210,219,232,.7), transparent 30%);
+}
+
+/* Neumorphism: raised surfaces. */
+[class*="bg-white"][class*="rounded-xl"],
+[class*="bg-white"][class*="rounded-2xl"],
+[class*="bg-white"][class*="rounded-lg"] {
+  box-shadow: 8px 8px 18px var(--shadow-dark), -8px -8px 18px var(--shadow-light);
+}
+
+/* Give major panels a quieter inset edge. */
+.neo-inset {
+  box-shadow: inset 4px 4px 10px rgba(163,177,198,.35), inset -4px -4px 10px rgba(255,255,255,.9);
+}
+
+/* Soft inputs and controls. */
+input, select, textarea {
+  background-color: #f3f6fa !important;
+  color: var(--text) !important;
+  border-color: #d8dee7 !important;
+  box-shadow: inset 3px 3px 7px rgba(163,177,198,.28), inset -3px -3px 7px rgba(255,255,255,.9);
+}
+
+button:not(:disabled) { transition: transform .15s ease, box-shadow .15s ease, background-color .15s ease; }
+button:not(:disabled):active { transform: translateY(1px); }
+
+/* Red primary controls retain railway identity while getting a soft lift. */
+[class*="bg-red-600"], [class*="bg-red-700"] {
+  box-shadow: 5px 5px 12px rgba(163,177,198,.45), -4px -4px 10px rgba(255,255,255,.75);
+}
+
+/* Sidebar / header polish */
+.prototype-badge {
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  z-index: 50;
+  background: rgba(255,255,255,.82);
+  color: #8a4b08;
+  border: 1px solid #e8d7b7;
+  box-shadow: 5px 5px 12px rgba(163,177,198,.4), -4px -4px 10px rgba(255,255,255,.9);
+  font-size: .68rem;
+  font-weight: 700;
+  padding: 5px 11px;
+  border-radius: 9999px;
+  backdrop-filter: blur(8px);
+}
+
+.kpi-card {
+  background: var(--surface);
+  border: 1px solid #e1e7ef;
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: 8px 8px 18px var(--shadow-dark), -8px -8px 18px var(--shadow-light);
+}
+
+.section-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #edf1f6;
+  color: #64748b;
+  font-size: .75rem;
+  padding: 3px 10px;
+  border-radius: 9999px;
+  border: 1px solid #dce3ec;
+  box-shadow: inset 2px 2px 5px rgba(163,177,198,.2), inset -2px -2px 5px rgba(255,255,255,.8);
+  margin-bottom: .75rem;
+}
+
+@keyframes pulse-red { 0%,100% { opacity: 1; } 50% { opacity: .5; } }
+.pulse-red { animation: pulse-red 1.5s infinite; }
+
+::-webkit-scrollbar { width: 7px; height: 7px; }
+::-webkit-scrollbar-track { background: #e8edf3; }
+::-webkit-scrollbar-thumb { background: #c4ccd7; border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #aeb8c6; }
+
+/* Tables read like physical control sheets. */
+table tbody tr { border-color: #e4e9f0 !important; }
+table tbody tr:hover { background: #f7f9fb !important; }
+
+/* Links and compact controls. */
+a { transition: color .15s ease, background-color .15s ease; }
